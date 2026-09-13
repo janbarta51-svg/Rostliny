@@ -1,0 +1,45 @@
+{
+  "id": "onobrychis-viciifolia",
+  "czech": "vičenec ligrus",
+  "latin": "Onobrychis viciifolia",
+  "aliases": [],
+  "genus": "Onobrychis",
+  "family": "Fabaceae",
+  "family_czech": "Bobovité",
+  "group": "Krytosemenné – dvouděložné",
+  "rank": "druh",
+  "notes": "",
+  "colors": [],
+  "months": [],
+  "color_detail": "",
+  "flowering_detail": "",
+  "nonflowering": false,
+  "trait_source": "",
+  "sources": [],
+  "images": [
+    {
+      "path": "images/photo-0339.jpg",
+      "thumb": "images/thumb-0339.jpg"
+    },
+    {
+      "path": "images/photo-0340.jpg",
+      "thumb": "images/thumb-0340.jpg"
+    },
+    {
+      "path": "images/photo-0341.jpg",
+      "thumb": "images/thumb-0341.jpg"
+    },
+    {
+      "path": "images/photo-0342.jpg",
+      "thumb": "images/thumb-0342.jpg"
+    },
+    {
+      "path": "images/photo-0343.jpg",
+      "thumb": "images/thumb-0343.jpg"
+    },
+    {
+      "path": "images/photo-0344.jpg",
+      "thumb": "images/thumb-0344.jpg"
+    }
+  ]
+}

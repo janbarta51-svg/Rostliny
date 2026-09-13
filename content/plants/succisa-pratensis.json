@@ -1,0 +1,42 @@
+{
+  "id": "succisa-pratensis",
+  "czech": "čertkus luční",
+  "latin": "Succisa pratensis",
+  "aliases": [],
+  "genus": "Succisa",
+  "family": "Dipsacaceae",
+  "family_czech": "štětkovité",
+  "group": "Krytosemenné – dvouděložné",
+  "rank": "druh",
+  "notes": "bezkolencové louky, kvete od půlky července",
+  "colors": [
+    "modrá",
+    "fialová"
+  ],
+  "months": [
+    7,
+    8,
+    9
+  ],
+  "color_detail": "modrofialová",
+  "flowering_detail": "červenec–září",
+  "nonflowering": false,
+  "trait_source": "https://pladias.cz/taxon/data/Succisa%20pratensis",
+  "sources": [
+    "https://pladias.cz/taxon/data/Succisa%20pratensis"
+  ],
+  "images": [
+    {
+      "path": "images/photo-0897.jpg",
+      "thumb": "images/thumb-0897.jpg"
+    },
+    {
+      "path": "images/photo-0898.jpg",
+      "thumb": "images/thumb-0898.jpg"
+    },
+    {
+      "path": "images/photo-0899.jpg",
+      "thumb": "images/thumb-0899.jpg"
+    }
+  ]
+}

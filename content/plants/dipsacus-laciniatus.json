@@ -1,0 +1,35 @@
+{
+  "id": "dipsacus-laciniatus",
+  "czech": "štětka laločnatá",
+  "latin": "Dipsacus laciniatus",
+  "aliases": [],
+  "genus": "Dipsacus",
+  "family": "Dipsacaceae",
+  "family_czech": "štětkovité",
+  "group": "Krytosemenné – dvouděložné",
+  "rank": "druh",
+  "notes": "Nažloutlé květy",
+  "colors": [
+    "bílá",
+    "růžová",
+    "fialová"
+  ],
+  "months": [
+    7,
+    8,
+    9
+  ],
+  "color_detail": "bílá, růžovofialová",
+  "flowering_detail": "červenec–září",
+  "nonflowering": false,
+  "trait_source": "https://pladias.cz/taxon/data/Dipsacus%20laciniatus",
+  "sources": [
+    "https://pladias.cz/taxon/data/Dipsacus%20laciniatus"
+  ],
+  "images": [
+    {
+      "path": "images/photo-0895.jpg",
+      "thumb": "images/thumb-0895.jpg"
+    }
+  ]
+}

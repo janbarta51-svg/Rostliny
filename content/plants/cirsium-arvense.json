@@ -1,0 +1,33 @@
+{
+  "id": "cirsium-arvense",
+  "czech": "pcháč oset",
+  "latin": "Cirsium arvense",
+  "aliases": [],
+  "genus": "Cirsium",
+  "family": "Asteraceae",
+  "family_czech": "Hvězdnicovité",
+  "group": "Krytosemenné – dvouděložné",
+  "rank": "druh",
+  "notes": "",
+  "colors": [],
+  "months": [],
+  "color_detail": "",
+  "flowering_detail": "",
+  "nonflowering": false,
+  "trait_source": "",
+  "sources": [],
+  "images": [
+    {
+      "path": "images/photo-0486.jpg",
+      "thumb": "images/thumb-0486.jpg"
+    },
+    {
+      "path": "images/photo-0487.jpg",
+      "thumb": "images/thumb-0487.jpg"
+    },
+    {
+      "path": "images/photo-0488.jpg",
+      "thumb": "images/thumb-0488.jpg"
+    }
+  ]
+}

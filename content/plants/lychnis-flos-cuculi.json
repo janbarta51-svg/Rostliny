@@ -1,0 +1,33 @@
+{
+  "id": "lychnis-flos-cuculi",
+  "czech": "kohoutek luční",
+  "latin": "Lychnis flos-cuculi",
+  "aliases": [],
+  "genus": "Lychnis",
+  "family": "Caryophyllaceae",
+  "family_czech": "Hvozdíkovité",
+  "group": "Krytosemenné – dvouděložné",
+  "rank": "druh",
+  "notes": "",
+  "colors": [],
+  "months": [],
+  "color_detail": "",
+  "flowering_detail": "",
+  "nonflowering": false,
+  "trait_source": "",
+  "sources": [],
+  "images": [
+    {
+      "path": "images/photo-0647.jpg",
+      "thumb": "images/thumb-0647.jpg"
+    },
+    {
+      "path": "images/photo-0648.jpg",
+      "thumb": "images/thumb-0648.jpg"
+    },
+    {
+      "path": "images/photo-0649.jpg",
+      "thumb": "images/thumb-0649.jpg"
+    }
+  ]
+}

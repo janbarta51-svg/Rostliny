@@ -1,0 +1,29 @@
+{
+  "id": "trifolium-alpestre",
+  "czech": "jetel alpínský",
+  "latin": "Trifolium alpestre",
+  "aliases": [],
+  "genus": "Trifolium",
+  "family": "Fabaceae",
+  "family_czech": "Bobovité",
+  "group": "Krytosemenné – dvouděložné",
+  "rank": "druh",
+  "notes": "",
+  "colors": [],
+  "months": [],
+  "color_detail": "",
+  "flowering_detail": "",
+  "nonflowering": false,
+  "trait_source": "",
+  "sources": [],
+  "images": [
+    {
+      "path": "images/photo-0367.jpg",
+      "thumb": "images/thumb-0367.jpg"
+    },
+    {
+      "path": "images/photo-0368.jpg",
+      "thumb": "images/thumb-0368.jpg"
+    }
+  ]
+}

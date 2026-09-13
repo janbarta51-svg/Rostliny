@@ -1,0 +1,37 @@
+{
+  "id": "arrhenatherum-elatius",
+  "czech": "ovsík vyvýšený",
+  "latin": "Arrhenatherum elatius",
+  "aliases": [],
+  "genus": "Arrhenatherum",
+  "family": "Poaceae",
+  "family_czech": "Lipnicovité",
+  "group": "Krytosemenné – jednoděložné",
+  "rank": "druh",
+  "notes": "",
+  "colors": [],
+  "months": [],
+  "color_detail": "",
+  "flowering_detail": "",
+  "nonflowering": false,
+  "trait_source": "",
+  "sources": [],
+  "images": [
+    {
+      "path": "images/photo-0039.jpg",
+      "thumb": "images/thumb-0039.jpg"
+    },
+    {
+      "path": "images/photo-0040.jpg",
+      "thumb": "images/thumb-0040.jpg"
+    },
+    {
+      "path": "images/photo-0041.jpg",
+      "thumb": "images/thumb-0041.jpg"
+    },
+    {
+      "path": "images/photo-0042.jpg",
+      "thumb": "images/thumb-0042.jpg"
+    }
+  ]
+}

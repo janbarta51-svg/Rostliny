@@ -1,0 +1,29 @@
+{
+  "id": "festuca-gigantea",
+  "czech": "kostřava obrovská",
+  "latin": "Festuca gigantea",
+  "aliases": [],
+  "genus": "Festuca",
+  "family": "Poaceae",
+  "family_czech": "Lipnicovité",
+  "group": "Krytosemenné – jednoděložné",
+  "rank": "druh",
+  "notes": "ouška střídavá, osinky přes sebe",
+  "colors": [],
+  "months": [],
+  "color_detail": "",
+  "flowering_detail": "",
+  "nonflowering": false,
+  "trait_source": "",
+  "sources": [],
+  "images": [
+    {
+      "path": "images/photo-0068.jpg",
+      "thumb": "images/thumb-0068.jpg"
+    },
+    {
+      "path": "images/photo-0069.jpg",
+      "thumb": "images/thumb-0069.jpg"
+    }
+  ]
+}

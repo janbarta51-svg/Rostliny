@@ -1,0 +1,33 @@
+{
+  "id": "ranunculus-sceleratus",
+  "czech": "pryskyřník lítý",
+  "latin": "Ranunculus sceleratus",
+  "aliases": [],
+  "genus": "Ranunculus",
+  "family": "Ranunculaceae",
+  "family_czech": "Pryskyřníkovité",
+  "group": "Krytosemenné – dvouděložné",
+  "rank": "druh",
+  "notes": "malá kvítka",
+  "colors": [],
+  "months": [],
+  "color_detail": "",
+  "flowering_detail": "",
+  "nonflowering": false,
+  "trait_source": "",
+  "sources": [],
+  "images": [
+    {
+      "path": "images/photo-0778.jpg",
+      "thumb": "images/thumb-0778.jpg"
+    },
+    {
+      "path": "images/photo-0779.jpg",
+      "thumb": "images/thumb-0779.jpg"
+    },
+    {
+      "path": "images/photo-0780.jpg",
+      "thumb": "images/thumb-0780.jpg"
+    }
+  ]
+}

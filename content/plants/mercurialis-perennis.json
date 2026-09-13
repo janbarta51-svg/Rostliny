@@ -1,0 +1,37 @@
+{
+  "id": "mercurialis-perennis",
+  "czech": "bažanka vytrvalá",
+  "latin": "Mercurialis perennis",
+  "aliases": [],
+  "genus": "Mercurialis",
+  "family": "Euphorbiaceae",
+  "family_czech": "Pryšcovité",
+  "group": "Krytosemenné – dvouděložné",
+  "rank": "druh",
+  "notes": "",
+  "colors": [],
+  "months": [],
+  "color_detail": "",
+  "flowering_detail": "",
+  "nonflowering": false,
+  "trait_source": "",
+  "sources": [],
+  "images": [
+    {
+      "path": "images/photo-0797.jpg",
+      "thumb": "images/thumb-0797.jpg"
+    },
+    {
+      "path": "images/photo-0798.jpg",
+      "thumb": "images/thumb-0798.jpg"
+    },
+    {
+      "path": "images/photo-0799.jpg",
+      "thumb": "images/thumb-0799.jpg"
+    },
+    {
+      "path": "images/photo-0800.jpg",
+      "thumb": "images/thumb-0800.jpg"
+    }
+  ]
+}

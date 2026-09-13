@@ -1,0 +1,33 @@
+{
+  "id": "allium-angulosum",
+  "czech": "česnek hranatý",
+  "latin": "Allium angulosum",
+  "aliases": [],
+  "genus": "Allium",
+  "family": "Amaryllidaceae",
+  "family_czech": "Amarylkovité",
+  "group": "Krytosemenné – jednoděložné",
+  "rank": "druh",
+  "notes": "C3, NT",
+  "colors": [],
+  "months": [],
+  "color_detail": "",
+  "flowering_detail": "",
+  "nonflowering": false,
+  "trait_source": "",
+  "sources": [],
+  "images": [
+    {
+      "path": "images/photo-0011.jpg",
+      "thumb": "images/thumb-0011.jpg"
+    },
+    {
+      "path": "images/photo-0012.jpg",
+      "thumb": "images/thumb-0012.jpg"
+    },
+    {
+      "path": "images/photo-0013.jpg",
+      "thumb": "images/thumb-0013.jpg"
+    }
+  ]
+}

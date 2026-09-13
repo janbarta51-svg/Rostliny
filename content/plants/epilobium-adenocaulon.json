@@ -1,0 +1,33 @@
+{
+  "id": "epilobium-adenocaulon",
+  "czech": "vrbovka žláznatá",
+  "latin": "Epilobium adenocaulon",
+  "aliases": [],
+  "genus": "Epilobium",
+  "family": "Onagraceae",
+  "family_czech": "Pupalkovité",
+  "group": "Krytosemenné – dvouděložné",
+  "rank": "druh",
+  "notes": "",
+  "colors": [],
+  "months": [],
+  "color_detail": "",
+  "flowering_detail": "",
+  "nonflowering": false,
+  "trait_source": "",
+  "sources": [],
+  "images": [
+    {
+      "path": "images/photo-0806.jpg",
+      "thumb": "images/thumb-0806.jpg"
+    },
+    {
+      "path": "images/photo-0807.jpg",
+      "thumb": "images/thumb-0807.jpg"
+    },
+    {
+      "path": "images/photo-0808.jpg",
+      "thumb": "images/thumb-0808.jpg"
+    }
+  ]
+}

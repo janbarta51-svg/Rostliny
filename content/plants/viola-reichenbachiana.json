@@ -1,0 +1,37 @@
+{
+  "id": "viola-reichenbachiana",
+  "czech": "violka lesní",
+  "latin": "Viola reichenbachiana",
+  "aliases": [],
+  "genus": "Viola",
+  "family": "Violaceae",
+  "family_czech": "Violkovité",
+  "group": "Krytosemenné – dvouděložné",
+  "rank": "druh",
+  "notes": "protáhlejší list",
+  "colors": [],
+  "months": [],
+  "color_detail": "",
+  "flowering_detail": "",
+  "nonflowering": false,
+  "trait_source": "",
+  "sources": [],
+  "images": [
+    {
+      "path": "images/photo-0885.jpg",
+      "thumb": "images/thumb-0885.jpg"
+    },
+    {
+      "path": "images/photo-0886.jpg",
+      "thumb": "images/thumb-0886.jpg"
+    },
+    {
+      "path": "images/photo-0887.jpg",
+      "thumb": "images/thumb-0887.jpg"
+    },
+    {
+      "path": "images/photo-0888.jpg",
+      "thumb": "images/thumb-0888.jpg"
+    }
+  ]
+}

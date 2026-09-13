@@ -1,0 +1,33 @@
+{
+  "id": "campanula-persicifolia",
+  "czech": "zvonek broskvolistý",
+  "latin": "Campanula persicifolia",
+  "aliases": [],
+  "genus": "Campanula",
+  "family": "Campanulaceae",
+  "family_czech": "Zvonkovité",
+  "group": "Krytosemenné – dvouděložné",
+  "rank": "druh",
+  "notes": "",
+  "colors": [],
+  "months": [],
+  "color_detail": "",
+  "flowering_detail": "",
+  "nonflowering": false,
+  "trait_source": "",
+  "sources": [],
+  "images": [
+    {
+      "path": "images/photo-0904.jpg",
+      "thumb": "images/thumb-0904.jpg"
+    },
+    {
+      "path": "images/photo-0905.jpg",
+      "thumb": "images/thumb-0905.jpg"
+    },
+    {
+      "path": "images/photo-0906.jpg",
+      "thumb": "images/thumb-0906.jpg"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "gnaphalium-uliginosum",
+  "czech": "protěž bažinná",
+  "latin": "Gnaphalium uliginosum",
+  "aliases": [],
+  "genus": "Gnaphalium",
+  "family": "Asteraceae",
+  "family_czech": "Hvězdnicovité",
+  "group": "Krytosemenné – dvouděložné",
+  "rank": "druh",
+  "notes": "",
+  "colors": [],
+  "months": [],
+  "color_detail": "",
+  "flowering_detail": "",
+  "nonflowering": false,
+  "trait_source": "",
+  "sources": [],
+  "images": [
+    {
+      "path": "images/photo-0629.jpg",
+      "thumb": "images/thumb-0629.jpg"
+    },
+    {
+      "path": "images/photo-0630.jpg",
+      "thumb": "images/thumb-0630.jpg"
+    }
+  ]
+}

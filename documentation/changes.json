@@ -1,0 +1,143 @@
+[
+  {
+    "plant": "Bromus erectus",
+    "field": "czech",
+    "old": "sveřep vzpřímených",
+    "new": "sveřep vzpřímený",
+    "source": "https://pladias.cz/taxon/data/Bromus%20erectus"
+  },
+  {
+    "plant": "Melica nutans",
+    "field": "duplicate",
+    "new": "Sloučeny poznámky a fotografie",
+    "source": "Původní dokument"
+  },
+  {
+    "plant": "Carex pallescens",
+    "field": "duplicate",
+    "new": "Sloučeny poznámky a fotografie",
+    "source": "Původní dokument"
+  },
+  {
+    "plant": "Trifolium montanum",
+    "field": "czech",
+    "old": "horský",
+    "new": "jetel horský",
+    "source": "https://pladias.cz/taxon/data/Trifolium%20montanum"
+  },
+  {
+    "plant": "Trifolium aureum",
+    "field": "duplicate",
+    "new": "Sloučeny poznámky a fotografie",
+    "source": "Původní dokument"
+  },
+  {
+    "plant": "Salvia pratensis",
+    "field": "family",
+    "old": "Gentianaceae",
+    "new": "Lamiaceae",
+    "source": "https://pladias.cz/taxon/data/Salvia%20pratensis"
+  },
+  {
+    "plant": "Salvia officinalis",
+    "field": "family",
+    "old": "Gentianaceae",
+    "new": "Lamiaceae",
+    "source": "https://pladias.cz/taxon/data/Salvia%20pratensis"
+  },
+  {
+    "plant": "Salvia nemorosa",
+    "field": "family",
+    "old": "Gentianaceae",
+    "new": "Lamiaceae",
+    "source": "https://pladias.cz/taxon/data/Salvia%20pratensis"
+  },
+  {
+    "plant": "Salvia austriaca",
+    "field": "family",
+    "old": "Gentianaceae",
+    "new": "Lamiaceae",
+    "source": "https://pladias.cz/taxon/data/Salvia%20pratensis"
+  },
+  {
+    "plant": "Ambrosia artemisiifolia",
+    "field": "duplicate",
+    "new": "Sloučeny poznámky a fotografie",
+    "source": "Původní dokument"
+  },
+  {
+    "plant": "Symphyotrichum lanceolatum",
+    "field": "duplicate",
+    "new": "Sloučeny poznámky a fotografie",
+    "source": "Původní dokument"
+  },
+  {
+    "plant": "Lycopus europaeus",
+    "field": "family",
+    "old": null,
+    "new": "Lamiaceae",
+    "source": "https://pladias.cz/taxon/data/Lycopus%20europaeus"
+  },
+  {
+    "plant": "Linaria vulgaris",
+    "field": "family",
+    "old": null,
+    "new": "Plantaginaceae",
+    "source": "https://pladias.cz/taxon/data/Linaria%20vulgaris"
+  },
+  {
+    "plant": "Lindernia dubia",
+    "field": "family",
+    "old": null,
+    "new": "Linderniaceae",
+    "source": "https://pladias.cz/taxon/data/Lindernia%20dubia"
+  },
+  {
+    "plant": "Scirpus sylvaticus",
+    "field": "image_assignment",
+    "image": 191,
+    "old": "Schoenoplectus lacustris",
+    "new": "Scirpus sylvaticus",
+    "source": "Vizuální kontrola původního dokumentu, vykreslená strana 66"
+  },
+  {
+    "plant": "Cytisus scoparius",
+    "field": "image_assignment",
+    "image": 249,
+    "old": "Galega officinalis",
+    "new": "Cytisus scoparius",
+    "source": "Vizuální kontrola původního dokumentu, vykreslená strana 85"
+  },
+  {
+    "plant": "Vicia cracca",
+    "field": "image_assignment",
+    "image": 397,
+    "old": "Vicia angustifolia",
+    "new": "Vicia cracca",
+    "source": "Vizuální kontrola původního dokumentu, vykreslená strana 126"
+  },
+  {
+    "plant": "Cirsium oleraceum",
+    "field": "image_assignment",
+    "image": 494,
+    "old": "Cirsium palustre",
+    "new": "Cirsium oleraceum",
+    "source": "Vizuální kontrola původního dokumentu, vykreslená strana 160"
+  },
+  {
+    "plant": "Sherardia arvensis",
+    "field": "image_assignment",
+    "image": 753,
+    "old": "Galium rivale",
+    "new": "Sherardia arvensis",
+    "source": "Vizuální kontrola původního dokumentu, vykreslená strana 252"
+  },
+  {
+    "plant": "Sherardia arvensis",
+    "field": "image_assignment",
+    "image": 754,
+    "old": "Galium rivale",
+    "new": "Sherardia arvensis",
+    "source": "Vizuální kontrola původního dokumentu, vykreslená strana 252"
+  }
+]

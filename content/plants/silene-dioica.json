@@ -1,0 +1,39 @@
+{
+  "id": "silene-dioica",
+  "czech": "silenka dvoudomá",
+  "latin": "Silene dioica",
+  "aliases": [
+    "knotovka červená"
+  ],
+  "genus": "Silene",
+  "family": "Caryophyllaceae",
+  "family_czech": "Hvozdíkovité",
+  "group": "Krytosemenné – dvouděložné",
+  "rank": "druh",
+  "notes": "hory, tmavě červená, růžová",
+  "colors": [],
+  "months": [],
+  "color_detail": "",
+  "flowering_detail": "",
+  "nonflowering": false,
+  "trait_source": "",
+  "sources": [],
+  "images": [
+    {
+      "path": "images/photo-0661.jpg",
+      "thumb": "images/thumb-0661.jpg"
+    },
+    {
+      "path": "images/photo-0662.jpg",
+      "thumb": "images/thumb-0662.jpg"
+    },
+    {
+      "path": "images/photo-0663.jpg",
+      "thumb": "images/thumb-0663.jpg"
+    },
+    {
+      "path": "images/photo-0664.jpg",
+      "thumb": "images/thumb-0664.jpg"
+    }
+  ]
+}

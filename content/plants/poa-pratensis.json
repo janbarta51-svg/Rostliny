@@ -1,0 +1,37 @@
+{
+  "id": "poa-pratensis",
+  "czech": "lipnice luční",
+  "latin": "Poa pratensis",
+  "aliases": [],
+  "genus": "Poa",
+  "family": "Poaceae",
+  "family_czech": "Lipnicovité",
+  "group": "Krytosemenné – jednoděložné",
+  "rank": "druh",
+  "notes": "jazýček bílý a kratší, kapkovitý konec listu",
+  "colors": [],
+  "months": [],
+  "color_detail": "",
+  "flowering_detail": "",
+  "nonflowering": false,
+  "trait_source": "",
+  "sources": [],
+  "images": [
+    {
+      "path": "images/photo-0098.jpg",
+      "thumb": "images/thumb-0098.jpg"
+    },
+    {
+      "path": "images/photo-0099.jpg",
+      "thumb": "images/thumb-0099.jpg"
+    },
+    {
+      "path": "images/photo-0100.jpg",
+      "thumb": "images/thumb-0100.jpg"
+    },
+    {
+      "path": "images/photo-0101.jpg",
+      "thumb": "images/thumb-0101.jpg"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "poa-palustris",
+  "czech": "lipnice bahenní",
+  "latin": "Poa palustris",
+  "aliases": [],
+  "genus": "Poa",
+  "family": "Poaceae",
+  "family_czech": "Lipnicovité",
+  "group": "Krytosemenné – jednoděložné",
+  "rank": "druh",
+  "notes": "špičatý jazýček a nemá drsné stéblo, tmavě zelená",
+  "colors": [],
+  "months": [],
+  "color_detail": "",
+  "flowering_detail": "",
+  "nonflowering": false,
+  "trait_source": "",
+  "sources": [],
+  "images": [
+    {
+      "path": "images/photo-0105.jpg",
+      "thumb": "images/thumb-0105.jpg"
+    },
+    {
+      "path": "images/photo-0106.jpg",
+      "thumb": "images/thumb-0106.jpg"
+    }
+  ]
+}

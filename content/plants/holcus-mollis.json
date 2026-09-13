@@ -1,0 +1,29 @@
+{
+  "id": "holcus-mollis",
+  "czech": "medyněk měkký",
+  "latin": "Holcus mollis",
+  "aliases": [],
+  "genus": "Holcus",
+  "family": "Poaceae",
+  "family_czech": "Lipnicovité",
+  "group": "Krytosemenné – jednoděložné",
+  "rank": "druh",
+  "notes": "",
+  "colors": [],
+  "months": [],
+  "color_detail": "",
+  "flowering_detail": "",
+  "nonflowering": false,
+  "trait_source": "",
+  "sources": [],
+  "images": [
+    {
+      "path": "images/photo-0072.jpg",
+      "thumb": "images/thumb-0072.jpg"
+    },
+    {
+      "path": "images/photo-0073.jpg",
+      "thumb": "images/thumb-0073.jpg"
+    }
+  ]
+}

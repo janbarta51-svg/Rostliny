@@ -1,0 +1,37 @@
+{
+  "id": "gleditsia-triacanthos",
+  "czech": "dřezovec trojtrnný",
+  "latin": "Gleditsia triacanthos",
+  "aliases": [],
+  "genus": "Gleditsia",
+  "family": "Fabaceae",
+  "family_czech": "Bobovité",
+  "group": "Krytosemenné – dvouděložné",
+  "rank": "druh",
+  "notes": "",
+  "colors": [],
+  "months": [],
+  "color_detail": "",
+  "flowering_detail": "",
+  "nonflowering": false,
+  "trait_source": "",
+  "sources": [],
+  "images": [
+    {
+      "path": "images/photo-0263.jpg",
+      "thumb": "images/thumb-0263.jpg"
+    },
+    {
+      "path": "images/photo-0264.jpg",
+      "thumb": "images/thumb-0264.jpg"
+    },
+    {
+      "path": "images/photo-0265.jpg",
+      "thumb": "images/thumb-0265.jpg"
+    },
+    {
+      "path": "images/photo-0266.jpg",
+      "thumb": "images/thumb-0266.jpg"
+    }
+  ]
+}

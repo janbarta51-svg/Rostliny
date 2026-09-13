@@ -1,0 +1,29 @@
+{
+  "id": "galinsoga-parviflora",
+  "czech": "pěťour maloúborný",
+  "latin": "Galinsoga parviflora",
+  "aliases": [],
+  "genus": "Galinsoga",
+  "family": "Asteraceae",
+  "family_czech": "Hvězdnicovité",
+  "group": "Krytosemenné – dvouděložné",
+  "rank": "druh",
+  "notes": "",
+  "colors": [],
+  "months": [],
+  "color_detail": "",
+  "flowering_detail": "",
+  "nonflowering": false,
+  "trait_source": "",
+  "sources": [],
+  "images": [
+    {
+      "path": "images/photo-0575.jpg",
+      "thumb": "images/thumb-0575.jpg"
+    },
+    {
+      "path": "images/photo-0576.jpg",
+      "thumb": "images/thumb-0576.jpg"
+    }
+  ]
+}

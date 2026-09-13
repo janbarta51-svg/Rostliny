@@ -1,0 +1,41 @@
+{
+  "id": "deschampsia-cespitosa",
+  "czech": "metlice trsnatá",
+  "latin": "Deschampsia cespitosa",
+  "aliases": [],
+  "genus": "Deschampsia",
+  "family": "Poaceae",
+  "family_czech": "Lipnicovité",
+  "group": "Krytosemenné – jednoděložné",
+  "rank": "druh",
+  "notes": "drsné listy",
+  "colors": [],
+  "months": [],
+  "color_detail": "",
+  "flowering_detail": "",
+  "nonflowering": false,
+  "trait_source": "",
+  "sources": [],
+  "images": [
+    {
+      "path": "images/photo-0061.jpg",
+      "thumb": "images/thumb-0061.jpg"
+    },
+    {
+      "path": "images/photo-0062.jpg",
+      "thumb": "images/thumb-0062.jpg"
+    },
+    {
+      "path": "images/photo-0063.jpg",
+      "thumb": "images/thumb-0063.jpg"
+    },
+    {
+      "path": "images/photo-0064.jpg",
+      "thumb": "images/thumb-0064.jpg"
+    },
+    {
+      "path": "images/photo-0065.jpg",
+      "thumb": "images/thumb-0065.jpg"
+    }
+  ]
+}

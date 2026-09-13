@@ -1,0 +1,29 @@
+{
+  "id": "circaea-alpina",
+  "czech": "čarovník alpský",
+  "latin": "Circaea alpina",
+  "aliases": [],
+  "genus": "Circaea",
+  "family": "Onagraceae",
+  "family_czech": "Pupalkovité",
+  "group": "Krytosemenné – dvouděložné",
+  "rank": "druh",
+  "notes": "menší, živě zelená, srdčitá báze listu",
+  "colors": [],
+  "months": [],
+  "color_detail": "",
+  "flowering_detail": "",
+  "nonflowering": false,
+  "trait_source": "",
+  "sources": [],
+  "images": [
+    {
+      "path": "images/photo-0817.jpg",
+      "thumb": "images/thumb-0817.jpg"
+    },
+    {
+      "path": "images/photo-0818.jpg",
+      "thumb": "images/thumb-0818.jpg"
+    }
+  ]
+}

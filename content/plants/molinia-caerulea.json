@@ -1,0 +1,29 @@
+{
+  "id": "molinia-caerulea",
+  "czech": "bezkolenec modrý",
+  "latin": "Molinia caerulea",
+  "aliases": [],
+  "genus": "Molinia",
+  "family": "Poaceae",
+  "family_czech": "Lipnicovité",
+  "group": "Krytosemenné – jednoděložné",
+  "rank": "druh",
+  "notes": "domodra, v lese i ne,",
+  "colors": [],
+  "months": [],
+  "color_detail": "",
+  "flowering_detail": "",
+  "nonflowering": false,
+  "trait_source": "",
+  "sources": [],
+  "images": [
+    {
+      "path": "images/photo-0079.jpg",
+      "thumb": "images/thumb-0079.jpg"
+    },
+    {
+      "path": "images/photo-0080.jpg",
+      "thumb": "images/thumb-0080.jpg"
+    }
+  ]
+}

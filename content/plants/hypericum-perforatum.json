@@ -1,0 +1,29 @@
+{
+  "id": "hypericum-perforatum",
+  "czech": "třezalka tečkovaná",
+  "latin": "Hypericum perforatum",
+  "aliases": [],
+  "genus": "Hypericum",
+  "family": "Hypericaceae",
+  "family_czech": "třezalkovité",
+  "group": "Krytosemenné – dvouděložné",
+  "rank": "druh",
+  "notes": "2 hrany, a tečky",
+  "colors": [],
+  "months": [],
+  "color_detail": "",
+  "flowering_detail": "",
+  "nonflowering": false,
+  "trait_source": "",
+  "sources": [],
+  "images": [
+    {
+      "path": "images/photo-0917.jpg",
+      "thumb": "images/thumb-0917.jpg"
+    },
+    {
+      "path": "images/photo-0918.jpg",
+      "thumb": "images/thumb-0918.jpg"
+    }
+  ]
+}

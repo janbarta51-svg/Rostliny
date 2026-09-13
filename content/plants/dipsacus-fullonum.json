@@ -1,0 +1,35 @@
+{
+  "id": "dipsacus-fullonum",
+  "czech": "štětka planá",
+  "latin": "Dipsacus fullonum",
+  "aliases": [],
+  "genus": "Dipsacus",
+  "family": "Dipsacaceae",
+  "family_czech": "štětkovité",
+  "group": "Krytosemenné – dvouděložné",
+  "rank": "druh",
+  "notes": "fialkové květy",
+  "colors": [
+    "bílá",
+    "růžová",
+    "fialová"
+  ],
+  "months": [
+    7,
+    8,
+    9
+  ],
+  "color_detail": "bílá, růžovofialová",
+  "flowering_detail": "červenec–září",
+  "nonflowering": false,
+  "trait_source": "https://pladias.cz/taxon/data/Dipsacus%20fullonum",
+  "sources": [
+    "https://pladias.cz/taxon/data/Dipsacus%20fullonum"
+  ],
+  "images": [
+    {
+      "path": "images/photo-0896.jpg",
+      "thumb": "images/thumb-0896.jpg"
+    }
+  ]
+}

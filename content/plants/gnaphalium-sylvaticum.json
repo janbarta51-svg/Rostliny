@@ -1,0 +1,29 @@
+{
+  "id": "gnaphalium-sylvaticum",
+  "czech": "protěž lesní",
+  "latin": "Gnaphalium sylvaticum",
+  "aliases": [],
+  "genus": "Gnaphalium",
+  "family": "Asteraceae",
+  "family_czech": "Hvězdnicovité",
+  "group": "Krytosemenné – dvouděložné",
+  "rank": "druh",
+  "notes": "",
+  "colors": [],
+  "months": [],
+  "color_detail": "",
+  "flowering_detail": "",
+  "nonflowering": false,
+  "trait_source": "",
+  "sources": [],
+  "images": [
+    {
+      "path": "images/photo-0631.jpg",
+      "thumb": "images/thumb-0631.jpg"
+    },
+    {
+      "path": "images/photo-0632.jpg",
+      "thumb": "images/thumb-0632.jpg"
+    }
+  ]
+}

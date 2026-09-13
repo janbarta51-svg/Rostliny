@@ -1,0 +1,33 @@
+{
+  "id": "cirsium-canum",
+  "czech": "pcháč šedý",
+  "latin": "Cirsium canum",
+  "aliases": [],
+  "genus": "Cirsium",
+  "family": "Asteraceae",
+  "family_czech": "Hvězdnicovité",
+  "group": "Krytosemenné – dvouděložné",
+  "rank": "druh",
+  "notes": "",
+  "colors": [],
+  "months": [],
+  "color_detail": "",
+  "flowering_detail": "",
+  "nonflowering": false,
+  "trait_source": "",
+  "sources": [],
+  "images": [
+    {
+      "path": "images/photo-0483.jpg",
+      "thumb": "images/thumb-0483.jpg"
+    },
+    {
+      "path": "images/photo-0484.jpg",
+      "thumb": "images/thumb-0484.jpg"
+    },
+    {
+      "path": "images/photo-0485.jpg",
+      "thumb": "images/thumb-0485.jpg"
+    }
+  ]
+}
