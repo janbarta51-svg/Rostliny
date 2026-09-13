@@ -1,0 +1,32 @@
+name: Import atlas
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: atlas-import
+  cancel-in-progress: false
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Restore and verify atlas
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 .github/scripts/import_atlas.py
+      - name: Commit complete atlas
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'Atlas is already imported.'
+            exit 0
+          fi
+          git commit -m 'Import complete plant atlas with 992 photographs'
+          git push origin HEAD:main
