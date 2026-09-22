@@ -1,0 +1,11 @@
+{
+  "plants": 601,
+  "photo_refs": 1064,
+  "unique_full_images": 1064,
+  "unique_thumbnails": 1064,
+  "offline_image_assets": 2128,
+  "manifest_icons": 2,
+  "manifest_display": "standalone",
+  "service_worker": true,
+  "all_image_assets_exist": true
+}

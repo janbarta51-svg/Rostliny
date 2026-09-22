@@ -1,0 +1,46 @@
+ATLAS ROSTLIN – ÚKOLY 1–3
+==========================
+
+1. JEDINÝ RUNTIME ZDROJ DAT
+- dist/data/plants.json
+- 601 rostlin
+- velikost přibližně 464 kB
+- web už nepotřebuje starý dist/data.js ani stovky jednotlivých JSONů
+
+2. OPTIMALIZACE FOTOGRAFIÍ
+- zdrojové fotografie ve Wordu: 1064
+- plné WebP fotografie: 1064
+- WebP náhledy: 1064
+- zdrojová data obrázků: 389 036 365 B
+- plné WebP: 57 604 646 B
+- náhledy: 12 693 908 B
+- celkem WebP: 70 298 554 B (18,07 % zdrojové velikosti)
+- plný obraz max. 1600 px, kvalita 82
+- náhled max. 420 × 320 px, kvalita 76
+
+3. TERÉNNÍ FUNKCE
+- hledání podle českého názvu
+- hledání podle latinského názvu
+- hledání v alternativních českých názvech
+- filtr rostlinné skupiny
+- filtr čeledi
+- filtr jednoduché barvy květu včetně mapování složených barev
+- filtr konkrétního měsíce
+- rychlý filtr „Kvete právě teď“ podle měsíce zařízení
+- filtr „Jen s fotografiemi“
+- řazení podle taxonomie / českého / latinského názvu
+- rozbalovací detail rostliny
+- galerie + lightbox
+- stránkování po 40 položkách
+- lazy loading fotografií
+
+VALIDACE
+- JavaScript syntax: OK
+- plants.json: 601/601
+- flower_colors: 601/601
+- flowering interval nebo nekvetoucí taxon: 601/601
+- odkazy na plné fotografie: 1064/1064
+- odkazy na náhledy: 1064/1064
+- unikátní webové fotografie: 1064/1064
+- HTTP test index.html: 200 OK
+- HTTP test plants.json: 200 OK

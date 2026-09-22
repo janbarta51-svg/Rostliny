@@ -1,0 +1,14 @@
+ATLAS ROSTLIN – SPUŠTĚNÍ VE WINDOWS
+==================================
+
+1. Rozbal celý ZIP do normální složky.
+2. Dvakrát klikni na START-ATLAS.bat.
+   - nebo přímo na AtlasServer.exe
+3. Otevře se černé okno serveru a automaticky prohlížeč.
+4. Černé okno nech otevřené, dokud Atlas používáš.
+5. Atlas se otevře na adrese http://localhost:8000/ (případně 8001–8010, pokud je 8000 obsazený).
+
+DŮLEŽITÉ:
+- NEOTEVÍREJ dist/index.html dvojklikem. Adresa začínající file:/// nepodporuje načítání plants.json ani PWA offline režim.
+- Python není potřeba.
+- Pro vypnutí atlasu zavři černé okno AtlasServer.exe.

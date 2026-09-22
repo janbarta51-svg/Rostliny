@@ -1,0 +1,20 @@
+{
+  "plants": 601,
+  "plants_with_photos": 402,
+  "photos": 1064,
+  "optimized_this_run": 0,
+  "source_media_bytes": 389036365,
+  "optimized_full_bytes": 57604646,
+  "optimized_thumb_bytes": 12693908,
+  "optimized_total_bytes": 70298554,
+  "source_to_optimized_ratio": 0.1807,
+  "max_full_px": 1600,
+  "max_thumb_px": [
+    420,
+    320
+  ],
+  "webp_quality_full": 82,
+  "webp_quality_thumb": 76,
+  "seconds": 0.02,
+  "missing_source_photos": []
+}

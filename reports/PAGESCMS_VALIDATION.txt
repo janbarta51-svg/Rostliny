@@ -1,0 +1,22 @@
+ATLAS ROSTLIN – PAGES CMS / PWA VALIDACE
+=========================================
+CMS plant files:               601
+Runtime plants.json:            601
+Fotografie:                    1064
+Náhledy:                       1064
+Čeledi v CMS:                    48
+.pages.yml:                     OK
+app.js syntax:                  OK
+service-worker.js syntax:       OK
+build_from_cms.py syntax:       OK
+HTTP index.html:                OK
+HTTP data/plants.json:          OK
+Gallery full-image mode:        object-fit: contain
+
+Architektura:
+- content/plants/*.json = editovatelný zdroj pro Pages CMS
+- dist/data/plants.json = automaticky generovaný runtime soubor
+- dist/images = média
+- dist/images/thumbs = náhledy
+- tools/build_from_cms.py = validace + build + náhledy + PWA cache versioning
+- .github/workflows/pages.yml = automatické sestavení a publikace GitHub Pages

@@ -1,0 +1,28 @@
+ATLAS ROSTLIN – PWA VALIDACE
+===============================
+Rostlin: 601
+Plných fotografií: 1064
+Náhledů: 1064
+Offline obrazových assetů: 2128
+Plné fotografie: 54.9 MB
+Náhledy: 12.1 MB
+Celý obrazový offline balík: 67.0 MB
+
+PWA:
+  manifest.webmanifest: OK
+  display=standalone: OK
+  icon 192×192: OK
+  icon 512×512: OK
+  service-worker.js syntax: OK
+  app.js syntax: OK
+  core offline assets: 9/9 OK
+  image paths: 2128/2128 OK
+  HTTP MIME manifest: application/manifest+json OK
+  HTTP MIME service worker: text/javascript OK
+
+Chování:
+  základ aplikace + plants.json se cacheují automaticky
+  obrázky se cacheují při prohlížení
+  tlačítko Fotky offline stáhne plné fotky + náhledy
+  průběh stahování se zobrazuje v UI
+  navigace má offline fallback na index.html
