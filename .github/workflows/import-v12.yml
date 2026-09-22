@@ -1,0 +1,83 @@
+name: Import Atlas v1.2 bundle
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '_import/atlas_v12.part*'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atlas-v12-import
+  cancel-in-progress: false
+
+jobs:
+  import:
+    if: ${{ !contains(github.event.head_commit.message, '[atlas-v12-import]') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Rebuild archive
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat _import/atlas_v12.part* | tr -d '\n\r' | base64 -d > /tmp/atlas-v12.zip
+          python - <<'PY'
+          import zipfile
+          z=zipfile.ZipFile('/tmp/atlas-v12.zip')
+          bad=z.testzip()
+          if bad:
+              raise SystemExit(f'Broken ZIP member: {bad}')
+          print('ZIP OK:', len(z.infolist()), 'members')
+          z.extractall('/tmp/atlas-v12')
+          PY
+
+      - name: Replace atlas with verified v1.2
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm -rf content dist tools
+          rm -f build.py
+          cp -a /tmp/atlas-v12/content .
+          cp -a /tmp/atlas-v12/dist .
+          cp -a /tmp/atlas-v12/tools .
+          cp /tmp/atlas-v12/.pages.yml .pages.yml
+          cp /tmp/atlas-v12/.github/workflows/pages.yml .github/workflows/pages.yml
+          cp /tmp/atlas-v12/README.md README.md
+          cp /tmp/atlas-v12/PAGESCMS.md PAGESCMS.md
+          rm -rf _import
+
+      - name: Validate imported atlas
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -m pip install --disable-pip-version-check pillow
+          python tools/build_from_cms.py
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          p=json.loads(Path('dist/data/plants.json').read_text(encoding='utf-8'))
+          photos=sum(len(x.get('photos',[])) for x in p)
+          thumbs=list(Path('dist/images/thumbs').glob('*.webp'))
+          full=[x for x in Path('dist/images').glob('*.webp') if x.is_file()]
+          assert len(p)==601, len(p)
+          assert photos==1064, photos
+          assert len(full)==1064, len(full)
+          assert len(thumbs)==1064, len(thumbs)
+          print('VALID:', len(p), 'plants,', photos, 'photos,', len(thumbs), 'thumbs')
+          PY
+
+      - name: Commit imported atlas
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m '[atlas-v12-import] Install complete Atlas v1.2 with 1064 photos and PagesCMS'
+          git push origin main
