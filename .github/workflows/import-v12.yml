@@ -20,6 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
 
       - name: Rebuild archive
@@ -96,7 +97,7 @@ jobs:
 
           git add -A ':!_import'
           git commit -m '[atlas-v12-import] Install v1.2 data, PWA and PagesCMS'
-          git push origin main
+          git push origin HEAD:main
 
           mkdir -p dist/images
           mapfile -t MEDIA < <(find /tmp/atlas-v12-verified/dist/images -type f | sort)
@@ -114,10 +115,10 @@ jobs:
             git add dist/images
             n=$((n+1))
             git commit -m "[atlas-v12-import] Media batch $n ($((i+1))-$end of $total)"
-            git push origin main
+            git push origin HEAD:main
           done
 
           rm -rf _import
           git add -A
           git commit -m '[atlas-v12-import] Finish v1.2 import cleanup'
-          git push origin main
+          git push origin HEAD:main
