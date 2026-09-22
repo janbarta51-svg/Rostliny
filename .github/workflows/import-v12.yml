@@ -1,0 +1,49 @@
+name: Import Atlas v1.2 exact package
+
+on:
+  push:
+    branches: [atlas-import-v12]
+    paths:
+      - '.github/workflows/import-v12.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout transfer branch
+        uses: actions/checkout@v4
+        with:
+          ref: atlas-import-v12
+          fetch-depth: 0
+
+      - name: Rebuild and verify package
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat .atlas-transfer/part-*.b64 > /tmp/atlas.b64
+          base64 -d /tmp/atlas.b64 > /tmp/atlas.zip
+          echo "b6706304314f6a27d953007d14dba5e7173164730ad3d17e4455f0c0991b1446  /tmp/atlas.zip" | sha256sum -c -
+          mkdir -p /tmp/atlas-package
+          unzip -q /tmp/atlas.zip -d /tmp/atlas-package
+          test -f /tmp/atlas-package/.pages.yml
+          test -f /tmp/atlas-package/dist/data/plants.json
+          test -f /tmp/atlas-package/dist/service-worker.js
+          test "$(find /tmp/atlas-package/content/plants -maxdepth 1 -name '*.json' | wc -l)" -eq 601
+          test "$(find /tmp/atlas-package/dist/images -maxdepth 1 -name '*.webp' | wc -l)" -eq 1064
+          test "$(find /tmp/atlas-package/dist/images/thumbs -maxdepth 1 -name '*.webp' | wc -l)" -eq 1064
+
+      - name: Replace main with verified Atlas v1.2
+        shell: bash
+        run: |
+          set -euo pipefail
+          git fetch origin main
+          git checkout -B main origin/main
+          rsync -a --delete --exclude='.git' /tmp/atlas-package/ ./
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Import Atlas v1.2: PWA, Pages CMS, 601 plants, 1064 photos"
+          git push origin main
