@@ -4,34 +4,26 @@
   "other_names_cs": [
     "petrklíč"
   ],
-  "name_cs_raw": "prvosenka jarní, petrklíč",
   "name_latin": "Primula veris",
-  "family_cs": "Prvosenkovité",
   "family_latin": "Primulaceae",
-  "order_cs": "",
-  "order_latin": "",
+  "family_cs": "Prvosenkovité",
   "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
   "flower_colors": [
     "žlutá"
   ],
   "flowering_from": 4,
   "flowering_to": 5,
-  "habitat": [],
-  "plant_type": null,
-  "height_min_cm": null,
-  "height_max_cm": null,
-  "description": "",
-  "identification": "",
-  "notes": [
-    "světlé kalichy"
-  ],
   "photos": [
     "images/plant-primula-veris-01.webp",
     "images/plant-primula-veris-02.webp"
   ],
-  "source": "seznam_rostlin_master.docx",
+  "notes": [
+    "světlé kalichy tahle se mi fakt líbí"
+  ],
   "verified": false,
   "manual_review": false,
+  "name_cs_raw": "prvosenka jarní, petrklíč",
+  "source": "seznam_rostlin_master.docx",
   "source_paragraphs": [
     639
   ],
