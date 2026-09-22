@@ -72,12 +72,52 @@ jobs:
           print('VALID:', len(p), 'plants,', photos, 'photos,', len(thumbs), 'thumbs')
           PY
 
-      - name: Commit imported atlas
+      - name: Commit imported atlas in safe batches
         shell: bash
         run: |
           set -euo pipefail
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+          # Keep the verified extracted source safe, then reset the checkout and
+          # publish structure/content first without the heavy image payload.
+          rm -rf /tmp/atlas-v12-verified
+          cp -a /tmp/atlas-v12 /tmp/atlas-v12-verified
+          git reset --hard HEAD
+
+          rm -rf content tools dist
+          mkdir -p dist
+          cp -a /tmp/atlas-v12-verified/content .
+          cp -a /tmp/atlas-v12-verified/tools .
+          cp /tmp/atlas-v12-verified/.pages.yml .pages.yml
+          cp /tmp/atlas-v12-verified/README.md README.md
+          cp /tmp/atlas-v12-verified/PAGESCMS.md PAGESCMS.md
+          find /tmp/atlas-v12-verified/dist -mindepth 1 -maxdepth 1 ! -name images -exec cp -a {} dist/ \;
+
+          git add -A ':!_import'
+          git commit -m '[atlas-v12-import] Install v1.2 data, PWA and PagesCMS'
+          git push origin main
+
+          mkdir -p dist/images
+          mapfile -t MEDIA < <(find /tmp/atlas-v12-verified/dist/images -type f | sort)
+          total=${#MEDIA[@]}
+          batch=150
+          n=0
+          for ((i=0; i<total; i+=batch)); do
+            end=$((i+batch)); (( end > total )) && end=$total
+            for ((j=i; j<end; j++)); do
+              src="${MEDIA[$j]}"
+              rel="${src#/tmp/atlas-v12-verified/dist/images/}"
+              mkdir -p "dist/images/$(dirname "$rel")"
+              cp "$src" "dist/images/$rel"
+            done
+            git add dist/images
+            n=$((n+1))
+            git commit -m "[atlas-v12-import] Media batch $n ($((i+1))-$end of $total)"
+            git push origin main
+          done
+
+          rm -rf _import
           git add -A
-          git commit -m '[atlas-v12-import] Install complete Atlas v1.2 with 1064 photos and PagesCMS'
+          git commit -m '[atlas-v12-import] Finish v1.2 import cleanup'
           git push origin main
