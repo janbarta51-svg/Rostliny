@@ -100,7 +100,8 @@ jobs:
           cp /tmp/atlas-v12-verified/PAGESCMS.md PAGESCMS.md
           find /tmp/atlas-v12-verified/dist -mindepth 1 -maxdepth 1 ! -name images -exec cp -a {} dist/ \;
 
-          git add -A ':!_import'
+          git add -A
+          git reset -- _import
           echo '--- staged summary ---' >> /tmp/import-debug.txt
           git diff --cached --stat >> /tmp/import-debug.txt 2>&1 || true
           echo '--- commit ---' >> /tmp/import-debug.txt
