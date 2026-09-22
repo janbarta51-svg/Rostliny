@@ -1,0 +1,50 @@
+{
+  "id": "plant-symphyotrichum-lanceolatum",
+  "czech": "astřička kopinatá",
+  "latin": "Symphyotrichum lanceolatum",
+  "family": "Asteraceae",
+  "aliases": [
+    "hvězdnice kopinatá"
+  ],
+  "notes": "invazní, nemá tak husté květy jako turan, plstnatý list",
+  "rank": "druh",
+  "colors": [
+    "bílá",
+    "žlutá"
+  ],
+  "months": [
+    8,
+    9,
+    10
+  ],
+  "color_detail": "bílá, žlutá",
+  "flowering_detail": "srpen–říjen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0565.jpg",
+      "thumb": "images/thumb-0565.jpg"
+    },
+    {
+      "path": "images/photo-0566.jpg",
+      "thumb": "images/thumb-0566.jpg"
+    },
+    {
+      "path": "images/photo-0567.jpg",
+      "thumb": "images/thumb-0567.jpg"
+    },
+    {
+      "path": "images/photo-0568.jpg",
+      "thumb": "images/thumb-0568.jpg"
+    },
+    {
+      "path": "images/photo-0609.jpg",
+      "thumb": "images/thumb-0609.jpg"
+    },
+    {
+      "path": "images/photo-0610.jpg",
+      "thumb": "images/thumb-0610.jpg"
+    }
+  ],
+  "sources": []
+}

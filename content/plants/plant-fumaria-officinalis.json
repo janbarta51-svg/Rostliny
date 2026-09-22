@@ -1,0 +1,26 @@
+{
+  "id": "plant-fumaria-officinalis",
+  "czech": "zemědým lékařský",
+  "latin": "Fumaria officinalis",
+  "family": "Papaveraceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "růžová",
+    "červená",
+    "fialová"
+  ],
+  "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "růžová, červenofialová",
+  "flowering_detail": "květen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

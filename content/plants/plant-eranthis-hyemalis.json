@@ -1,0 +1,21 @@
+{
+  "id": "plant-eranthis-hyemalis",
+  "czech": "talovín zimní",
+  "latin": "Eranthis hyemalis",
+  "family": "Ranunculaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    2,
+    3
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "únor–březen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

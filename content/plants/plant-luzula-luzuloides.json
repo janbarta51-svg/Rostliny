@@ -1,0 +1,39 @@
+{
+  "id": "plant-luzula-luzuloides",
+  "czech": "bika bělavá",
+  "latin": "Luzula luzuloides",
+  "family": "Juncaceae",
+  "aliases": [
+    "bika hajní"
+  ],
+  "notes": "roztažené květenství, světlá, trsy bílé chlupy, lesy, acidofilní",
+  "rank": "druh",
+  "colors": [
+    "bílá",
+    "červená",
+    "hnědá"
+  ],
+  "months": [
+    5,
+    6,
+    7
+  ],
+  "color_detail": "bílá, červenohnědá",
+  "flowering_detail": "květen–červenec",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0131.jpg",
+      "thumb": "images/thumb-0131.jpg"
+    },
+    {
+      "path": "images/photo-0132.jpg",
+      "thumb": "images/thumb-0132.jpg"
+    },
+    {
+      "path": "images/photo-0133.jpg",
+      "thumb": "images/thumb-0133.jpg"
+    }
+  ],
+  "sources": []
+}

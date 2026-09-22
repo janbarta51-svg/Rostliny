@@ -1,0 +1,36 @@
+{
+  "id": "plant-tanacetum-corymbosum",
+  "czech": "řimbaba chocholičnatá",
+  "latin": "Tanacetum corymbosum",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "širší bílé květní lísky, listy jak tužebník ob. a plstnaté listy chlupaté",
+  "rank": "druh",
+  "colors": [
+    "bílá",
+    "žlutá"
+  ],
+  "months": [
+    6,
+    7,
+    8
+  ],
+  "color_detail": "bílá, žlutá",
+  "flowering_detail": "červen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0611.jpg",
+      "thumb": "images/thumb-0611.jpg"
+    },
+    {
+      "path": "images/photo-0612.jpg",
+      "thumb": "images/thumb-0612.jpg"
+    },
+    {
+      "path": "images/photo-0613.jpg",
+      "thumb": "images/thumb-0613.jpg"
+    }
+  ],
+  "sources": []
+}

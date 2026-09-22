@@ -1,0 +1,21 @@
+{
+  "id": "plant-adonis-vernalis",
+  "czech": "hlaváček jarní",
+  "latin": "Adonis vernalis",
+  "family": "Ranunculaceae",
+  "aliases": [],
+  "notes": "C2b, VU",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    4,
+    5
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "duben–květen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

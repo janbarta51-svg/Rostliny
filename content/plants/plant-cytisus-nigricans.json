@@ -1,0 +1,44 @@
+{
+  "id": "plant-cytisus-nigricans",
+  "czech": "čilimník černající",
+  "latin": "Cytisus nigricans",
+  "family": "Fabaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "květen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0235.jpg",
+      "thumb": "images/thumb-0235.jpg"
+    },
+    {
+      "path": "images/photo-0236.jpg",
+      "thumb": "images/thumb-0236.jpg"
+    },
+    {
+      "path": "images/photo-0237.jpg",
+      "thumb": "images/thumb-0237.jpg"
+    },
+    {
+      "path": "images/photo-0238.jpg",
+      "thumb": "images/thumb-0238.jpg"
+    },
+    {
+      "path": "images/photo-0239.jpg",
+      "thumb": "images/thumb-0239.jpg"
+    }
+  ],
+  "sources": []
+}

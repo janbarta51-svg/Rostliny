@@ -1,0 +1,38 @@
+{
+  "id": "plant-campanula-patula",
+  "czech": "zvonek rozkladitý",
+  "latin": "Campanula patula",
+  "family": "Campanulaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "modrá",
+    "fialová"
+  ],
+  "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "modrofialová",
+  "flowering_detail": "květen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0911.jpg",
+      "thumb": "images/thumb-0911.jpg"
+    },
+    {
+      "path": "images/photo-0912.jpg",
+      "thumb": "images/thumb-0912.jpg"
+    },
+    {
+      "path": "images/photo-0913.jpg",
+      "thumb": "images/thumb-0913.jpg"
+    }
+  ],
+  "sources": []
+}

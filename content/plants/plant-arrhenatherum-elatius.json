@@ -1,0 +1,38 @@
+{
+  "id": "plant-arrhenatherum-elatius",
+  "czech": "ovsík vyvýšený",
+  "latin": "Arrhenatherum elatius",
+  "family": "Poaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    6,
+    7
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "červen–červenec",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0039.jpg",
+      "thumb": "images/thumb-0039.jpg"
+    },
+    {
+      "path": "images/photo-0040.jpg",
+      "thumb": "images/thumb-0040.jpg"
+    },
+    {
+      "path": "images/photo-0041.jpg",
+      "thumb": "images/thumb-0041.jpg"
+    },
+    {
+      "path": "images/photo-0042.jpg",
+      "thumb": "images/thumb-0042.jpg"
+    }
+  ],
+  "sources": []
+}

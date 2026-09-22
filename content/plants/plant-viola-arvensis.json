@@ -1,0 +1,44 @@
+{
+  "id": "plant-viola-arvensis",
+  "czech": "violka rolní",
+  "latin": "Viola arvensis",
+  "family": "Violaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá",
+    "bílá",
+    "fialová"
+  ],
+  "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "žlutobílá, fialová",
+  "flowering_detail": "duben–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0889.jpg",
+      "thumb": "images/thumb-0889.jpg"
+    },
+    {
+      "path": "images/photo-0890.jpg",
+      "thumb": "images/thumb-0890.jpg"
+    },
+    {
+      "path": "images/photo-0891.jpg",
+      "thumb": "images/thumb-0891.jpg"
+    },
+    {
+      "path": "images/photo-0892.jpg",
+      "thumb": "images/thumb-0892.jpg"
+    }
+  ],
+  "sources": []
+}

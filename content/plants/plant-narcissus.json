@@ -1,0 +1,25 @@
+{
+  "id": "plant-narcissus",
+  "czech": "narcis",
+  "latin": "Narcissus",
+  "family": "Amaryllidaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "rod",
+  "colors": [
+    "bílá",
+    "žlutá",
+    "oranžová"
+  ],
+  "months": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "color_detail": "bílá, žlutá, oranžová",
+  "flowering_detail": "únor–květen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "plant-filago-arvensis",
+  "czech": "bělolist rolní",
+  "latin": "Filago arvensis",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "C3, NT",
+  "rank": "druh",
+  "colors": [
+    "hnědá"
+  ],
+  "months": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "hnědá",
+  "flowering_detail": "červen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

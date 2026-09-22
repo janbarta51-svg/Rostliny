@@ -1,0 +1,22 @@
+{
+  "id": "plant-crepis-mollis",
+  "czech": "škarda měkká",
+  "latin": "Crepis mollis",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "jiné listy nevykrojené – C3, NT",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    6,
+    7,
+    8
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "červen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

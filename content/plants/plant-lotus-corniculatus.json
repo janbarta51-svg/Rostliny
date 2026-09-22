@@ -1,0 +1,39 @@
+{
+  "id": "plant-lotus-corniculatus",
+  "czech": "štírovník růžkatý",
+  "latin": "Lotus corniculatus",
+  "family": "Fabaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    6,
+    7,
+    8
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "červen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0304.jpg",
+      "thumb": "images/thumb-0304.jpg"
+    },
+    {
+      "path": "images/photo-0305.jpg",
+      "thumb": "images/thumb-0305.jpg"
+    },
+    {
+      "path": "images/photo-0306.jpg",
+      "thumb": "images/thumb-0306.jpg"
+    },
+    {
+      "path": "images/photo-0307.jpg",
+      "thumb": "images/thumb-0307.jpg"
+    }
+  ],
+  "sources": []
+}

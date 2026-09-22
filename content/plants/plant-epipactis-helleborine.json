@@ -1,0 +1,31 @@
+{
+  "id": "plant-epipactis-helleborine",
+  "czech": "kruštík širolistý",
+  "latin": "Epipactis helleborine",
+  "family": "Orchidaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "zelená",
+    "růžová"
+  ],
+  "months": [
+    7,
+    8
+  ],
+  "color_detail": "zelená, růžová",
+  "flowering_detail": "červenec–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0192.jpg",
+      "thumb": "images/thumb-0192.jpg"
+    },
+    {
+      "path": "images/photo-0193.jpg",
+      "thumb": "images/thumb-0193.jpg"
+    }
+  ],
+  "sources": []
+}

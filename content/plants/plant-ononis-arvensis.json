@@ -1,0 +1,35 @@
+{
+  "id": "plant-ononis-arvensis",
+  "czech": "jehlice rolní",
+  "latin": "Ononis arvensis",
+  "family": "Fabaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "růžová"
+  ],
+  "months": [
+    6,
+    7,
+    8
+  ],
+  "color_detail": "růžová",
+  "flowering_detail": "červen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0345.jpg",
+      "thumb": "images/thumb-0345.jpg"
+    },
+    {
+      "path": "images/photo-0346.jpg",
+      "thumb": "images/thumb-0346.jpg"
+    },
+    {
+      "path": "images/photo-0347.jpg",
+      "thumb": "images/thumb-0347.jpg"
+    }
+  ],
+  "sources": []
+}

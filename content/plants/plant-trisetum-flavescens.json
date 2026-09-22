@@ -1,0 +1,21 @@
+{
+  "id": "plant-trisetum-flavescens",
+  "czech": "trojštět žlutavý",
+  "latin": "Trisetum flavescens",
+  "family": "Poaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    5,
+    6
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "květen–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

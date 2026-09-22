@@ -1,0 +1,36 @@
+{
+  "id": "plant-hieracium-lachenalii",
+  "czech": "jestřábník Lachenalův",
+  "latin": "Hieracium lachenalii",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "žlaznaté zákrovy, více listů na lodyze, širší listy",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "červen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0584.jpg",
+      "thumb": "images/thumb-0584.jpg"
+    },
+    {
+      "path": "images/photo-0585.jpg",
+      "thumb": "images/thumb-0585.jpg"
+    },
+    {
+      "path": "images/photo-0586.jpg",
+      "thumb": "images/thumb-0586.jpg"
+    }
+  ],
+  "sources": []
+}

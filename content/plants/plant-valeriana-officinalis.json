@@ -1,0 +1,28 @@
+{
+  "id": "plant-valeriana-officinalis",
+  "czech": "kozlík lékařský",
+  "latin": "Valeriana officinalis",
+  "family": "Caprifoliaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "bílá",
+    "růžová"
+  ],
+  "months": [
+    6,
+    7,
+    8
+  ],
+  "color_detail": "bílá, růžová",
+  "flowering_detail": "červen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0894.jpg",
+      "thumb": "images/thumb-0894.jpg"
+    }
+  ],
+  "sources": []
+}

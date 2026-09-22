@@ -1,0 +1,37 @@
+{
+  "id": "plant-lythrum-virgatum",
+  "czech": "kyprej prutnatý",
+  "latin": "Lythrum virgatum",
+  "family": "Lythraceae",
+  "aliases": [],
+  "notes": "C2b, EN",
+  "rank": "druh",
+  "colors": [
+    "růžová",
+    "červená",
+    "fialová"
+  ],
+  "months": [
+    6,
+    7,
+    8
+  ],
+  "color_detail": "růžová, červenofialová",
+  "flowering_detail": "červen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0696.jpg",
+      "thumb": "images/thumb-0696.jpg"
+    },
+    {
+      "path": "images/photo-0697.jpg",
+      "thumb": "images/thumb-0697.jpg"
+    },
+    {
+      "path": "images/photo-0698.jpg",
+      "thumb": "images/thumb-0698.jpg"
+    }
+  ],
+  "sources": []
+}

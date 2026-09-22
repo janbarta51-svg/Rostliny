@@ -1,0 +1,26 @@
+{
+  "id": "plant-oxalis-acetosella",
+  "czech": "šťavel kyselý",
+  "latin": "Oxalis acetosella",
+  "family": "Oxalidaceae",
+  "aliases": [],
+  "notes": "Kvete bíle",
+  "rank": "druh",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    4,
+    5
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "duben–květen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0872.jpg",
+      "thumb": "images/thumb-0872.jpg"
+    }
+  ],
+  "sources": []
+}

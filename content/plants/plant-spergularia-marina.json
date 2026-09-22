@@ -1,0 +1,23 @@
+{
+  "id": "plant-spergularia-marina",
+  "czech": "kuřinka solná",
+  "latin": "Spergularia marina",
+  "family": "Caryophyllaceae",
+  "aliases": [],
+  "notes": "C1t, CR – kolem silnic, růžová",
+  "rank": "druh",
+  "colors": [
+    "růžová"
+  ],
+  "months": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "růžová",
+  "flowering_detail": "červen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "plant-pilosella-aurantiaca",
+  "czech": "chlupáček oranžový",
+  "latin": "Pilosella aurantiaca",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "C3, NT",
+  "rank": "druh",
+  "colors": [
+    "oranžová"
+  ],
+  "months": [
+    7,
+    8
+  ],
+  "color_detail": "oranžová",
+  "flowering_detail": "červenec–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "plant-echinops-ritro",
+  "czech": "bělotrn modrý",
+  "latin": "Echinops ritro",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "fakt modrý a vzácnější",
+  "rank": "druh",
+  "colors": [
+    "modrá"
+  ],
+  "months": [
+    7,
+    8,
+    9
+  ],
+  "color_detail": "modrá",
+  "flowering_detail": "červenec–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0574.jpg",
+      "thumb": "images/thumb-0574.jpg"
+    }
+  ],
+  "sources": []
+}

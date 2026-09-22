@@ -1,0 +1,21 @@
+{
+  "id": "plant-corynephorus-canescens",
+  "czech": "paličkovec šedavý",
+  "latin": "Corynephorus canescens",
+  "family": "Poaceae",
+  "aliases": [],
+  "notes": "C4a, NT",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    6,
+    7
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "červen–červenec",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

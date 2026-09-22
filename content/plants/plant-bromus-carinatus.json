@@ -1,0 +1,24 @@
+{
+  "id": "plant-bromus-carinatus",
+  "czech": "sveřep kýlnatý",
+  "latin": "Bromus carinatus",
+  "family": "Poaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "červen–říjen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

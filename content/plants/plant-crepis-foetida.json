@@ -1,0 +1,23 @@
+{
+  "id": "plant-crepis-foetida",
+  "czech": "škarda smrdutá",
+  "latin": "Crepis foetida",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "chloupky, osinky",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "červen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

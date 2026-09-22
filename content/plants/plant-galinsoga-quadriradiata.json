@@ -1,0 +1,30 @@
+{
+  "id": "plant-galinsoga-quadriradiata",
+  "czech": "pěťour srstnatý",
+  "latin": "Galinsoga quadriradiata",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "osinky, lístky u větvení",
+  "rank": "druh",
+  "colors": [
+    "bílá",
+    "žlutá"
+  ],
+  "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "color_detail": "bílá, žlutá",
+  "flowering_detail": "červen–říjen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0577.jpg",
+      "thumb": "images/thumb-0577.jpg"
+    }
+  ],
+  "sources": []
+}

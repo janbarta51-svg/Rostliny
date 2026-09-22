@@ -1,0 +1,31 @@
+{
+  "id": "plant-seseli-annuum",
+  "czech": "sesel roční",
+  "latin": "Seseli annuum",
+  "family": "Apiaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    6,
+    7,
+    8
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "červen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0716.jpg",
+      "thumb": "images/thumb-0716.jpg"
+    },
+    {
+      "path": "images/photo-0717.jpg",
+      "thumb": "images/thumb-0717.jpg"
+    }
+  ],
+  "sources": []
+}

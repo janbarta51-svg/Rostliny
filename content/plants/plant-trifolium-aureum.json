@@ -1,0 +1,40 @@
+{
+  "id": "plant-trifolium-aureum",
+  "czech": "jetel zlatý",
+  "latin": "Trifolium aureum",
+  "family": "Fabaceae",
+  "aliases": [],
+  "notes": "nápadné palisty, vysoký",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "červen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0383.jpg",
+      "thumb": "images/thumb-0383.jpg"
+    },
+    {
+      "path": "images/photo-0384.jpg",
+      "thumb": "images/thumb-0384.jpg"
+    },
+    {
+      "path": "images/photo-0393.jpg",
+      "thumb": "images/thumb-0393.jpg"
+    },
+    {
+      "path": "images/photo-0394.jpg",
+      "thumb": "images/thumb-0394.jpg"
+    }
+  ],
+  "sources": []
+}

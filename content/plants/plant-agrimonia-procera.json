@@ -1,0 +1,35 @@
+{
+  "id": "plant-agrimonia-procera",
+  "czech": "řepík vonný",
+  "latin": "Agrimonia procera",
+  "family": "Rosaceae",
+  "aliases": [],
+  "notes": "C3, rub a lic stejný, ostenky na šešulích ve spodní části ohnuté dolů, chlupy na lodyze dva druhy",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    6,
+    7,
+    8
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "červen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0846.jpg",
+      "thumb": "images/thumb-0846.jpg"
+    },
+    {
+      "path": "images/photo-0847.jpg",
+      "thumb": "images/thumb-0847.jpg"
+    },
+    {
+      "path": "images/photo-0848.jpg",
+      "thumb": "images/thumb-0848.jpg"
+    }
+  ],
+  "sources": []
+}

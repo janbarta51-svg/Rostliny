@@ -1,0 +1,31 @@
+{
+  "id": "plant-mycelis-muralis",
+  "czech": "mléčka zední",
+  "latin": "Mycelis muralis",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "žlutá, pět kvítků, list poloobjímavý vykrojený různě, vysoká",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    7,
+    8,
+    9
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "červenec–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0595.jpg",
+      "thumb": "images/thumb-0595.jpg"
+    },
+    {
+      "path": "images/photo-0596.jpg",
+      "thumb": "images/thumb-0596.jpg"
+    }
+  ],
+  "sources": []
+}

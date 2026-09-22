@@ -1,0 +1,22 @@
+{
+  "id": "plant-cephalanthera-damasonium",
+  "czech": "okrotice bílá",
+  "latin": "Cephalanthera damasonium",
+  "family": "Orchidaceae",
+  "aliases": [],
+  "notes": "C4a, NT",
+  "rank": "druh",
+  "colors": [
+    "bílá",
+    "žlutá"
+  ],
+  "months": [
+    5,
+    6
+  ],
+  "color_detail": "bílá, žlutobílá",
+  "flowering_detail": "květen–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

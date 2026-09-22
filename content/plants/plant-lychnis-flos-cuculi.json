@@ -1,0 +1,35 @@
+{
+  "id": "plant-lychnis-flos-cuculi",
+  "czech": "kohoutek luční",
+  "latin": "Lychnis flos-cuculi",
+  "family": "Caryophyllaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "růžová"
+  ],
+  "months": [
+    5,
+    6,
+    7
+  ],
+  "color_detail": "růžová",
+  "flowering_detail": "květen–červenec",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0647.jpg",
+      "thumb": "images/thumb-0647.jpg"
+    },
+    {
+      "path": "images/photo-0648.jpg",
+      "thumb": "images/thumb-0648.jpg"
+    },
+    {
+      "path": "images/photo-0649.jpg",
+      "thumb": "images/thumb-0649.jpg"
+    }
+  ],
+  "sources": []
+}

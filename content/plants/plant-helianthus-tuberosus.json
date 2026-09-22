@@ -1,0 +1,22 @@
+{
+  "id": "plant-helianthus-tuberosus",
+  "czech": "slunečnice topinambur",
+  "latin": "Helianthus tuberosus",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    8,
+    9,
+    10
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "srpen–říjen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

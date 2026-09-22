@@ -1,0 +1,24 @@
+{
+  "id": "plant-lapsana-communis",
+  "czech": "kapustka obecná",
+  "latin": "Lapsana communis",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "žlutá, osinky na stonku",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "květen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

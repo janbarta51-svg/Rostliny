@@ -1,0 +1,36 @@
+{
+  "id": "plant-prenanthes-purpurea",
+  "czech": "věsenka nachová",
+  "latin": "Prenanthes purpurea",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "bučiny, acidofilní",
+  "rank": "druh",
+  "colors": [
+    "červená",
+    "fialová"
+  ],
+  "months": [
+    7,
+    8,
+    9
+  ],
+  "color_detail": "červenofialová",
+  "flowering_detail": "červenec–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0626.jpg",
+      "thumb": "images/thumb-0626.jpg"
+    },
+    {
+      "path": "images/photo-0627.jpg",
+      "thumb": "images/thumb-0627.jpg"
+    },
+    {
+      "path": "images/photo-0628.jpg",
+      "thumb": "images/thumb-0628.jpg"
+    }
+  ],
+  "sources": []
+}

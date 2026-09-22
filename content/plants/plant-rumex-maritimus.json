@@ -1,0 +1,27 @@
+{
+  "id": "plant-rumex-maritimus",
+  "czech": "šťovík přímořský",
+  "latin": "Rumex maritimus",
+  "family": "Polygonaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    7,
+    8,
+    9
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "červenec–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0829.jpg",
+      "thumb": "images/thumb-0829.jpg"
+    }
+  ],
+  "sources": []
+}

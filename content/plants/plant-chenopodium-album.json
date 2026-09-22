@@ -1,0 +1,37 @@
+{
+  "id": "plant-chenopodium-album",
+  "czech": "merlík bílý",
+  "latin": "Chenopodium album",
+  "family": "Amaranthaceae",
+  "aliases": [],
+  "notes": "agregát",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "červen–říjen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0704.jpg",
+      "thumb": "images/thumb-0704.jpg"
+    },
+    {
+      "path": "images/photo-0705.jpg",
+      "thumb": "images/thumb-0705.jpg"
+    },
+    {
+      "path": "images/photo-0706.jpg",
+      "thumb": "images/thumb-0706.jpg"
+    }
+  ],
+  "sources": []
+}

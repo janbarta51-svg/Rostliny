@@ -1,0 +1,25 @@
+{
+  "id": "plant-chenopodium-polyspermum",
+  "czech": "merlík mnohosemenný",
+  "latin": "Chenopodium polyspermum",
+  "family": "Amaranthaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "květen–říjen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

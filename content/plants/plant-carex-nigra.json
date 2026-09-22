@@ -1,0 +1,35 @@
+{
+  "id": "plant-carex-nigra",
+  "czech": "ostřice obecná",
+  "latin": "Carex nigra",
+  "family": "Cyperaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "černá"
+  ],
+  "months": [
+    5,
+    6,
+    7
+  ],
+  "color_detail": "černá",
+  "flowering_detail": "květen–červenec",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0156.jpg",
+      "thumb": "images/thumb-0156.jpg"
+    },
+    {
+      "path": "images/photo-0157.jpg",
+      "thumb": "images/thumb-0157.jpg"
+    },
+    {
+      "path": "images/photo-0158.jpg",
+      "thumb": "images/thumb-0158.jpg"
+    }
+  ],
+  "sources": []
+}

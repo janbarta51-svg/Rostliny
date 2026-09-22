@@ -1,0 +1,38 @@
+{
+  "id": "plant-luzula-sylvatica",
+  "czech": "bika lesní",
+  "latin": "Luzula sylvatica",
+  "family": "Juncaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "hnědá"
+  ],
+  "months": [
+    5,
+    6
+  ],
+  "color_detail": "hnědá",
+  "flowering_detail": "květen–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0137.jpg",
+      "thumb": "images/thumb-0137.jpg"
+    },
+    {
+      "path": "images/photo-0138.jpg",
+      "thumb": "images/thumb-0138.jpg"
+    },
+    {
+      "path": "images/photo-0139.jpg",
+      "thumb": "images/thumb-0139.jpg"
+    },
+    {
+      "path": "images/photo-0140.jpg",
+      "thumb": "images/thumb-0140.jpg"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "plant-petasites-hybridus",
+  "czech": "devětsil lékařský",
+  "latin": "Petasites hybridus",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "dutý stonek, vodní druh",
+  "rank": "druh",
+  "colors": [
+    "růžová"
+  ],
+  "months": [
+    3,
+    4,
+    5
+  ],
+  "color_detail": "růžová",
+  "flowering_detail": "březen–květen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

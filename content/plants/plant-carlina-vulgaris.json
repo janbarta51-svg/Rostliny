@@ -1,0 +1,31 @@
+{
+  "id": "plant-carlina-vulgaris",
+  "czech": "pupava obecná",
+  "latin": "Carlina vulgaris",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    7,
+    8,
+    9
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "červenec–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0536.jpg",
+      "thumb": "images/thumb-0536.jpg"
+    },
+    {
+      "path": "images/photo-0537.jpg",
+      "thumb": "images/thumb-0537.jpg"
+    }
+  ],
+  "sources": []
+}

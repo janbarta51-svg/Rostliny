@@ -1,0 +1,31 @@
+{
+  "id": "plant-poa-palustris",
+  "czech": "lipnice bahenní",
+  "latin": "Poa palustris",
+  "family": "Poaceae",
+  "aliases": [],
+  "notes": "špičatý jazýček a nemá drsné stéblo, tmavě zelená",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    6,
+    7,
+    8
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "červen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0105.jpg",
+      "thumb": "images/thumb-0105.jpg"
+    },
+    {
+      "path": "images/photo-0106.jpg",
+      "thumb": "images/thumb-0106.jpg"
+    }
+  ],
+  "sources": []
+}

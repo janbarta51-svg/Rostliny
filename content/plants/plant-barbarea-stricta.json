@@ -1,0 +1,35 @@
+{
+  "id": "plant-barbarea-stricta",
+  "czech": "barborka přitisklá",
+  "latin": "Barbarea stricta",
+  "family": "Brassicaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    4,
+    5,
+    6
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "duben–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0962.jpg",
+      "thumb": "images/thumb-0962.jpg"
+    },
+    {
+      "path": "images/photo-0963.jpg",
+      "thumb": "images/thumb-0963.jpg"
+    },
+    {
+      "path": "images/photo-0964.jpg",
+      "thumb": "images/thumb-0964.jpg"
+    }
+  ],
+  "sources": []
+}

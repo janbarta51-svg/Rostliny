@@ -1,0 +1,51 @@
+{
+  "id": "plant-lathyrus-pratensis",
+  "czech": "hrachor luční",
+  "latin": "Lathyrus pratensis",
+  "family": "Fabaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    6,
+    7,
+    8
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "červen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0284.jpg",
+      "thumb": "images/thumb-0284.jpg"
+    },
+    {
+      "path": "images/photo-0285.jpg",
+      "thumb": "images/thumb-0285.jpg"
+    },
+    {
+      "path": "images/photo-0286.jpg",
+      "thumb": "images/thumb-0286.jpg"
+    },
+    {
+      "path": "images/photo-0287.jpg",
+      "thumb": "images/thumb-0287.jpg"
+    },
+    {
+      "path": "images/photo-0288.jpg",
+      "thumb": "images/thumb-0288.jpg"
+    },
+    {
+      "path": "images/photo-0289.jpg",
+      "thumb": "images/thumb-0289.jpg"
+    },
+    {
+      "path": "images/photo-0290.jpg",
+      "thumb": "images/thumb-0290.jpg"
+    }
+  ],
+  "sources": []
+}

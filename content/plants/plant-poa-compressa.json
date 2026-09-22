@@ -1,0 +1,32 @@
+{
+  "id": "plant-poa-compressa",
+  "czech": "lipnice smáčknutá",
+  "latin": "Poa compressa",
+  "family": "Poaceae",
+  "aliases": [],
+  "notes": "drobná, sivá, smáčknutá stébla, drobné květenství, stéblo zploštělé, krátké listy",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "květen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0093.jpg",
+      "thumb": "images/thumb-0093.jpg"
+    },
+    {
+      "path": "images/photo-0094.jpg",
+      "thumb": "images/thumb-0094.jpg"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "plant-echinops-sphaerocephalus",
+  "czech": "bělotrn kulatohlavý",
+  "latin": "Echinops sphaerocephalus",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "invazka – nejčastější z nich",
+  "rank": "druh",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    7,
+    8
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "červenec–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0572.jpg",
+      "thumb": "images/thumb-0572.jpg"
+    },
+    {
+      "path": "images/photo-0573.jpg",
+      "thumb": "images/thumb-0573.jpg"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "plant-veronica-officinalis",
+  "czech": "rozrazil lékařský",
+  "latin": "Veronica officinalis",
+  "family": "Plantaginaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "modrá",
+    "fialová"
+  ],
+  "months": [
+    6,
+    7,
+    8
+  ],
+  "color_detail": "modrofialová",
+  "flowering_detail": "červen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0673.jpg",
+      "thumb": "images/thumb-0673.jpg"
+    },
+    {
+      "path": "images/photo-0674.jpg",
+      "thumb": "images/thumb-0674.jpg"
+    }
+  ],
+  "sources": []
+}

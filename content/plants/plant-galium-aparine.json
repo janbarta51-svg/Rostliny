@@ -1,0 +1,25 @@
+{
+  "id": "plant-galium-aparine",
+  "czech": "svízel přítula",
+  "latin": "Galium aparine",
+  "family": "Rubiaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "květen–říjen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

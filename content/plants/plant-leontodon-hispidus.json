@@ -1,0 +1,23 @@
+{
+  "id": "plant-leontodon-hispidus",
+  "czech": "máchelka srstnatá",
+  "latin": "Leontodon hispidus",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "žilnatina na stonku i osiny",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "červen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "plant-conyza-canadensis",
+  "czech": "turanka kanadská",
+  "latin": "Conyza canadensis",
+  "family": "Asteraceae",
+  "aliases": [
+    "turan kanadský"
+  ],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "bílá",
+    "žlutá"
+  ],
+  "months": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "color_detail": "bílá, žlutá",
+  "flowering_detail": "květen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0557.jpg",
+      "thumb": "images/thumb-0557.jpg"
+    },
+    {
+      "path": "images/photo-0558.jpg",
+      "thumb": "images/thumb-0558.jpg"
+    },
+    {
+      "path": "images/photo-0559.jpg",
+      "thumb": "images/thumb-0559.jpg"
+    }
+  ],
+  "sources": []
+}

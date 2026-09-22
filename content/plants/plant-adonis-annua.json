@@ -1,0 +1,24 @@
+{
+  "id": "plant-adonis-annua",
+  "czech": "hlaváček roční",
+  "latin": "Adonis annua",
+  "family": "Ranunculaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "červená"
+  ],
+  "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "červená",
+  "flowering_detail": "květen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

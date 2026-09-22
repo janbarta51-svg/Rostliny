@@ -1,0 +1,22 @@
+{
+  "id": "plant-cardamine-pratensis",
+  "czech": "řeřišnice luční",
+  "latin": "Cardamine pratensis",
+  "family": "Brassicaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "bílá",
+    "růžová"
+  ],
+  "months": [
+    4,
+    5
+  ],
+  "color_detail": "bílá, růžová",
+  "flowering_detail": "duben–květen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

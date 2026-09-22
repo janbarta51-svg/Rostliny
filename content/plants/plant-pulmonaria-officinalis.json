@@ -1,0 +1,22 @@
+{
+  "id": "plant-pulmonaria-officinalis",
+  "czech": "plicník lékařský",
+  "latin": "Pulmonaria officinalis",
+  "family": "Boraginaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "růžová",
+    "modrá"
+  ],
+  "months": [
+    3,
+    4
+  ],
+  "color_detail": "růžová, modrá",
+  "flowering_detail": "březen–duben",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "plant-saponaria-officinalis",
+  "czech": "mydlice lékařská",
+  "latin": "Saponaria officinalis",
+  "family": "Caryophyllaceae",
+  "aliases": [],
+  "notes": "narůžovělá",
+  "rank": "druh",
+  "colors": [
+    "bílá",
+    "růžová"
+  ],
+  "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "color_detail": "bílá, růžová",
+  "flowering_detail": "červen–říjen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0652.jpg",
+      "thumb": "images/thumb-0652.jpg"
+    },
+    {
+      "path": "images/photo-0653.jpg",
+      "thumb": "images/thumb-0653.jpg"
+    },
+    {
+      "path": "images/photo-0654.jpg",
+      "thumb": "images/thumb-0654.jpg"
+    }
+  ],
+  "sources": []
+}

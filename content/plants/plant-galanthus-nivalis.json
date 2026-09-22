@@ -1,0 +1,23 @@
+{
+  "id": "plant-galanthus-nivalis",
+  "czech": "sněženka podsněžník",
+  "latin": "Galanthus nivalis",
+  "family": "Amaryllidaceae",
+  "aliases": [],
+  "notes": "C3, NT",
+  "rank": "druh",
+  "colors": [
+    "bílá",
+    "zelená"
+  ],
+  "months": [
+    2,
+    3,
+    4
+  ],
+  "color_detail": "bílá, zelená",
+  "flowering_detail": "únor–duben",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

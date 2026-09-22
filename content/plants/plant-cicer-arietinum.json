@@ -1,0 +1,36 @@
+{
+  "id": "plant-cicer-arietinum",
+  "czech": "cizrna beraní",
+  "latin": "Cicer arietinum",
+  "family": "Fabaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "bílá",
+    "růžová",
+    "fialová"
+  ],
+  "months": [
+    6,
+    7
+  ],
+  "color_detail": "bílá, růžová, fialová",
+  "flowering_detail": "červen–červenec",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0232.jpg",
+      "thumb": "images/thumb-0232.jpg"
+    },
+    {
+      "path": "images/photo-0233.jpg",
+      "thumb": "images/thumb-0233.jpg"
+    },
+    {
+      "path": "images/photo-0234.jpg",
+      "thumb": "images/thumb-0234.jpg"
+    }
+  ],
+  "sources": []
+}

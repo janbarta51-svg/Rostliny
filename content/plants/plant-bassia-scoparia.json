@@ -1,0 +1,35 @@
+{
+  "id": "plant-bassia-scoparia",
+  "czech": "bytel metlatý",
+  "latin": "Bassia scoparia",
+  "family": "Amaranthaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    7,
+    8,
+    9
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "červenec–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0711.jpg",
+      "thumb": "images/thumb-0711.jpg"
+    },
+    {
+      "path": "images/photo-0712.jpg",
+      "thumb": "images/thumb-0712.jpg"
+    },
+    {
+      "path": "images/photo-0713.jpg",
+      "thumb": "images/thumb-0713.jpg"
+    }
+  ],
+  "sources": []
+}

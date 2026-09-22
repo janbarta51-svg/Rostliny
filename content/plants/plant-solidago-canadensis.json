@@ -1,0 +1,22 @@
+{
+  "id": "plant-solidago-canadensis",
+  "czech": "zlatobýl kanadský",
+  "latin": "Solidago canadensis",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "osiny na stonku",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    8,
+    9,
+    10
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "srpen–říjen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

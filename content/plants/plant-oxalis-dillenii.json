@@ -1,0 +1,33 @@
+{
+  "id": "plant-oxalis-dillenii",
+  "czech": "šťavel prérijní",
+  "latin": "Oxalis dillenii",
+  "family": "Oxalidaceae",
+  "aliases": [],
+  "notes": "Delší stopky s šla by dolů a semeník nahoru",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "červen–říjen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0874.jpg",
+      "thumb": "images/thumb-0874.jpg"
+    },
+    {
+      "path": "images/photo-0875.jpg",
+      "thumb": "images/thumb-0875.jpg"
+    }
+  ],
+  "sources": []
+}

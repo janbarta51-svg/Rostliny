@@ -1,0 +1,33 @@
+{
+  "id": "plant-gnaphalium-sylvaticum",
+  "czech": "protěž lesní",
+  "latin": "Gnaphalium sylvaticum",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "hnědá",
+    "žlutá",
+    "bílá"
+  ],
+  "months": [
+    7,
+    8,
+    9
+  ],
+  "color_detail": "hnědá, žlutobílá",
+  "flowering_detail": "červenec–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0631.jpg",
+      "thumb": "images/thumb-0631.jpg"
+    },
+    {
+      "path": "images/photo-0632.jpg",
+      "thumb": "images/thumb-0632.jpg"
+    }
+  ],
+  "sources": []
+}

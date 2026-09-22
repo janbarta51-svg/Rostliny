@@ -1,0 +1,22 @@
+{
+  "id": "plant-anemone-nemorosa",
+  "czech": "sasanka hajní",
+  "latin": "Anemone nemorosa",
+  "family": "Ranunculaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    3,
+    4,
+    5
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "březen–květen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

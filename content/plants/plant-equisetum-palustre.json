@@ -1,0 +1,33 @@
+{
+  "id": "plant-equisetum-palustre",
+  "czech": "přeslička bahenní",
+  "latin": "Equisetum palustre",
+  "family": "Equisetaceae",
+  "aliases": [],
+  "notes": "obráceně články",
+  "rank": "druh",
+  "colors": [],
+  "months": [],
+  "color_detail": "Výtrusná rostlina",
+  "flowering_detail": "Netvoří květy",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0007.jpg",
+      "thumb": "images/thumb-0007.jpg"
+    },
+    {
+      "path": "images/photo-0008.jpg",
+      "thumb": "images/thumb-0008.jpg"
+    },
+    {
+      "path": "images/photo-0009.jpg",
+      "thumb": "images/thumb-0009.jpg"
+    },
+    {
+      "path": "images/photo-0010.jpg",
+      "thumb": "images/thumb-0010.jpg"
+    }
+  ],
+  "sources": []
+}

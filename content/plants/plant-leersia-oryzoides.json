@@ -1,0 +1,21 @@
+{
+  "id": "plant-leersia-oryzoides",
+  "czech": "tajnička rýžovitá",
+  "latin": "Leersia oryzoides",
+  "family": "Poaceae",
+  "aliases": [],
+  "notes": "C3, NT",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    8,
+    9
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "srpen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

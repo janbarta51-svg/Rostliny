@@ -1,0 +1,47 @@
+{
+  "id": "plant-lathyrus-vernus",
+  "czech": "hrachor jarní",
+  "latin": "Lathyrus vernus",
+  "family": "Fabaceae",
+  "aliases": [
+    "hrachor lecha",
+    "lecha jarní"
+  ],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "červená",
+    "fialová",
+    "modrá"
+  ],
+  "months": [
+    4,
+    5
+  ],
+  "color_detail": "červenofialová, modrofialová",
+  "flowering_detail": "duben–květen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0299.jpg",
+      "thumb": "images/thumb-0299.jpg"
+    },
+    {
+      "path": "images/photo-0300.jpg",
+      "thumb": "images/thumb-0300.jpg"
+    },
+    {
+      "path": "images/photo-0301.jpg",
+      "thumb": "images/thumb-0301.jpg"
+    },
+    {
+      "path": "images/photo-0302.jpg",
+      "thumb": "images/thumb-0302.jpg"
+    },
+    {
+      "path": "images/photo-0303.jpg",
+      "thumb": "images/thumb-0303.jpg"
+    }
+  ],
+  "sources": []
+}

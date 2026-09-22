@@ -1,0 +1,26 @@
+{
+  "id": "plant-galium-verum",
+  "czech": "svízel syřišťový",
+  "latin": "Galium verum",
+  "family": "Rubiaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    6,
+    7
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "červen–červenec",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0751.jpg",
+      "thumb": "images/thumb-0751.jpg"
+    }
+  ],
+  "sources": []
+}

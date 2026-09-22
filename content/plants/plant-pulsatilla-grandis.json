@@ -1,0 +1,23 @@
+{
+  "id": "plant-pulsatilla-grandis",
+  "czech": "koniklec velkokvětý",
+  "latin": "Pulsatilla grandis",
+  "family": "Ranunculaceae",
+  "aliases": [],
+  "notes": "C2b, VU",
+  "rank": "druh",
+  "colors": [
+    "modrá",
+    "fialová"
+  ],
+  "months": [
+    3,
+    4,
+    5
+  ],
+  "color_detail": "modrofialová",
+  "flowering_detail": "březen–květen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

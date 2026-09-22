@@ -1,0 +1,22 @@
+{
+  "id": "plant-adenostyles-alliariae",
+  "czech": "havez česnáčková",
+  "latin": "Adenostyles alliariae",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "C4a, LC",
+  "rank": "druh",
+  "colors": [
+    "červená",
+    "fialová"
+  ],
+  "months": [
+    7,
+    8
+  ],
+  "color_detail": "červenofialová",
+  "flowering_detail": "červenec–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

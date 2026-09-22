@@ -1,0 +1,25 @@
+{
+  "id": "plant-helleborus-orientalis",
+  "czech": "čemeřice východní",
+  "latin": "Helleborus orientalis",
+  "family": "Ranunculaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "bílá",
+    "růžová",
+    "červená",
+    "fialová"
+  ],
+  "months": [
+    2,
+    3,
+    4
+  ],
+  "color_detail": "bílá, růžová, červenofialová",
+  "flowering_detail": "únor–duben",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "plant-cirsium-canum",
+  "czech": "pcháč šedý",
+  "latin": "Cirsium canum",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "červená",
+    "fialová"
+  ],
+  "months": [
+    7,
+    8,
+    9,
+    10
+  ],
+  "color_detail": "červenofialová",
+  "flowering_detail": "červenec–říjen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0483.jpg",
+      "thumb": "images/thumb-0483.jpg"
+    },
+    {
+      "path": "images/photo-0484.jpg",
+      "thumb": "images/thumb-0484.jpg"
+    },
+    {
+      "path": "images/photo-0485.jpg",
+      "thumb": "images/thumb-0485.jpg"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "plant-galeopsis-bifida",
+  "czech": "konopice dvouklaná",
+  "latin": "Galeopsis bifida",
+  "family": "Lamiaceae",
+  "aliases": [],
+  "notes": "štětiny jemné, květy obdelníkovité",
+  "rank": "druh",
+  "colors": [
+    "růžová",
+    "fialová",
+    "žlutá"
+  ],
+  "months": [
+    7,
+    8,
+    9,
+    10
+  ],
+  "color_detail": "růžová, fialová, žlutá",
+  "flowering_detail": "červenec–říjen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0434.jpg",
+      "thumb": "images/thumb-0434.jpg"
+    },
+    {
+      "path": "images/photo-0435.jpg",
+      "thumb": "images/thumb-0435.jpg"
+    }
+  ],
+  "sources": []
+}

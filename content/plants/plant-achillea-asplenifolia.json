@@ -1,0 +1,24 @@
+{
+  "id": "plant-achillea-asplenifolia",
+  "czech": "řebříček sleziníkolistý",
+  "latin": "Achillea asplenifolia",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "C1b, CR",
+  "rank": "druh",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "květen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

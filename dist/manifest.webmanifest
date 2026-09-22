@@ -1,0 +1,19 @@
+{
+  "name": "Atlas rostlin",
+  "short_name": "Atlas rostlin",
+  "description": "Terénní atlas rostlin s fotografiemi, barvou květu a dobou kvetení.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f0e6",
+  "theme_color": "#4c5843",
+  "lang": "cs",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

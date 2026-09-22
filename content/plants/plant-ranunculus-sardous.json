@@ -1,0 +1,41 @@
+{
+  "id": "plant-ranunculus-sardous",
+  "czech": "pryskyřník sardinský",
+  "latin": "Ranunculus sardous",
+  "family": "Ranunculaceae",
+  "aliases": [],
+  "notes": "C2, těžší a vlhčí půdy, světle zelený, květy citronové, kalich dolů, rovnou kořeny",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "květen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0781.jpg",
+      "thumb": "images/thumb-0781.jpg"
+    },
+    {
+      "path": "images/photo-0782.jpg",
+      "thumb": "images/thumb-0782.jpg"
+    },
+    {
+      "path": "images/photo-0783.jpg",
+      "thumb": "images/thumb-0783.jpg"
+    },
+    {
+      "path": "images/photo-0784.jpg",
+      "thumb": "images/thumb-0784.jpg"
+    }
+  ],
+  "sources": []
+}

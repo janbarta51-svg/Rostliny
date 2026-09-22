@@ -1,0 +1,35 @@
+{
+  "id": "plant-lotus-tenuis",
+  "czech": "štírovník tenkolistý",
+  "latin": "Lotus tenuis",
+  "family": "Fabaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    6,
+    7,
+    8
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "červen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0312.jpg",
+      "thumb": "images/thumb-0312.jpg"
+    },
+    {
+      "path": "images/photo-0313.jpg",
+      "thumb": "images/thumb-0313.jpg"
+    },
+    {
+      "path": "images/photo-0314.jpg",
+      "thumb": "images/thumb-0314.jpg"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "plant-rumex-thyrsiflorus",
+  "czech": "šťovík rozvětvený",
+  "latin": "Rumex thyrsiflorus",
+  "family": "Polygonaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    7,
+    8
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "červenec–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0834.jpg",
+      "thumb": "images/thumb-0834.jpg"
+    },
+    {
+      "path": "images/photo-0835.jpg",
+      "thumb": "images/thumb-0835.jpg"
+    }
+  ],
+  "sources": []
+}

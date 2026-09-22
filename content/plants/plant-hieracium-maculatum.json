@@ -1,0 +1,22 @@
+{
+  "id": "plant-hieracium-maculatum",
+  "czech": "jestřábník skvrnitý",
+  "latin": "Hieracium maculatum",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "C4a, LC",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    5,
+    6,
+    7
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "květen–červenec",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

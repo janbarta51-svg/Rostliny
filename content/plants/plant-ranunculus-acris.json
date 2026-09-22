@@ -1,0 +1,37 @@
+{
+  "id": "plant-ranunculus-acris",
+  "czech": "pryskyřník prudký",
+  "latin": "Ranunculus acris",
+  "family": "Ranunculaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "květen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0769.jpg",
+      "thumb": "images/thumb-0769.jpg"
+    },
+    {
+      "path": "images/photo-0770.jpg",
+      "thumb": "images/thumb-0770.jpg"
+    },
+    {
+      "path": "images/photo-0771.jpg",
+      "thumb": "images/thumb-0771.jpg"
+    }
+  ],
+  "sources": []
+}

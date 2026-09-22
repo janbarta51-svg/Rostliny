@@ -1,0 +1,30 @@
+{
+  "id": "plant-holcus-mollis",
+  "czech": "medyněk měkký",
+  "latin": "Holcus mollis",
+  "family": "Poaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    7,
+    8
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "červenec–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0072.jpg",
+      "thumb": "images/thumb-0072.jpg"
+    },
+    {
+      "path": "images/photo-0073.jpg",
+      "thumb": "images/thumb-0073.jpg"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "plant-phragmites-australis",
+  "czech": "rákos obecný",
+  "latin": "Phragmites australis",
+  "family": "Poaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    7,
+    8,
+    9
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "červenec–září",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

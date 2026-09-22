@@ -1,0 +1,30 @@
+{
+  "id": "plant-stellaria-media",
+  "czech": "ptačinec žabinec",
+  "latin": "Stellaria media",
+  "family": "Caryophyllaceae",
+  "aliases": [
+    "ptačinec prostřední"
+  ],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "březen–listopad",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

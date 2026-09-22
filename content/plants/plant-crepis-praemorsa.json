@@ -1,0 +1,22 @@
+{
+  "id": "plant-crepis-praemorsa",
+  "czech": "škarda ukousnutá",
+  "latin": "Crepis praemorsa",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "C2b, EN – velké hladké listy s osinami",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    5,
+    6,
+    7
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "květen–červenec",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

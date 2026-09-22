@@ -1,0 +1,21 @@
+{
+  "id": "plant-aconitum-lycoctonum",
+  "czech": "oměj vlčí mor",
+  "latin": "Aconitum lycoctonum",
+  "family": "Ranunculaceae",
+  "aliases": [],
+  "notes": "C4a, LC",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    6,
+    7
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "červen–červenec",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

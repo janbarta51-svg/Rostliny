@@ -1,0 +1,22 @@
+{
+  "id": "plant-taraxacum-sect-taraxacum",
+  "czech": "pampelišky smetánky",
+  "latin": "Taraxacum sect. Taraxacum",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "sekce",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    4,
+    5,
+    6
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "duben–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

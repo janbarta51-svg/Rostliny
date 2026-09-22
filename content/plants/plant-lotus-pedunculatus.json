@@ -1,0 +1,40 @@
+{
+  "id": "plant-lotus-pedunculatus",
+  "czech": "štírovník bažinný",
+  "latin": "Lotus pedunculatus",
+  "family": "Fabaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "červen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0308.jpg",
+      "thumb": "images/thumb-0308.jpg"
+    },
+    {
+      "path": "images/photo-0309.jpg",
+      "thumb": "images/thumb-0309.jpg"
+    },
+    {
+      "path": "images/photo-0310.jpg",
+      "thumb": "images/thumb-0310.jpg"
+    },
+    {
+      "path": "images/photo-0311.jpg",
+      "thumb": "images/thumb-0311.jpg"
+    }
+  ],
+  "sources": []
+}

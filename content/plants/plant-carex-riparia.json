@@ -1,0 +1,38 @@
+{
+  "id": "plant-carex-riparia",
+  "czech": "ostřice pobřežní",
+  "latin": "Carex riparia",
+  "family": "Cyperaceae",
+  "aliases": [],
+  "notes": "C4a, NT",
+  "rank": "druh",
+  "colors": [
+    "černá"
+  ],
+  "months": [
+    5,
+    6
+  ],
+  "color_detail": "černá",
+  "flowering_detail": "květen–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0141.jpg",
+      "thumb": "images/thumb-0141.jpg"
+    },
+    {
+      "path": "images/photo-0142.jpg",
+      "thumb": "images/thumb-0142.jpg"
+    },
+    {
+      "path": "images/photo-0143.jpg",
+      "thumb": "images/thumb-0143.jpg"
+    },
+    {
+      "path": "images/photo-0144.jpg",
+      "thumb": "images/thumb-0144.jpg"
+    }
+  ],
+  "sources": []
+}

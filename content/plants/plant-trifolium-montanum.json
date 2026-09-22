@@ -1,0 +1,42 @@
+{
+  "id": "plant-trifolium-montanum",
+  "czech": "horský",
+  "latin": "Trifolium montanum",
+  "family": "Fabaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "květen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0385.jpg",
+      "thumb": "images/thumb-0385.jpg"
+    },
+    {
+      "path": "images/photo-0386.jpg",
+      "thumb": "images/thumb-0386.jpg"
+    },
+    {
+      "path": "images/photo-0387.jpg",
+      "thumb": "images/thumb-0387.jpg"
+    },
+    {
+      "path": "images/photo-0388.jpg",
+      "thumb": "images/thumb-0388.jpg"
+    }
+  ],
+  "sources": [
+    "https://pladias.cz/taxon/data/Trifolium%20montanum"
+  ]
+}

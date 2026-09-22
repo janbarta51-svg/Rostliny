@@ -1,0 +1,37 @@
+{
+  "id": "plant-trifolium-hybridum",
+  "czech": "jetel zvrhlý",
+  "latin": "Trifolium hybridum",
+  "family": "Fabaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "bílá",
+    "růžová"
+  ],
+  "months": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "bílá, růžová",
+  "flowering_detail": "červen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0375.jpg",
+      "thumb": "images/thumb-0375.jpg"
+    },
+    {
+      "path": "images/photo-0376.jpg",
+      "thumb": "images/thumb-0376.jpg"
+    },
+    {
+      "path": "images/photo-0377.jpg",
+      "thumb": "images/thumb-0377.jpg"
+    }
+  ],
+  "sources": []
+}

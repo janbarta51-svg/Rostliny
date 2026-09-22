@@ -1,0 +1,31 @@
+{
+  "id": "plant-betonica-officinalis",
+  "czech": "bukvice lékařská",
+  "latin": "Betonica officinalis",
+  "family": "Lamiaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "červená",
+    "fialová"
+  ],
+  "months": [
+    7,
+    8
+  ],
+  "color_detail": "červenofialová",
+  "flowering_detail": "červenec–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0441.jpg",
+      "thumb": "images/thumb-0441.jpg"
+    },
+    {
+      "path": "images/photo-0442.jpg",
+      "thumb": "images/thumb-0442.jpg"
+    }
+  ],
+  "sources": []
+}

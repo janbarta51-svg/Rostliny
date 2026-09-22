@@ -1,0 +1,23 @@
+{
+  "id": "plant-anacamptis-palustris",
+  "czech": "vstavač bahenní",
+  "latin": "Anacamptis palustris",
+  "family": "Orchidaceae",
+  "aliases": [],
+  "notes": "C1t, CR",
+  "rank": "druh",
+  "colors": [
+    "růžová",
+    "červená",
+    "fialová"
+  ],
+  "months": [
+    5,
+    6
+  ],
+  "color_detail": "růžová, červenofialová",
+  "flowering_detail": "květen–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "plant-achillea-setacea",
+  "czech": "řebříček štětinolistý",
+  "latin": "Achillea setacea",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "C3, NT",
+  "rank": "druh",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    5,
+    6,
+    7
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "květen–červenec",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

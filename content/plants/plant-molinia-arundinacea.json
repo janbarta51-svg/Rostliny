@@ -1,0 +1,35 @@
+{
+  "id": "plant-molinia-arundinacea",
+  "czech": "bezkolenec rákosovitý",
+  "latin": "Molinia arundinacea",
+  "family": "Poaceae",
+  "aliases": [],
+  "notes": "vysoký, široké listy 2 cm, větvená lata",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    7,
+    8,
+    9
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "červenec–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0081.jpg",
+      "thumb": "images/thumb-0081.jpg"
+    },
+    {
+      "path": "images/photo-0082.jpg",
+      "thumb": "images/thumb-0082.jpg"
+    },
+    {
+      "path": "images/photo-0083.jpg",
+      "thumb": "images/thumb-0083.jpg"
+    }
+  ],
+  "sources": []
+}

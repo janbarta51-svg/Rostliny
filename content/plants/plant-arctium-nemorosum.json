@@ -1,0 +1,23 @@
+{
+  "id": "plant-arctium-nemorosum",
+  "czech": "lopuch hajní",
+  "latin": "Arctium nemorosum",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "C4a, LC",
+  "rank": "druh",
+  "colors": [
+    "červená",
+    "fialová"
+  ],
+  "months": [
+    7,
+    8,
+    9
+  ],
+  "color_detail": "červenofialová",
+  "flowering_detail": "červenec–září",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

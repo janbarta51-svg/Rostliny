@@ -1,0 +1,31 @@
+{
+  "id": "plant-potentilla-anserina",
+  "czech": "mochna husí",
+  "latin": "Potentilla anserina",
+  "family": "Rosaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    6,
+    7,
+    8
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "červen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0862.jpg",
+      "thumb": "images/thumb-0862.jpg"
+    },
+    {
+      "path": "images/photo-0863.jpg",
+      "thumb": "images/thumb-0863.jpg"
+    }
+  ],
+  "sources": []
+}

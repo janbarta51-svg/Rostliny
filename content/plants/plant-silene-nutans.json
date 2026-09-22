@@ -1,0 +1,35 @@
+{
+  "id": "plant-silene-nutans",
+  "czech": "silenka nicí",
+  "latin": "Silene nutans",
+  "family": "Caryophyllaceae",
+  "aliases": [],
+  "notes": "lesklý list, kalich s osinami, dlouhé tyčinky",
+  "rank": "druh",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    5,
+    6,
+    7
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "květen–červenec",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0655.jpg",
+      "thumb": "images/thumb-0655.jpg"
+    },
+    {
+      "path": "images/photo-0656.jpg",
+      "thumb": "images/thumb-0656.jpg"
+    },
+    {
+      "path": "images/photo-0657.jpg",
+      "thumb": "images/thumb-0657.jpg"
+    }
+  ],
+  "sources": []
+}

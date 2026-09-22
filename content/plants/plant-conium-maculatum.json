@@ -1,0 +1,32 @@
+{
+  "id": "plant-conium-maculatum",
+  "czech": "bolehlav plamatý",
+  "latin": "Conium maculatum",
+  "family": "Apiaceae",
+  "aliases": [],
+  "notes": "sivý na lodyze, plody kulovité",
+  "rank": "druh",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "květen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0719.jpg",
+      "thumb": "images/thumb-0719.jpg"
+    },
+    {
+      "path": "images/photo-0720.jpg",
+      "thumb": "images/thumb-0720.jpg"
+    }
+  ],
+  "sources": []
+}

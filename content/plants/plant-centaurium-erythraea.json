@@ -1,0 +1,30 @@
+{
+  "id": "plant-centaurium-erythraea",
+  "czech": "zeměžluč okolíkatá",
+  "latin": "Centaurium erythraea",
+  "family": "Gentianaceae",
+  "aliases": [
+    "zeměžluč lékařská"
+  ],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "růžová"
+  ],
+  "months": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "růžová",
+  "flowering_detail": "červen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0462.jpg",
+      "thumb": "images/thumb-0462.jpg"
+    }
+  ],
+  "sources": []
+}

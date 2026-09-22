@@ -1,0 +1,34 @@
+{
+  "id": "plant-melica-picta",
+  "czech": "strdivka zbarvená",
+  "latin": "Melica picta",
+  "family": "Poaceae",
+  "aliases": [],
+  "notes": "jazýček 2 mm",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    5,
+    6
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "květen–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0087.jpg",
+      "thumb": "images/thumb-0087.jpg"
+    },
+    {
+      "path": "images/photo-0088.jpg",
+      "thumb": "images/thumb-0088.jpg"
+    },
+    {
+      "path": "images/photo-0089.jpg",
+      "thumb": "images/thumb-0089.jpg"
+    }
+  ],
+  "sources": []
+}

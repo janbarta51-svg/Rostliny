@@ -1,0 +1,26 @@
+{
+  "id": "plant-galium-sylvaticum",
+  "czech": "svízel lesní",
+  "latin": "Galium sylvaticum",
+  "family": "Rubiaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    5,
+    6
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "květen–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0748.jpg",
+      "thumb": "images/thumb-0748.jpg"
+    }
+  ],
+  "sources": []
+}

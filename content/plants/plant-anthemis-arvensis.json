@@ -1,0 +1,26 @@
+{
+  "id": "plant-anthemis-arvensis",
+  "czech": "rmen rolní",
+  "latin": "Anthemis arvensis",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "bílá",
+    "žlutá"
+  ],
+  "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "color_detail": "bílá, žlutá",
+  "flowering_detail": "květen–říjen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

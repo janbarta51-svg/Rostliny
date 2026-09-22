@@ -1,0 +1,34 @@
+{
+  "id": "plant-bidens-cernua",
+  "czech": "dvouzubec nicí",
+  "latin": "Bidens cernua",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    8,
+    9
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "srpen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0503.jpg",
+      "thumb": "images/thumb-0503.jpg"
+    },
+    {
+      "path": "images/photo-0504.jpg",
+      "thumb": "images/thumb-0504.jpg"
+    },
+    {
+      "path": "images/photo-0505.jpg",
+      "thumb": "images/thumb-0505.jpg"
+    }
+  ],
+  "sources": []
+}

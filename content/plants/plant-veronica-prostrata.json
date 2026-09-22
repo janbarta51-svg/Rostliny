@@ -1,0 +1,22 @@
+{
+  "id": "plant-veronica-prostrata",
+  "czech": "rozrazil rozprostřený",
+  "latin": "Veronica prostrata",
+  "family": "Plantaginaceae",
+  "aliases": [],
+  "notes": "C4a, LC",
+  "rank": "druh",
+  "colors": [
+    "modrá"
+  ],
+  "months": [
+    4,
+    5,
+    6
+  ],
+  "color_detail": "modrá",
+  "flowering_detail": "duben–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

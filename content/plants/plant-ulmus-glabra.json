@@ -1,0 +1,23 @@
+{
+  "id": "plant-ulmus-glabra",
+  "czech": "jilm drsný",
+  "latin": "Ulmus glabra",
+  "family": "Ulmaceae",
+  "aliases": [
+    "jilm horský"
+  ],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    3,
+    4
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "březen–duben",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

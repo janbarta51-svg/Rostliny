@@ -1,0 +1,22 @@
+{
+  "id": "plant-anacamptis-pyramidalis",
+  "czech": "rudohlávek jehlancovitý",
+  "latin": "Anacamptis pyramidalis",
+  "family": "Orchidaceae",
+  "aliases": [],
+  "notes": "C1b, CR",
+  "rank": "druh",
+  "colors": [
+    "červená",
+    "fialová"
+  ],
+  "months": [
+    5,
+    6
+  ],
+  "color_detail": "červenofialová",
+  "flowering_detail": "květen–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

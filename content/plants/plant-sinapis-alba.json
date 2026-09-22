@@ -1,0 +1,41 @@
+{
+  "id": "plant-sinapis-alba",
+  "czech": "hořčice bílá",
+  "latin": "Sinapis alba",
+  "family": "Brassicaceae",
+  "aliases": [
+    "h. setá"
+  ],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    5,
+    6,
+    7
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "květen–červenec",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0986.jpg",
+      "thumb": "images/thumb-0986.jpg"
+    },
+    {
+      "path": "images/photo-0987.jpg",
+      "thumb": "images/thumb-0987.jpg"
+    },
+    {
+      "path": "images/photo-0988.jpg",
+      "thumb": "images/thumb-0988.jpg"
+    },
+    {
+      "path": "images/photo-0989.jpg",
+      "thumb": "images/thumb-0989.jpg"
+    }
+  ],
+  "sources": []
+}

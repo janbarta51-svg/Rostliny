@@ -1,0 +1,22 @@
+{
+  "id": "plant-telekia-speciosa",
+  "czech": "kolotočník ozdobný",
+  "latin": "Telekia speciosa",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "žlutá, tenké květní lístky, velká",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    6,
+    7,
+    8
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "červen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

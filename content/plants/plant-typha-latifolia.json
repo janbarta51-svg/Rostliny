@@ -1,0 +1,21 @@
+{
+  "id": "plant-typha-latifolia",
+  "czech": "orobinec širokolistý",
+  "latin": "Typha latifolia",
+  "family": "Typhaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "hnědá"
+  ],
+  "months": [
+    7,
+    8
+  ],
+  "color_detail": "hnědá",
+  "flowering_detail": "červenec–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

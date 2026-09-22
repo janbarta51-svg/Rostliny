@@ -1,0 +1,38 @@
+{
+  "id": "plant-carex-pallescens",
+  "czech": "ostřice bledavá",
+  "latin": "Carex pallescens",
+  "family": "Cyperaceae",
+  "aliases": [],
+  "notes": "drobné klásky, dělá varhánky na spodu listu vrchního, různoklsá, mošničky lysé\nrůznoklasá, zkrbatělá báze vrchního listu",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    5,
+    6
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "květen–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0149.jpg",
+      "thumb": "images/thumb-0149.jpg"
+    },
+    {
+      "path": "images/photo-0150.jpg",
+      "thumb": "images/thumb-0150.jpg"
+    },
+    {
+      "path": "images/photo-0173.jpg",
+      "thumb": "images/thumb-0173.jpg"
+    },
+    {
+      "path": "images/photo-0174.jpg",
+      "thumb": "images/thumb-0174.jpg"
+    }
+  ],
+  "sources": []
+}

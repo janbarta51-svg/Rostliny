@@ -1,0 +1,23 @@
+{
+  "id": "plant-corydalis-solida",
+  "czech": "dymnivka plná",
+  "latin": "Corydalis solida",
+  "family": "Papaveraceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "růžová",
+    "červená",
+    "fialová"
+  ],
+  "months": [
+    3,
+    4
+  ],
+  "color_detail": "růžová, červenofialová",
+  "flowering_detail": "březen–duben",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "plant-poa-supina",
+  "czech": "lipnice nízká",
+  "latin": "Poa supina",
+  "family": "Poaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    4,
+    5
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "duben–květen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

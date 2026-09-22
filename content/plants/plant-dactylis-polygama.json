@@ -1,0 +1,22 @@
+{
+  "id": "plant-dactylis-polygama",
+  "czech": "srha hajní",
+  "latin": "Dactylis polygama",
+  "family": "Poaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    5,
+    6,
+    7
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "květen–červenec",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

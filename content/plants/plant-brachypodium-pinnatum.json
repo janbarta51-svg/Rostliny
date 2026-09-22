@@ -1,0 +1,34 @@
+{
+  "id": "plant-brachypodium-pinnatum",
+  "czech": "válečka prapořitá",
+  "latin": "Brachypodium pinnatum",
+  "family": "Poaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    6,
+    7
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "červen–červenec",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0045.jpg",
+      "thumb": "images/thumb-0045.jpg"
+    },
+    {
+      "path": "images/photo-0046.jpg",
+      "thumb": "images/thumb-0046.jpg"
+    },
+    {
+      "path": "images/photo-0047.jpg",
+      "thumb": "images/thumb-0047.jpg"
+    }
+  ],
+  "sources": []
+}

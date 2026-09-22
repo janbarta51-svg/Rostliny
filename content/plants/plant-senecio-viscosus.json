@@ -1,0 +1,23 @@
+{
+  "id": "plant-senecio-viscosus",
+  "czech": "starček lepkavý",
+  "latin": "Senecio viscosus",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "kvete žlutě, chlupatý list",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "červen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

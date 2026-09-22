@@ -1,0 +1,35 @@
+{
+  "id": "plant-astragalus-onobrychis",
+  "czech": "kozinec vičencovitý",
+  "latin": "Astragalus onobrychis",
+  "family": "Fabaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "červená",
+    "fialová"
+  ],
+  "months": [
+    6,
+    7
+  ],
+  "color_detail": "červenofialová",
+  "flowering_detail": "červen–červenec",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0212.jpg",
+      "thumb": "images/thumb-0212.jpg"
+    },
+    {
+      "path": "images/photo-0213.jpg",
+      "thumb": "images/thumb-0213.jpg"
+    },
+    {
+      "path": "images/photo-0214.jpg",
+      "thumb": "images/thumb-0214.jpg"
+    }
+  ],
+  "sources": []
+}

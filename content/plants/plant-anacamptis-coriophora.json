@@ -1,0 +1,23 @@
+{
+  "id": "plant-anacamptis-coriophora",
+  "czech": "vstavač štěničný",
+  "latin": "Anacamptis coriophora",
+  "family": "Orchidaceae",
+  "aliases": [],
+  "notes": "C1b, CR",
+  "rank": "druh",
+  "colors": [
+    "zelená",
+    "červená",
+    "hnědá"
+  ],
+  "months": [
+    5,
+    6
+  ],
+  "color_detail": "zelená, červenohnědá",
+  "flowering_detail": "květen–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

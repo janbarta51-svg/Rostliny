@@ -1,0 +1,23 @@
+{
+  "id": "plant-dianthus-sylvaticus",
+  "czech": "hvozdík lesní",
+  "latin": "Dianthus sylvaticus",
+  "family": "Caryophyllaceae",
+  "aliases": [],
+  "notes": "C3, VU",
+  "rank": "druh",
+  "colors": [
+    "červená",
+    "fialová"
+  ],
+  "months": [
+    7,
+    8,
+    9
+  ],
+  "color_detail": "červenofialová",
+  "flowering_detail": "červenec–září",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

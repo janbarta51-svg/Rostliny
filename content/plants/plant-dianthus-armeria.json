@@ -1,0 +1,32 @@
+{
+  "id": "plant-dianthus-armeria",
+  "czech": "hvozdík svazčitý",
+  "latin": "Dianthus armeria",
+  "family": "Caryophyllaceae",
+  "aliases": [],
+  "notes": "pod květem shluk kalichů – C4a, LC",
+  "rank": "druh",
+  "colors": [
+    "červená",
+    "fialová"
+  ],
+  "months": [
+    6,
+    7,
+    8
+  ],
+  "color_detail": "červenofialová",
+  "flowering_detail": "červen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0639.jpg",
+      "thumb": "images/thumb-0639.jpg"
+    },
+    {
+      "path": "images/photo-0640.jpg",
+      "thumb": "images/thumb-0640.jpg"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "plant-cerastium-lucorum",
+  "czech": "rožec hajní",
+  "latin": "Cerastium lucorum",
+  "family": "Caryophyllaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    5,
+    6,
+    7
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "květen–červenec",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

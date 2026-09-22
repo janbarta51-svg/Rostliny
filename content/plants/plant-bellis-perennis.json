@@ -1,0 +1,28 @@
+{
+  "id": "plant-bellis-perennis",
+  "czech": "sedmikráska obecná (chudobka)",
+  "latin": "Bellis perennis",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "bílá",
+    "žlutá"
+  ],
+  "months": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "bílá, žlutá",
+  "flowering_detail": "únor–září",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

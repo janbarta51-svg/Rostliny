@@ -1,0 +1,21 @@
+{
+  "id": "plant-isopyrum-thalictroides",
+  "czech": "zapalice žluťuchovitá",
+  "latin": "Isopyrum thalictroides",
+  "family": "Ranunculaceae",
+  "aliases": [],
+  "notes": "C4a, LC",
+  "rank": "druh",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    3,
+    4
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "březen–duben",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

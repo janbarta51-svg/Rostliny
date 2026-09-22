@@ -1,0 +1,22 @@
+{
+  "id": "plant-stellaria-ruderalis",
+  "czech": "ptačinec rumištní",
+  "latin": "Stellaria ruderalis",
+  "family": "Caryophyllaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    3,
+    4,
+    5
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "březen–květen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

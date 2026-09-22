@@ -1,0 +1,22 @@
+{
+  "id": "plant-dianthus-moravicus",
+  "czech": "hvozdík moravský",
+  "latin": "Dianthus moravicus",
+  "family": "Caryophyllaceae",
+  "aliases": [],
+  "notes": "C2r, EN",
+  "rank": "druh",
+  "colors": [
+    "červená",
+    "fialová"
+  ],
+  "months": [
+    5,
+    6
+  ],
+  "color_detail": "červenofialová",
+  "flowering_detail": "květen–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

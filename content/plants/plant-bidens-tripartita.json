@@ -1,0 +1,34 @@
+{
+  "id": "plant-bidens-tripartita",
+  "czech": "dvouzubec trojdílný",
+  "latin": "Bidens tripartita",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    8,
+    9
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "srpen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0513.jpg",
+      "thumb": "images/thumb-0513.jpg"
+    },
+    {
+      "path": "images/photo-0514.jpg",
+      "thumb": "images/thumb-0514.jpg"
+    },
+    {
+      "path": "images/photo-0515.jpg",
+      "thumb": "images/thumb-0515.jpg"
+    }
+  ],
+  "sources": []
+}

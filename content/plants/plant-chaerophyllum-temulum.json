@@ -1,0 +1,43 @@
+{
+  "id": "plant-chaerophyllum-temulum",
+  "czech": "krabilice mámivá",
+  "latin": "Chaerophyllum temulum",
+  "family": "Apiaceae",
+  "aliases": [],
+  "notes": "rýhovaná nažka",
+  "rank": "druh",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    5,
+    6,
+    7
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "květen–červenec",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0732.jpg",
+      "thumb": "images/thumb-0732.jpg"
+    },
+    {
+      "path": "images/photo-0733.jpg",
+      "thumb": "images/thumb-0733.jpg"
+    },
+    {
+      "path": "images/photo-0734.jpg",
+      "thumb": "images/thumb-0734.jpg"
+    },
+    {
+      "path": "images/photo-0735.jpg",
+      "thumb": "images/thumb-0735.jpg"
+    },
+    {
+      "path": "images/photo-0736.jpg",
+      "thumb": "images/thumb-0736.jpg"
+    }
+  ],
+  "sources": []
+}

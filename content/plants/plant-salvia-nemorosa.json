@@ -1,0 +1,39 @@
+{
+  "id": "plant-salvia-nemorosa",
+  "czech": "šalvěj hajní",
+  "latin": "Salvia nemorosa",
+  "family": "Gentianaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "modrá",
+    "fialová"
+  ],
+  "months": [
+    6,
+    7
+  ],
+  "color_detail": "modrofialová",
+  "flowering_detail": "červen–červenec",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0470.jpg",
+      "thumb": "images/thumb-0470.jpg"
+    },
+    {
+      "path": "images/photo-0471.jpg",
+      "thumb": "images/thumb-0471.jpg"
+    },
+    {
+      "path": "images/photo-0472.jpg",
+      "thumb": "images/thumb-0472.jpg"
+    },
+    {
+      "path": "images/photo-0473.jpg",
+      "thumb": "images/thumb-0473.jpg"
+    }
+  ],
+  "sources": []
+}

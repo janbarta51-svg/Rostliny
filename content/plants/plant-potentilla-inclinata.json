@@ -1,0 +1,32 @@
+{
+  "id": "plant-potentilla-inclinata",
+  "czech": "mochna šedavá",
+  "latin": "Potentilla inclinata",
+  "family": "Rosaceae",
+  "aliases": [],
+  "notes": "rub listu zelený",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "červen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0865.jpg",
+      "thumb": "images/thumb-0865.jpg"
+    },
+    {
+      "path": "images/photo-0866.jpg",
+      "thumb": "images/thumb-0866.jpg"
+    }
+  ],
+  "sources": []
+}

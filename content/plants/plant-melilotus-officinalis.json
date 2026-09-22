@@ -1,0 +1,41 @@
+{
+  "id": "plant-melilotus-officinalis",
+  "czech": "komonice lékařská",
+  "latin": "Melilotus officinalis",
+  "family": "Fabaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "květen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0328.jpg",
+      "thumb": "images/thumb-0328.jpg"
+    },
+    {
+      "path": "images/photo-0329.jpg",
+      "thumb": "images/thumb-0329.jpg"
+    },
+    {
+      "path": "images/photo-0330.jpg",
+      "thumb": "images/thumb-0330.jpg"
+    },
+    {
+      "path": "images/photo-0331.jpg",
+      "thumb": "images/thumb-0331.jpg"
+    }
+  ],
+  "sources": []
+}

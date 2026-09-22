@@ -1,0 +1,37 @@
+{
+  "id": "plant-cirsium-arvense",
+  "czech": "pcháč oset",
+  "latin": "Cirsium arvense",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "červená",
+    "fialová"
+  ],
+  "months": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "červenofialová",
+  "flowering_detail": "červen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0486.jpg",
+      "thumb": "images/thumb-0486.jpg"
+    },
+    {
+      "path": "images/photo-0487.jpg",
+      "thumb": "images/thumb-0487.jpg"
+    },
+    {
+      "path": "images/photo-0488.jpg",
+      "thumb": "images/thumb-0488.jpg"
+    }
+  ],
+  "sources": []
+}

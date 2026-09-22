@@ -1,0 +1,25 @@
+{
+  "id": "plant-spergula-arvensis",
+  "czech": "kolenec rolní",
+  "latin": "Spergula arvensis",
+  "family": "Caryophyllaceae",
+  "aliases": [],
+  "notes": "kvete bíle – takový velký plevel okoličnatý",
+  "rank": "druh",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "květen–říjen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

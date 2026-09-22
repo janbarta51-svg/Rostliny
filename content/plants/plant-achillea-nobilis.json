@@ -1,0 +1,24 @@
+{
+  "id": "plant-achillea-nobilis",
+  "czech": "řebříček sličný",
+  "latin": "Achillea nobilis",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "C3, LC",
+  "rank": "druh",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "červen–říjen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

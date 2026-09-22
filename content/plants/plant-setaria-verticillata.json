@@ -1,0 +1,23 @@
+{
+  "id": "plant-setaria-verticillata",
+  "czech": "bér přeslenitý",
+  "latin": "Setaria verticillata",
+  "family": "Poaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "červen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

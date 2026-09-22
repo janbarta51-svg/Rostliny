@@ -1,0 +1,24 @@
+{
+  "id": "plant-sonchus-asper",
+  "czech": "mléč drsný",
+  "latin": "Sonchus asper",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "zvláštně zatočený list u lodyhy, zoubkatý, kvete žlutě",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "červen–říjen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

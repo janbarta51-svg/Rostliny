@@ -1,0 +1,36 @@
+{
+  "id": "plant-arctium-lappa",
+  "czech": "lopuch větší",
+  "latin": "Arctium lappa",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "červená",
+    "fialová"
+  ],
+  "months": [
+    7,
+    8,
+    9
+  ],
+  "color_detail": "červenofialová",
+  "flowering_detail": "červenec–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0497.jpg",
+      "thumb": "images/thumb-0497.jpg"
+    },
+    {
+      "path": "images/photo-0498.jpg",
+      "thumb": "images/thumb-0498.jpg"
+    },
+    {
+      "path": "images/photo-0499.jpg",
+      "thumb": "images/thumb-0499.jpg"
+    }
+  ],
+  "sources": []
+}

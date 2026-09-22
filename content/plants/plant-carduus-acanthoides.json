@@ -1,0 +1,40 @@
+{
+  "id": "plant-carduus-acanthoides",
+  "czech": "bodlák obecný",
+  "latin": "Carduus acanthoides",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "červená",
+    "fialová"
+  ],
+  "months": [
+    6,
+    7,
+    8
+  ],
+  "color_detail": "červenofialová",
+  "flowering_detail": "červen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0516.jpg",
+      "thumb": "images/thumb-0516.jpg"
+    },
+    {
+      "path": "images/photo-0517.jpg",
+      "thumb": "images/thumb-0517.jpg"
+    },
+    {
+      "path": "images/photo-0518.jpg",
+      "thumb": "images/thumb-0518.jpg"
+    },
+    {
+      "path": "images/photo-0519.jpg",
+      "thumb": "images/thumb-0519.jpg"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "plant-hypochaeris-radicata",
+  "czech": "prasetník kořenatý",
+  "latin": "Hypochaeris radicata",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "osiny na listu",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "květen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0587.jpg",
+      "thumb": "images/thumb-0587.jpg"
+    },
+    {
+      "path": "images/photo-0588.jpg",
+      "thumb": "images/thumb-0588.jpg"
+    },
+    {
+      "path": "images/photo-0589.jpg",
+      "thumb": "images/thumb-0589.jpg"
+    }
+  ],
+  "sources": []
+}

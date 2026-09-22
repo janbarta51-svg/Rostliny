@@ -1,0 +1,22 @@
+{
+  "id": "plant-artemisia-pancicii",
+  "czech": "pelyněk Pančićův",
+  "latin": "Artemisia pancicii",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "C1r, EN",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    8,
+    9,
+    10
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "srpen–říjen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

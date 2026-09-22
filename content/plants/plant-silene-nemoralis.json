@@ -1,0 +1,22 @@
+{
+  "id": "plant-silene-nemoralis",
+  "czech": "silenka hajní",
+  "latin": "Silene nemoralis",
+  "family": "Caryophyllaceae",
+  "aliases": [],
+  "notes": "úzký kalich dorůžova, bílá",
+  "rank": "druh",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    5,
+    6,
+    7
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "květen–červenec",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "plant-lindernia-dubia",
+  "czech": "puštička pochybná",
+  "latin": "Lindernia dubia",
+  "family": "Hypericaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    8,
+    9
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "srpen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0929.jpg",
+      "thumb": "images/thumb-0929.jpg"
+    },
+    {
+      "path": "images/photo-0930.jpg",
+      "thumb": "images/thumb-0930.jpg"
+    }
+  ],
+  "sources": [
+    "https://pladias.cz/taxon/data/Lindernia%20dubia"
+  ]
+}

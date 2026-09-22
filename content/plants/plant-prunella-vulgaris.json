@@ -1,0 +1,34 @@
+{
+  "id": "plant-prunella-vulgaris",
+  "czech": "černohlávek obecný",
+  "latin": "Prunella vulgaris",
+  "family": "Lamiaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "modrá",
+    "fialová"
+  ],
+  "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "color_detail": "modrofialová",
+  "flowering_detail": "červen–říjen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0454.jpg",
+      "thumb": "images/thumb-0454.jpg"
+    },
+    {
+      "path": "images/photo-0455.jpg",
+      "thumb": "images/thumb-0455.jpg"
+    }
+  ],
+  "sources": []
+}

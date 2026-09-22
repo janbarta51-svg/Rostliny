@@ -1,0 +1,22 @@
+{
+  "id": "plant-sparganium-natans",
+  "czech": "zevar nejmenší",
+  "latin": "Sparganium natans",
+  "family": "Typhaceae",
+  "aliases": [],
+  "notes": "C2b, VU",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    6,
+    7,
+    8
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "červen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "plant-hieracium-sabaudum",
+  "czech": "jestřábník savojský",
+  "latin": "Hieracium sabaudum",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "tmavší tyčinky, listy nahoru po lodyze",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    8,
+    9,
+    10
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "srpen–říjen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0578.jpg",
+      "thumb": "images/thumb-0578.jpg"
+    },
+    {
+      "path": "images/photo-0579.jpg",
+      "thumb": "images/thumb-0579.jpg"
+    },
+    {
+      "path": "images/photo-0580.jpg",
+      "thumb": "images/thumb-0580.jpg"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "plant-ranunculus-sect-batrachium",
+  "czech": "lakušník",
+  "latin": "Ranunculus sect. Batrachium",
+  "family": "Ranunculaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "sekce",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "květen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

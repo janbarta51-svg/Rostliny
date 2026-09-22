@@ -1,0 +1,22 @@
+{
+  "id": "plant-adonis-aestivalis",
+  "czech": "hlaváček letní",
+  "latin": "Adonis aestivalis",
+  "family": "Ranunculaceae",
+  "aliases": [],
+  "notes": "C3, NT",
+  "rank": "druh",
+  "colors": [
+    "červená"
+  ],
+  "months": [
+    5,
+    6,
+    7
+  ],
+  "color_detail": "červená",
+  "flowering_detail": "květen–červenec",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

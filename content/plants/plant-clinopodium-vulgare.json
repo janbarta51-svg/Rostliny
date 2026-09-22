@@ -1,0 +1,35 @@
+{
+  "id": "plant-clinopodium-vulgare",
+  "czech": "klinopád obecný",
+  "latin": "Clinopodium vulgare",
+  "family": "Lamiaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "červená",
+    "fialová"
+  ],
+  "months": [
+    6,
+    7
+  ],
+  "color_detail": "červenofialová",
+  "flowering_detail": "červen–červenec",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0444.jpg",
+      "thumb": "images/thumb-0444.jpg"
+    },
+    {
+      "path": "images/photo-0445.jpg",
+      "thumb": "images/thumb-0445.jpg"
+    },
+    {
+      "path": "images/photo-0446.jpg",
+      "thumb": "images/thumb-0446.jpg"
+    }
+  ],
+  "sources": []
+}

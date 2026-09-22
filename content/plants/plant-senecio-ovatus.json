@@ -1,0 +1,37 @@
+{
+  "id": "plant-senecio-ovatus",
+  "czech": "starček Fuchsův",
+  "latin": "Senecio ovatus",
+  "family": "Asteraceae",
+  "aliases": [
+    "starček vejčitý"
+  ],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    7,
+    8,
+    9
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "červenec–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0606.jpg",
+      "thumb": "images/thumb-0606.jpg"
+    },
+    {
+      "path": "images/photo-0607.jpg",
+      "thumb": "images/thumb-0607.jpg"
+    },
+    {
+      "path": "images/photo-0608.jpg",
+      "thumb": "images/thumb-0608.jpg"
+    }
+  ],
+  "sources": []
+}

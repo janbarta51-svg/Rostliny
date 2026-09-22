@@ -1,0 +1,25 @@
+{
+  "id": "plant-thlaspi-arvense",
+  "czech": "penízek rolní",
+  "latin": "Thlaspi arvense",
+  "family": "Brassicaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "duben–září",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

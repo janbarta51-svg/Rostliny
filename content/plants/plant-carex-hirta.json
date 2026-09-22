@@ -1,0 +1,38 @@
+{
+  "id": "plant-carex-hirta",
+  "czech": "ostřice srstnatá",
+  "latin": "Carex hirta",
+  "family": "Cyperaceae",
+  "aliases": [],
+  "notes": "pangejty, žlutozelené mošničky i plevy, chlupaté, dlouhé listeny, výběžkatá",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    5,
+    6
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "květen–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0167.jpg",
+      "thumb": "images/thumb-0167.jpg"
+    },
+    {
+      "path": "images/photo-0168.jpg",
+      "thumb": "images/thumb-0168.jpg"
+    },
+    {
+      "path": "images/photo-0169.jpg",
+      "thumb": "images/thumb-0169.jpg"
+    },
+    {
+      "path": "images/photo-0170.jpg",
+      "thumb": "images/thumb-0170.jpg"
+    }
+  ],
+  "sources": []
+}

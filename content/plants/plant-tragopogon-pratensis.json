@@ -1,0 +1,36 @@
+{
+  "id": "plant-tragopogon-pratensis",
+  "czech": "kozí brada luční",
+  "latin": "Tragopogon pratensis",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "tmavé tyčinky, okvětní lístky ze širok do špičky, přesahují – velké květy",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "květen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0620.jpg",
+      "thumb": "images/thumb-0620.jpg"
+    },
+    {
+      "path": "images/photo-0621.jpg",
+      "thumb": "images/thumb-0621.jpg"
+    },
+    {
+      "path": "images/photo-0622.jpg",
+      "thumb": "images/thumb-0622.jpg"
+    }
+  ],
+  "sources": []
+}

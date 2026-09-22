@@ -1,0 +1,23 @@
+{
+  "id": "plant-lactuca-saligna",
+  "czech": "locika vrbová",
+  "latin": "Lactuca saligna",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "C1t, CR – bílá",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "květen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

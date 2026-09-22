@@ -1,0 +1,30 @@
+{
+  "id": "plant-astragalus-asper",
+  "czech": "kozinec drsný",
+  "latin": "Astragalus asper",
+  "family": "Fabaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    5,
+    6
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "květen–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0200.jpg",
+      "thumb": "images/thumb-0200.jpg"
+    },
+    {
+      "path": "images/photo-0201.jpg",
+      "thumb": "images/thumb-0201.jpg"
+    }
+  ],
+  "sources": []
+}

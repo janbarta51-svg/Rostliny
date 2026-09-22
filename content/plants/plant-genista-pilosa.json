@@ -1,0 +1,35 @@
+{
+  "id": "plant-genista-pilosa",
+  "czech": "kručinka chlupatá",
+  "latin": "Genista pilosa",
+  "family": "Fabaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    4,
+    5,
+    6
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "duben–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0256.jpg",
+      "thumb": "images/thumb-0256.jpg"
+    },
+    {
+      "path": "images/photo-0257.jpg",
+      "thumb": "images/thumb-0257.jpg"
+    },
+    {
+      "path": "images/photo-0258.jpg",
+      "thumb": "images/thumb-0258.jpg"
+    }
+  ],
+  "sources": []
+}

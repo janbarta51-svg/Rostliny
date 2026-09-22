@@ -1,0 +1,35 @@
+{
+  "id": "plant-comarum-palustre",
+  "czech": "zábělník bahenní",
+  "latin": "Comarum palustre",
+  "family": "Rosaceae",
+  "aliases": [],
+  "notes": "mochna",
+  "rank": "druh",
+  "colors": [
+    "červená",
+    "hnědá"
+  ],
+  "months": [
+    6,
+    7
+  ],
+  "color_detail": "červenohnědá",
+  "flowering_detail": "červen–červenec",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0859.jpg",
+      "thumb": "images/thumb-0859.jpg"
+    },
+    {
+      "path": "images/photo-0860.jpg",
+      "thumb": "images/thumb-0860.jpg"
+    },
+    {
+      "path": "images/photo-0861.jpg",
+      "thumb": "images/thumb-0861.jpg"
+    }
+  ],
+  "sources": []
+}

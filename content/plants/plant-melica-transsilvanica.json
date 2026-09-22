@@ -1,0 +1,20 @@
+{
+  "id": "plant-melica-transsilvanica",
+  "czech": "strdivka sedmihradská",
+  "latin": "Melica transsilvanica",
+  "family": "Poaceae",
+  "aliases": [],
+  "notes": "C4a, LC",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    6
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "červen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

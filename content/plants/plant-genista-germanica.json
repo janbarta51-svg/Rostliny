@@ -1,0 +1,42 @@
+{
+  "id": "plant-genista-germanica",
+  "czech": "kručinka německá",
+  "latin": "Genista germanica",
+  "family": "Fabaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    5,
+    6
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "květen–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0251.jpg",
+      "thumb": "images/thumb-0251.jpg"
+    },
+    {
+      "path": "images/photo-0252.jpg",
+      "thumb": "images/thumb-0252.jpg"
+    },
+    {
+      "path": "images/photo-0253.jpg",
+      "thumb": "images/thumb-0253.jpg"
+    },
+    {
+      "path": "images/photo-0254.jpg",
+      "thumb": "images/thumb-0254.jpg"
+    },
+    {
+      "path": "images/photo-0255.jpg",
+      "thumb": "images/thumb-0255.jpg"
+    }
+  ],
+  "sources": []
+}

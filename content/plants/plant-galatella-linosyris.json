@@ -1,0 +1,22 @@
+{
+  "id": "plant-galatella-linosyris",
+  "czech": "hvězdnice zlatovlásek",
+  "latin": "Galatella linosyris",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "C3, NT",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    7,
+    8,
+    9
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "červenec–září",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

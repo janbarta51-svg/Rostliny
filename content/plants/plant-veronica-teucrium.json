@@ -1,0 +1,31 @@
+{
+  "id": "plant-veronica-teucrium",
+  "czech": "rozrazil ožankový",
+  "latin": "Veronica teucrium",
+  "family": "Plantaginaceae",
+  "aliases": [],
+  "notes": "vápenec, zříceniny",
+  "rank": "druh",
+  "colors": [
+    "modrá"
+  ],
+  "months": [
+    5,
+    6,
+    7
+  ],
+  "color_detail": "modrá",
+  "flowering_detail": "květen–červenec",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0679.jpg",
+      "thumb": "images/thumb-0679.jpg"
+    },
+    {
+      "path": "images/photo-0680.jpg",
+      "thumb": "images/thumb-0680.jpg"
+    }
+  ],
+  "sources": []
+}

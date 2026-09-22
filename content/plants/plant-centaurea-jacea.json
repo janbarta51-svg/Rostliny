@@ -1,0 +1,48 @@
+{
+  "id": "plant-centaurea-jacea",
+  "czech": "chrpa luční",
+  "latin": "Centaurea jacea",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "nemá přívěsky",
+  "rank": "druh",
+  "colors": [
+    "červená",
+    "fialová"
+  ],
+  "months": [
+    7,
+    8,
+    9
+  ],
+  "color_detail": "červenofialová",
+  "flowering_detail": "červenec–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0541.jpg",
+      "thumb": "images/thumb-0541.jpg"
+    },
+    {
+      "path": "images/photo-0542.jpg",
+      "thumb": "images/thumb-0542.jpg"
+    },
+    {
+      "path": "images/photo-0543.jpg",
+      "thumb": "images/thumb-0543.jpg"
+    },
+    {
+      "path": "images/photo-0544.jpg",
+      "thumb": "images/thumb-0544.jpg"
+    },
+    {
+      "path": "images/photo-0545.jpg",
+      "thumb": "images/thumb-0545.jpg"
+    },
+    {
+      "path": "images/photo-0546.jpg",
+      "thumb": "images/thumb-0546.jpg"
+    }
+  ],
+  "sources": []
+}

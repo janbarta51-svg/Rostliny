@@ -1,0 +1,38 @@
+{
+  "id": "plant-ranunculus-bulbosus",
+  "czech": "pryskyřník hlíznatý",
+  "latin": "Ranunculus bulbosus",
+  "family": "Ranunculaceae",
+  "aliases": [],
+  "notes": "kulatá hlízka, květy do oranžova, žloutkové, tmavě zelený, kyselé pastviny, suší",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    5,
+    6
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "květen–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0774.jpg",
+      "thumb": "images/thumb-0774.jpg"
+    },
+    {
+      "path": "images/photo-0775.jpg",
+      "thumb": "images/thumb-0775.jpg"
+    },
+    {
+      "path": "images/photo-0776.jpg",
+      "thumb": "images/thumb-0776.jpg"
+    },
+    {
+      "path": "images/photo-0777.jpg",
+      "thumb": "images/thumb-0777.jpg"
+    }
+  ],
+  "sources": []
+}

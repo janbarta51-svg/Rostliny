@@ -1,0 +1,37 @@
+{
+  "id": "plant-crepis-biennis",
+  "czech": "škarda dvouletá",
+  "latin": "Crepis biennis",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "lístky pod květem",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "květen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0569.jpg",
+      "thumb": "images/thumb-0569.jpg"
+    },
+    {
+      "path": "images/photo-0570.jpg",
+      "thumb": "images/thumb-0570.jpg"
+    },
+    {
+      "path": "images/photo-0571.jpg",
+      "thumb": "images/thumb-0571.jpg"
+    }
+  ],
+  "sources": []
+}

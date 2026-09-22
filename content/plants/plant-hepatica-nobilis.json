@@ -1,0 +1,23 @@
+{
+  "id": "plant-hepatica-nobilis",
+  "czech": "jaterník podléška",
+  "latin": "Hepatica nobilis",
+  "family": "Ranunculaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "bílá",
+    "růžová",
+    "modrá"
+  ],
+  "months": [
+    3,
+    4
+  ],
+  "color_detail": "bílá, růžová, modrá",
+  "flowering_detail": "březen–duben",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

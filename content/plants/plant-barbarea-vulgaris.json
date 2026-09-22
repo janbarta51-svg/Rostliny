@@ -1,0 +1,43 @@
+{
+  "id": "plant-barbarea-vulgaris",
+  "czech": "barborka obecná",
+  "latin": "Barbarea vulgaris",
+  "family": "Brassicaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    4,
+    5,
+    6
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "duben–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0957.jpg",
+      "thumb": "images/thumb-0957.jpg"
+    },
+    {
+      "path": "images/photo-0958.jpg",
+      "thumb": "images/thumb-0958.jpg"
+    },
+    {
+      "path": "images/photo-0959.jpg",
+      "thumb": "images/thumb-0959.jpg"
+    },
+    {
+      "path": "images/photo-0960.jpg",
+      "thumb": "images/thumb-0960.jpg"
+    },
+    {
+      "path": "images/photo-0961.jpg",
+      "thumb": "images/thumb-0961.jpg"
+    }
+  ],
+  "sources": []
+}

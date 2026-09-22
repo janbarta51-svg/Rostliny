@@ -1,0 +1,26 @@
+{
+  "id": "plant-scorzoneroides-autumnalis",
+  "czech": "máchelka podzimní",
+  "latin": "Scorzoneroides autumnalis",
+  "family": "Asteraceae",
+  "aliases": [
+    "podzimka obecná"
+  ],
+  "notes": "žlutá, list zvláštní úzký občas vykrojený",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "červen–říjen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "plant-geranium-pyrenaicum",
+  "czech": "kakost pyrenejský",
+  "latin": "Geranium pyrenaicum",
+  "family": "Geraniaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "červená",
+    "fialová"
+  ],
+  "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "červenofialová",
+  "flowering_detail": "květen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0687.jpg",
+      "thumb": "images/thumb-0687.jpg"
+    },
+    {
+      "path": "images/photo-0688.jpg",
+      "thumb": "images/thumb-0688.jpg"
+    },
+    {
+      "path": "images/photo-0689.jpg",
+      "thumb": "images/thumb-0689.jpg"
+    }
+  ],
+  "sources": []
+}

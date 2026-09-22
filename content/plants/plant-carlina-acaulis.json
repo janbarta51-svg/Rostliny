@@ -1,0 +1,33 @@
+{
+  "id": "plant-carlina-acaulis",
+  "czech": "pupava bezlodyžná",
+  "latin": "Carlina acaulis",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "bílá",
+    "žlutá"
+  ],
+  "months": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "bílá, žlutobílá",
+  "flowering_detail": "červen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0532.jpg",
+      "thumb": "images/thumb-0532.jpg"
+    },
+    {
+      "path": "images/photo-0533.jpg",
+      "thumb": "images/thumb-0533.jpg"
+    }
+  ],
+  "sources": []
+}

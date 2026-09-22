@@ -1,0 +1,37 @@
+{
+  "id": "plant-stachys-sylvatica",
+  "czech": "čistec lesní",
+  "latin": "Stachys sylvatica",
+  "family": "Lamiaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "červená",
+    "fialová"
+  ],
+  "months": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "červenofialová",
+  "flowering_detail": "červen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0459.jpg",
+      "thumb": "images/thumb-0459.jpg"
+    },
+    {
+      "path": "images/photo-0460.jpg",
+      "thumb": "images/thumb-0460.jpg"
+    },
+    {
+      "path": "images/photo-0461.jpg",
+      "thumb": "images/thumb-0461.jpg"
+    }
+  ],
+  "sources": []
+}

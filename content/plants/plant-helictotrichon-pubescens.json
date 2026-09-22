@@ -1,0 +1,21 @@
+{
+  "id": "plant-helictotrichon-pubescens",
+  "czech": "ovsíř pýřitý",
+  "latin": "Helictotrichon pubescens",
+  "family": "Poaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    5,
+    6
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "květen–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

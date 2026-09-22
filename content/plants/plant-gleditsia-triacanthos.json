@@ -1,0 +1,38 @@
+{
+  "id": "plant-gleditsia-triacanthos",
+  "czech": "dřezovec trojtrnný",
+  "latin": "Gleditsia triacanthos",
+  "family": "Fabaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá",
+    "zelená"
+  ],
+  "months": [
+    6
+  ],
+  "color_detail": "žlutozelená",
+  "flowering_detail": "červen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0263.jpg",
+      "thumb": "images/thumb-0263.jpg"
+    },
+    {
+      "path": "images/photo-0264.jpg",
+      "thumb": "images/thumb-0264.jpg"
+    },
+    {
+      "path": "images/photo-0265.jpg",
+      "thumb": "images/thumb-0265.jpg"
+    },
+    {
+      "path": "images/photo-0266.jpg",
+      "thumb": "images/thumb-0266.jpg"
+    }
+  ],
+  "sources": []
+}

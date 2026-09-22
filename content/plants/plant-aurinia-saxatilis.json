@@ -1,0 +1,34 @@
+{
+  "id": "plant-aurinia-saxatilis",
+  "czech": "tařice skalní",
+  "latin": "Aurinia saxatilis",
+  "family": "Brassicaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    4,
+    5
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "duben–květen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0950.jpg",
+      "thumb": "images/thumb-0950.jpg"
+    },
+    {
+      "path": "images/photo-0951.jpg",
+      "thumb": "images/thumb-0951.jpg"
+    },
+    {
+      "path": "images/photo-0952.jpg",
+      "thumb": "images/thumb-0952.jpg"
+    }
+  ],
+  "sources": []
+}

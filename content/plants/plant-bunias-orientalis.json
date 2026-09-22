@@ -1,0 +1,40 @@
+{
+  "id": "plant-bunias-orientalis",
+  "czech": "rukevník východní",
+  "latin": "Bunias orientalis",
+  "family": "Brassicaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "květen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0969.jpg",
+      "thumb": "images/thumb-0969.jpg"
+    },
+    {
+      "path": "images/photo-0970.jpg",
+      "thumb": "images/thumb-0970.jpg"
+    },
+    {
+      "path": "images/photo-0971.jpg",
+      "thumb": "images/thumb-0971.jpg"
+    },
+    {
+      "path": "images/photo-0972.jpg",
+      "thumb": "images/thumb-0972.jpg"
+    }
+  ],
+  "sources": []
+}

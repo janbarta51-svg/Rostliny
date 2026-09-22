@@ -1,0 +1,25 @@
+{
+  "id": "plant-senecio-inaequidens",
+  "czech": "starček úzkolistý",
+  "latin": "Senecio inaequidens",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "kvete u silnic",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "červen–listopad",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "plant-knautia-arvensis",
+  "czech": "chrastavec rolní",
+  "latin": "Knautia arvensis",
+  "family": "Dipsacaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "růžová",
+    "fialová",
+    "červená"
+  ],
+  "months": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "růžová, růžovofialová, červenofialová",
+  "flowering_detail": "červen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

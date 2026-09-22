@@ -1,0 +1,21 @@
+{
+  "id": "plant-stellaria-pallida",
+  "czech": "ptačinec bledý",
+  "latin": "Stellaria pallida",
+  "family": "Caryophyllaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    4,
+    5
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "duben–květen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "plant-erechtites-hieraciifolius",
+  "czech": "starčkovec jestřábníkolistý",
+  "latin": "Erechtites hieraciifolius",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá",
+    "bílá"
+  ],
+  "months": [
+    7,
+    8,
+    9
+  ],
+  "color_detail": "žlutobílá",
+  "flowering_detail": "červenec–září",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

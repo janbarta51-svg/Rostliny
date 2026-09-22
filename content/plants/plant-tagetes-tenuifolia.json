@@ -1,0 +1,24 @@
+{
+  "id": "plant-tagetes-tenuifolia",
+  "czech": "aksamitník tenkolistý",
+  "latin": "Tagetes tenuifolia",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá",
+    "oranžová"
+  ],
+  "months": [
+    7,
+    8,
+    9,
+    10
+  ],
+  "color_detail": "žlutá, oranžová",
+  "flowering_detail": "červenec–říjen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

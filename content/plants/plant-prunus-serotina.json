@@ -1,0 +1,34 @@
+{
+  "id": "plant-prunus-serotina",
+  "czech": "střemcha pozdní",
+  "latin": "Prunus serotina",
+  "family": "Rosaceae",
+  "aliases": [],
+  "notes": "invazka",
+  "rank": "druh",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    5,
+    6
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "květen–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0843.jpg",
+      "thumb": "images/thumb-0843.jpg"
+    },
+    {
+      "path": "images/photo-0844.jpg",
+      "thumb": "images/thumb-0844.jpg"
+    },
+    {
+      "path": "images/photo-0845.jpg",
+      "thumb": "images/thumb-0845.jpg"
+    }
+  ],
+  "sources": []
+}

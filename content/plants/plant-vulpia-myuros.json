@@ -1,0 +1,23 @@
+{
+  "id": "plant-vulpia-myuros",
+  "czech": "mrvka myší ocásek",
+  "latin": "Vulpia myuros",
+  "family": "Poaceae",
+  "aliases": [],
+  "notes": "C3, NT",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "červen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

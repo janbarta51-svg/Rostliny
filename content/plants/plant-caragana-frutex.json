@@ -1,0 +1,30 @@
+{
+  "id": "plant-caragana-frutex",
+  "czech": "čimišník křovitý",
+  "latin": "Caragana frutex",
+  "family": "Fabaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    5,
+    6
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "květen–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0215.jpg",
+      "thumb": "images/thumb-0215.jpg"
+    },
+    {
+      "path": "images/photo-0216.jpg",
+      "thumb": "images/thumb-0216.jpg"
+    }
+  ],
+  "sources": []
+}

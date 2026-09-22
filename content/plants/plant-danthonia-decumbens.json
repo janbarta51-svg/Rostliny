@@ -1,0 +1,21 @@
+{
+  "id": "plant-danthonia-decumbens",
+  "czech": "trojzubec poléhavý",
+  "latin": "Danthonia decumbens",
+  "family": "Poaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    6,
+    7
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "červen–červenec",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

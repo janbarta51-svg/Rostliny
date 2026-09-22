@@ -1,0 +1,23 @@
+{
+  "id": "plant-cypripedium-calceolus",
+  "czech": "střevíčník pantoflíček",
+  "latin": "Cypripedium calceolus",
+  "family": "Orchidaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá",
+    "červená",
+    "hnědá"
+  ],
+  "months": [
+    5,
+    6
+  ],
+  "color_detail": "žlutá, červenohnědá",
+  "flowering_detail": "květen–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

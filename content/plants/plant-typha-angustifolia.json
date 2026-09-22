@@ -1,0 +1,22 @@
+{
+  "id": "plant-typha-angustifolia",
+  "czech": "orobinec úzkolistý",
+  "latin": "Typha angustifolia",
+  "family": "Typhaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "hnědá"
+  ],
+  "months": [
+    6,
+    7,
+    8
+  ],
+  "color_detail": "hnědá",
+  "flowering_detail": "červen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

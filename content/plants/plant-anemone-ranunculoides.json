@@ -1,0 +1,27 @@
+{
+  "id": "plant-anemone-ranunculoides",
+  "czech": "sasanka pryskyřníkovitá",
+  "latin": "Anemone ranunculoides",
+  "family": "Ranunculaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    3,
+    4,
+    5
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "březen–květen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0766.jpg",
+      "thumb": "images/thumb-0766.jpg"
+    }
+  ],
+  "sources": []
+}

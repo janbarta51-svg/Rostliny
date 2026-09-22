@@ -1,0 +1,28 @@
+{
+  "id": "plant-carex-leporina",
+  "czech": "ostřice zaječí",
+  "latin": "Carex leporina",
+  "family": "Cyperaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "hnědá"
+  ],
+  "months": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "color_detail": "hnědá",
+  "flowering_detail": "květen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0164.jpg",
+      "thumb": "images/thumb-0164.jpg"
+    }
+  ],
+  "sources": []
+}

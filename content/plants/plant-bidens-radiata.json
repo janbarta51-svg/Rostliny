@@ -1,0 +1,34 @@
+{
+  "id": "plant-bidens-radiata",
+  "czech": "dvouzubec paprsčitý",
+  "latin": "Bidens radiata",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    8,
+    9
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "srpen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0510.jpg",
+      "thumb": "images/thumb-0510.jpg"
+    },
+    {
+      "path": "images/photo-0511.jpg",
+      "thumb": "images/thumb-0511.jpg"
+    },
+    {
+      "path": "images/photo-0512.jpg",
+      "thumb": "images/thumb-0512.jpg"
+    }
+  ],
+  "sources": []
+}

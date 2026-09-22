@@ -41,78 +41,6 @@
           "options": {
             "values": [
               {
-                "name": "Hymenophyllaceae",
-                "label": "Blánatcovité (Hymenophyllaceae)"
-              },
-              {
-                "name": "Dennstaedtiaceae",
-                "label": "Hasičkovité (Dennstaedtiaceae)"
-              },
-              {
-                "name": "Thelypteridaceae",
-                "label": "Kapradiníkovité (Thelypteridaceae)"
-              },
-              {
-                "name": "Dryopteridaceae",
-                "label": "Kapraďovité (Dryopteridaceae)"
-              },
-              {
-                "name": "Marsileaceae",
-                "label": "Marsilkovité (Marsileaceae)"
-              },
-              {
-                "name": "Salviniaceae",
-                "label": "Nepukalkovité (Salviniaceae)"
-              },
-              {
-                "name": "Polypodiaceae",
-                "label": "Osladičovité (Polypodiaceae)"
-              },
-              {
-                "name": "Athyriaceae",
-                "label": "Papratkovité (Athyriaceae)"
-              },
-              {
-                "name": "Selaginellaceae",
-                "label": "Plavuníkovité (Selaginellaceae)"
-              },
-              {
-                "name": "Lycopodiaceae",
-                "label": "Plavuňovité (Lycopodiaceae)"
-              },
-              {
-                "name": "Equisetaceae",
-                "label": "Přesličkovité (Equisetaceae)"
-              },
-              {
-                "name": "Cystopteridaceae",
-                "label": "Puchýřníkovité (Cystopteridaceae)"
-              },
-              {
-                "name": "Aspleniaceae",
-                "label": "Sleziníkovité (Aspleniaceae)"
-              },
-              {
-                "name": "Isoëtaceae",
-                "label": "Šídlatkovité (Isoëtaceae)"
-              },
-              {
-                "name": "Blechnaceae",
-                "label": "Žebrovicovité (Blechnaceae)"
-              },
-              {
-                "name": "Pinaceae",
-                "label": "Borovicovité (Pinaceae)"
-              },
-              {
-                "name": "Cupressaceae",
-                "label": "Cypřišovité (Cupressaceae)"
-              },
-              {
-                "name": "Taxaceae",
-                "label": "Tisovité (Taxaceae)"
-              },
-              {
                 "name": "Amaryllidaceae",
                 "label": "Amarylkovité (Amaryllidaceae)"
               },
@@ -121,52 +49,16 @@
                 "label": "Áronovité (Araceae)"
               },
               {
-                "name": "Asparagaceae",
-                "label": "Chřestovité (Asparagaceae)"
-              },
-              {
-                "name": "Iridaceae",
-                "label": "Kosatcovité (Iridaceae)"
-              },
-              {
-                "name": "Liliaceae",
-                "label": "Liliovité (Liliaceae)"
-              },
-              {
-                "name": "Poaceae",
-                "label": "Lipnicovité (Poaceae)"
-              },
-              {
-                "name": "Colchicaceae",
-                "label": "Ocúnovité (Colchicaceae)"
-              },
-              {
-                "name": "Typhaceae",
-                "label": "Orobincovité (Typhaceae)"
-              },
-              {
-                "name": "Potamogetonaceae",
-                "label": "Rdestovité (Potamogetonaceae)"
-              },
-              {
-                "name": "Juncaceae",
-                "label": "Sítinovité (Juncaceae)"
-              },
-              {
-                "name": "Cyperaceae",
-                "label": "Šáchorovité (Cyperaceae)"
-              },
-              {
-                "name": "Hydrocharitaceae",
-                "label": "Voďankovité (Hydrocharitaceae)"
-              },
-              {
-                "name": "Orchidaceae",
-                "label": "Vstavačovité (Orchidaceae)"
+                "name": "Hymenophyllaceae",
+                "label": "Blánatcovité (Hymenophyllaceae)"
               },
               {
                 "name": "Fabaceae",
                 "label": "Bobovité (Fabaceae)"
+              },
+              {
+                "name": "Pinaceae",
+                "label": "Borovicovité (Pinaceae)"
               },
               {
                 "name": "Brassicaceae",
@@ -185,8 +77,20 @@
                 "label": "Bukovité (Fagaceae)"
               },
               {
+                "name": "Cistaceae",
+                "label": "cistovité (Cistaceae)"
+              },
+              {
+                "name": "Cupressaceae",
+                "label": "Cypřišovité (Cupressaceae)"
+              },
+              {
                 "name": "Berberidaceae",
                 "label": "Dřišťálovité (Berberidaceae)"
+              },
+              {
+                "name": "Dennstaedtiaceae",
+                "label": "Hasičkovité (Dennstaedtiaceae)"
               },
               {
                 "name": "Lamiaceae",
@@ -205,6 +109,14 @@
                 "label": "Hvozdíkovité (Caryophyllaceae)"
               },
               {
+                "name": "Asparagaceae",
+                "label": "Chřestovité (Asparagaceae)"
+              },
+              {
+                "name": "Ophioglossaceae",
+                "label": "jazykovité (Ophioglossaceae)"
+              },
+              {
                 "name": "Ulmaceae",
                 "label": "Jilmovité (Ulmaceae)"
               },
@@ -217,8 +129,20 @@
                 "label": "Kakostovité (Geraniaceae)"
               },
               {
+                "name": "Thelypteridaceae",
+                "label": "Kapradiníkovité (Thelypteridaceae)"
+              },
+              {
+                "name": "Dryopteridaceae",
+                "label": "Kapraďovité (Dryopteridaceae)"
+              },
+              {
                 "name": "Urticaceae",
                 "label": "Kopřivovité (Urticaceae)"
+              },
+              {
+                "name": "Iridaceae",
+                "label": "Kosatcovité (Iridaceae)"
               },
               {
                 "name": "Scrophulariaceae",
@@ -237,8 +161,16 @@
                 "label": "Leknínovité (Nymphaeaceae)"
               },
               {
+                "name": "Liliaceae",
+                "label": "Liliovité (Liliaceae)"
+              },
+              {
                 "name": "Solanaceae",
                 "label": "Lilkovité (Solanaceae)"
+              },
+              {
+                "name": "Poaceae",
+                "label": "Lipnicovité (Poaceae)"
               },
               {
                 "name": "Saxifragaceae",
@@ -247,6 +179,10 @@
               {
                 "name": "Papaveraceae",
                 "label": "Makovité (Papaveraceae)"
+              },
+              {
+                "name": "Marsileaceae",
+                "label": "Marsilkovité (Marsileaceae)"
               },
               {
                 "name": "Grossulariaceae",
@@ -265,12 +201,40 @@
                 "label": "Mýdelníkovité (Sapindaceae)"
               },
               {
+                "name": "Salviniaceae",
+                "label": "Nepukalkovité (Salviniaceae)"
+              },
+              {
                 "name": "Balsaminaceae",
                 "label": "Netýkavkovité (Balsaminaceae)"
               },
               {
+                "name": "Colchicaceae",
+                "label": "Ocúnovité (Colchicaceae)"
+              },
+              {
                 "name": "Oleaceae",
                 "label": "Olivovníkovité (Oleaceae)"
+              },
+              {
+                "name": "Typhaceae",
+                "label": "Orobincovité (Typhaceae)"
+              },
+              {
+                "name": "Polypodiaceae",
+                "label": "Osladičovité (Polypodiaceae)"
+              },
+              {
+                "name": "Athyriaceae",
+                "label": "Papratkovité (Athyriaceae)"
+              },
+              {
+                "name": "Selaginellaceae",
+                "label": "Plavuníkovité (Selaginellaceae)"
+              },
+              {
+                "name": "Lycopodiaceae",
+                "label": "Plavuňovité (Lycopodiaceae)"
               },
               {
                 "name": "Aristolochiaceae",
@@ -289,16 +253,40 @@
                 "label": "Pryšcovité (Euphorbiaceae)"
               },
               {
+                "name": "Equisetaceae",
+                "label": "Přesličkovité (Equisetaceae)"
+              },
+              {
+                "name": "Cystopteridaceae",
+                "label": "Puchýřníkovité (Cystopteridaceae)"
+              },
+              {
                 "name": "Onagraceae",
                 "label": "Pupalkovité (Onagraceae)"
+              },
+              {
+                "name": "Linderniaceae",
+                "label": "Puštičkovité (Linderniaceae)"
               },
               {
                 "name": "Polygonaceae",
                 "label": "Rdesnovité (Polygonaceae)"
               },
               {
+                "name": "Potamogetonaceae",
+                "label": "Rdestovité (Potamogetonaceae)"
+              },
+              {
                 "name": "Rosaceae",
                 "label": "Růžovité (Rosaceae)"
+              },
+              {
+                "name": "Juncaceae",
+                "label": "Sítinovité (Juncaceae)"
+              },
+              {
+                "name": "Aspleniaceae",
+                "label": "Sleziníkovité (Aspleniaceae)"
               },
               {
                 "name": "Malvaceae",
@@ -309,16 +297,48 @@
                 "label": "Svíbovité (Cornaceae)"
               },
               {
+                "name": "Convolvulaceae",
+                "label": "svlačcovité (Convolvulaceae)"
+              },
+              {
+                "name": "Cyperaceae",
+                "label": "Šáchorovité (Cyperaceae)"
+              },
+              {
+                "name": "Isoëtaceae",
+                "label": "Šídlatkovité (Isoëtaceae)"
+              },
+              {
                 "name": "Oxalidaceae",
                 "label": "Šťavelovité (Oxalidaceae)"
+              },
+              {
+                "name": "Dipsacaceae",
+                "label": "štětkovité (Dipsacaceae)"
+              },
+              {
+                "name": "Taxaceae",
+                "label": "Tisovité (Taxaceae)"
               },
               {
                 "name": "Crassulaceae",
                 "label": "Tlusticovité (Crassulaceae)"
               },
               {
+                "name": "Hypericaceae",
+                "label": "třezalkovité (Hypericaceae)"
+              },
+              {
                 "name": "Violaceae",
                 "label": "Violkovité (Violaceae)"
+              },
+              {
+                "name": "Polygalaceae",
+                "label": "vítodovité (Polygalaceae)"
+              },
+              {
+                "name": "Hydrocharitaceae",
+                "label": "Voďankovité (Hydrocharitaceae)"
               },
               {
                 "name": "Salicaceae",
@@ -329,6 +349,10 @@
                 "label": "Vřesovcovité (Ericaceae)"
               },
               {
+                "name": "Orchidaceae",
+                "label": "Vstavačovité (Orchidaceae)"
+              },
+              {
                 "name": "Orobanchaceae",
                 "label": "Zárazovité (Orobanchaceae)"
               },
@@ -337,32 +361,12 @@
                 "label": "Zimolezovité (Caprifoliaceae)"
               },
               {
-                "name": "Dipsacaceae",
-                "label": "štětkovité (Dipsacaceae)"
-              },
-              {
                 "name": "Campanulaceae",
                 "label": "Zvonkovité (Campanulaceae)"
               },
               {
-                "name": "Hypericaceae",
-                "label": "třezalkovité (Hypericaceae)"
-              },
-              {
-                "name": "Ophioglossaceae",
-                "label": "jazykovité (Ophioglossaceae)"
-              },
-              {
-                "name": "Cistaceae",
-                "label": "cistovité (Cistaceae)"
-              },
-              {
-                "name": "Convolvulaceae",
-                "label": "svlačcovité (Convolvulaceae)"
-              },
-              {
-                "name": "Linderniaceae",
-                "label": "Puštičkovité (Linderniaceae)"
+                "name": "Blechnaceae",
+                "label": "Žebrovicovité (Blechnaceae)"
               }
             ]
           }
@@ -408,7 +412,8 @@
               "fialová",
               "modrá",
               "zelená",
-              "hnědá"
+              "hnědá",
+              "černá"
             ]
           }
         },

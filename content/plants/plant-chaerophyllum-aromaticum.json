@@ -1,0 +1,39 @@
+{
+  "id": "plant-chaerophyllum-aromaticum",
+  "czech": "krabilice zápašná",
+  "latin": "Chaerophyllum aromaticum",
+  "family": "Apiaceae",
+  "aliases": [],
+  "notes": "n omak taková chlupatější drsnější než bršlice",
+  "rank": "druh",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    6,
+    7,
+    8
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "červen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0737.jpg",
+      "thumb": "images/thumb-0737.jpg"
+    },
+    {
+      "path": "images/photo-0738.jpg",
+      "thumb": "images/thumb-0738.jpg"
+    },
+    {
+      "path": "images/photo-0739.jpg",
+      "thumb": "images/thumb-0739.jpg"
+    },
+    {
+      "path": "images/photo-0740.jpg",
+      "thumb": "images/thumb-0740.jpg"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "plant-leucojum-vernum",
+  "czech": "bledule jarní",
+  "latin": "Leucojum vernum",
+  "family": "Amaryllidaceae",
+  "aliases": [],
+  "notes": "C3, NT",
+  "rank": "druh",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    2,
+    3,
+    4
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "únor–duben",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

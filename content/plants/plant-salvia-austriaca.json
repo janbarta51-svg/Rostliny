@@ -1,0 +1,35 @@
+{
+  "id": "plant-salvia-austriaca",
+  "czech": "šalvěj rakouská",
+  "latin": "Salvia austriaca",
+  "family": "Gentianaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá",
+    "bílá"
+  ],
+  "months": [
+    5,
+    6
+  ],
+  "color_detail": "žlutobílá",
+  "flowering_detail": "květen–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0474.jpg",
+      "thumb": "images/thumb-0474.jpg"
+    },
+    {
+      "path": "images/photo-0475.jpg",
+      "thumb": "images/thumb-0475.jpg"
+    },
+    {
+      "path": "images/photo-0476.jpg",
+      "thumb": "images/thumb-0476.jpg"
+    }
+  ],
+  "sources": []
+}

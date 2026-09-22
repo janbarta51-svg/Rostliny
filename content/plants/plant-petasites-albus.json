@@ -1,0 +1,23 @@
+{
+  "id": "plant-petasites-albus",
+  "czech": "devětsil bílý",
+  "latin": "Petasites albus",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "rub plstnatý bílý",
+  "rank": "druh",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "únor–květen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

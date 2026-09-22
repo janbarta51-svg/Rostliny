@@ -1,0 +1,22 @@
+{
+  "id": "plant-aira-caryophyllea",
+  "czech": "ovsíček obecný",
+  "latin": "Aira caryophyllea",
+  "family": "Poaceae",
+  "aliases": [],
+  "notes": "C1t, CR",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    4,
+    5,
+    6
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "duben–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

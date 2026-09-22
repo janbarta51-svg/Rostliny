@@ -1,0 +1,32 @@
+{
+  "id": "plant-euphorbia-cyparissias",
+  "czech": "pryšec chvojka",
+  "latin": "Euphorbia cyparissias",
+  "family": "Euphorbiaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá",
+    "zelená"
+  ],
+  "months": [
+    4,
+    5,
+    6
+  ],
+  "color_detail": "žlutozelená",
+  "flowering_detail": "duben–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0792.jpg",
+      "thumb": "images/thumb-0792.jpg"
+    },
+    {
+      "path": "images/photo-0793.jpg",
+      "thumb": "images/thumb-0793.jpg"
+    }
+  ],
+  "sources": []
+}

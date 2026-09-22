@@ -1,0 +1,37 @@
+{
+  "id": "plant-stachys-palustris",
+  "czech": "čistec bahenní",
+  "latin": "Stachys palustris",
+  "family": "Lamiaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "červená",
+    "fialová"
+  ],
+  "months": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "color_detail": "červenofialová",
+  "flowering_detail": "červen–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0456.jpg",
+      "thumb": "images/thumb-0456.jpg"
+    },
+    {
+      "path": "images/photo-0457.jpg",
+      "thumb": "images/thumb-0457.jpg"
+    },
+    {
+      "path": "images/photo-0458.jpg",
+      "thumb": "images/thumb-0458.jpg"
+    }
+  ],
+  "sources": []
+}

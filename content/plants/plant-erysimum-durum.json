@@ -1,0 +1,31 @@
+{
+  "id": "plant-erysimum-durum",
+  "czech": "trýzel tvrdý",
+  "latin": "Erysimum durum",
+  "family": "Brassicaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    6,
+    7,
+    8
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "červen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0417.jpg",
+      "thumb": "images/thumb-0417.jpg"
+    },
+    {
+      "path": "images/photo-0418.jpg",
+      "thumb": "images/thumb-0418.jpg"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "plant-primula-veris",
+  "czech": "prvosenka jarní",
+  "latin": "Primula veris",
+  "family": "Primulaceae",
+  "aliases": [
+    "petrklíč"
+  ],
+  "notes": "světlé kalichy",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    4,
+    5
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "duben–květen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0758.jpg",
+      "thumb": "images/thumb-0758.jpg"
+    },
+    {
+      "path": "images/photo-0759.jpg",
+      "thumb": "images/thumb-0759.jpg"
+    }
+  ],
+  "sources": []
+}

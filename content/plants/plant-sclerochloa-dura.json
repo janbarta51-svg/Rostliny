@@ -1,0 +1,20 @@
+{
+  "id": "plant-sclerochloa-dura",
+  "czech": "tužanka tvrdá",
+  "latin": "Sclerochloa dura",
+  "family": "Poaceae",
+  "aliases": [],
+  "notes": "C2b, VU",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    5
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "květen",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

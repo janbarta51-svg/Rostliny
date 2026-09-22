@@ -1,0 +1,38 @@
+{
+  "id": "plant-laburnum-anagyroides",
+  "czech": "štědřenec odvislý",
+  "latin": "Laburnum anagyroides",
+  "family": "Fabaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    5,
+    6
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "květen–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0272.jpg",
+      "thumb": "images/thumb-0272.jpg"
+    },
+    {
+      "path": "images/photo-0273.jpg",
+      "thumb": "images/thumb-0273.jpg"
+    },
+    {
+      "path": "images/photo-0274.jpg",
+      "thumb": "images/thumb-0274.jpg"
+    },
+    {
+      "path": "images/photo-0275.jpg",
+      "thumb": "images/thumb-0275.jpg"
+    }
+  ],
+  "sources": []
+}

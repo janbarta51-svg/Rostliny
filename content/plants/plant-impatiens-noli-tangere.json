@@ -1,0 +1,34 @@
+{
+  "id": "plant-impatiens-noli-tangere",
+  "czech": "netýkavka nedůtklivá",
+  "latin": "Impatiens noli-tangere",
+  "family": "Balsaminaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    7,
+    8
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "červenec–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0755.jpg",
+      "thumb": "images/thumb-0755.jpg"
+    },
+    {
+      "path": "images/photo-0756.jpg",
+      "thumb": "images/thumb-0756.jpg"
+    },
+    {
+      "path": "images/photo-0757.jpg",
+      "thumb": "images/thumb-0757.jpg"
+    }
+  ],
+  "sources": []
+}

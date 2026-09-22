@@ -1,0 +1,37 @@
+{
+  "id": "plant-galeopsis-tetrahit",
+  "czech": "konopice polní",
+  "latin": "Galeopsis tetrahit",
+  "family": "Lamiaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "růžová",
+    "fialová",
+    "žlutá"
+  ],
+  "months": [
+    7,
+    8,
+    9
+  ],
+  "color_detail": "růžová, fialová, žlutá",
+  "flowering_detail": "červenec–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0436.jpg",
+      "thumb": "images/thumb-0436.jpg"
+    },
+    {
+      "path": "images/photo-0437.jpg",
+      "thumb": "images/thumb-0437.jpg"
+    },
+    {
+      "path": "images/photo-0438.jpg",
+      "thumb": "images/thumb-0438.jpg"
+    }
+  ],
+  "sources": []
+}

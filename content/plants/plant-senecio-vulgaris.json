@@ -1,0 +1,31 @@
+{
+  "id": "plant-senecio-vulgaris",
+  "czech": "starček obecný",
+  "latin": "Senecio vulgaris",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "nekvete",
+  "rank": "druh",
+  "colors": [
+    "žlutá"
+  ],
+  "months": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "color_detail": "žlutá",
+  "flowering_detail": "leden–prosinec",
+  "trait_source": "Atlas master 2026",
+  "images": [],
+  "sources": []
+}

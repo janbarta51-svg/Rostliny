@@ -1,0 +1,31 @@
+{
+  "id": "plant-alliaria-petiolata",
+  "czech": "česnáček lékařský",
+  "latin": "Alliaria petiolata",
+  "family": "Brassicaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    4,
+    5,
+    6
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "duben–červen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0943.jpg",
+      "thumb": "images/thumb-0943.jpg"
+    },
+    {
+      "path": "images/photo-0944.jpg",
+      "thumb": "images/thumb-0944.jpg"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "plant-veronica-serpyllifolia",
+  "czech": "rozrazil douškolistý",
+  "latin": "Veronica serpyllifolia",
+  "family": "Plantaginaceae",
+  "aliases": [],
+  "notes": "",
+  "rank": "druh",
+  "colors": [
+    "bílá"
+  ],
+  "months": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "color_detail": "bílá",
+  "flowering_detail": "květen–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0676.jpg",
+      "thumb": "images/thumb-0676.jpg"
+    }
+  ],
+  "sources": []
+}

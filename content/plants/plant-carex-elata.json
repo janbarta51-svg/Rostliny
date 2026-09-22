@@ -1,0 +1,31 @@
+{
+  "id": "plant-carex-elata",
+  "czech": "ostřice vyvýšená",
+  "latin": "Carex elata",
+  "family": "Cyperaceae",
+  "aliases": [],
+  "notes": "C2, mokřady, trsnatá, pochvy celistvé, hladké, slámové, krátké listeny, spodní listen kratší než klásek i květenství",
+  "rank": "druh",
+  "colors": [
+    "černá"
+  ],
+  "months": [
+    5,
+    6,
+    7
+  ],
+  "color_detail": "černá",
+  "flowering_detail": "květen–červenec",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0182.jpg",
+      "thumb": "images/thumb-0182.jpg"
+    },
+    {
+      "path": "images/photo-0183.jpg",
+      "thumb": "images/thumb-0183.jpg"
+    }
+  ],
+  "sources": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "plant-festuca-gigantea",
+  "czech": "kostřava obrovská",
+  "latin": "Festuca gigantea",
+  "family": "Poaceae",
+  "aliases": [],
+  "notes": "ouška střídavá, osinky přes sebe",
+  "rank": "druh",
+  "colors": [
+    "zelená"
+  ],
+  "months": [
+    7,
+    8
+  ],
+  "color_detail": "zelená",
+  "flowering_detail": "červenec–srpen",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0068.jpg",
+      "thumb": "images/thumb-0068.jpg"
+    },
+    {
+      "path": "images/photo-0069.jpg",
+      "thumb": "images/thumb-0069.jpg"
+    }
+  ],
+  "sources": []
+}

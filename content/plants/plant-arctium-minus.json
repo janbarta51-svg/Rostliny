@@ -1,0 +1,36 @@
+{
+  "id": "plant-arctium-minus",
+  "czech": "lopuch menší",
+  "latin": "Arctium minus",
+  "family": "Asteraceae",
+  "aliases": [],
+  "notes": "úbory do hroznu",
+  "rank": "druh",
+  "colors": [
+    "červená",
+    "fialová"
+  ],
+  "months": [
+    7,
+    8,
+    9
+  ],
+  "color_detail": "červenofialová",
+  "flowering_detail": "červenec–září",
+  "trait_source": "Atlas master 2026",
+  "images": [
+    {
+      "path": "images/photo-0500.jpg",
+      "thumb": "images/thumb-0500.jpg"
+    },
+    {
+      "path": "images/photo-0501.jpg",
+      "thumb": "images/thumb-0501.jpg"
+    },
+    {
+      "path": "images/photo-0502.jpg",
+      "thumb": "images/thumb-0502.jpg"
+    }
+  ],
+  "sources": []
+}
