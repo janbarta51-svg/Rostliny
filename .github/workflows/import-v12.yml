@@ -82,6 +82,8 @@ jobs:
           : > /tmp/import-debug.txt
           echo "HEAD before import: $(git rev-parse HEAD)" >> /tmp/import-debug.txt
           echo "branch: $(git branch --show-current)" >> /tmp/import-debug.txt
+          exec >> /tmp/import-debug.txt 2>&1
+          set -x
 
           # Keep the verified extracted source safe, then reset the checkout and
           # publish structure/content first without the heavy image payload.
