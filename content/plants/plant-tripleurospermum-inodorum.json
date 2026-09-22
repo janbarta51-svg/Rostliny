@@ -1,37 +1,39 @@
 {
   "id": "plant-tripleurospermum-inodorum",
-  "czech": "heřmánkovec nevonný",
-  "latin": "Tripleurospermum inodorum",
-  "family": "Asteraceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "heřmánkovec nevonný",
+  "other_names_cs": [],
+  "name_cs_raw": "heřmánkovec nevonný",
+  "name_latin": "Tripleurospermum inodorum",
+  "family_cs": "Hvězdnicovité",
+  "family_latin": "Asteraceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "bílá",
     "žlutá"
   ],
-  "months": [
-    6,
-    7,
-    8,
-    9
+  "flowering_from": 6,
+  "flowering_to": 9,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-tripleurospermum-inodorum-01.webp",
+    "images/plant-tripleurospermum-inodorum-02.webp",
+    "images/plant-tripleurospermum-inodorum-03.webp"
   ],
-  "color_detail": "bílá, žlutá",
-  "flowering_detail": "červen–září",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0623.jpg",
-      "thumb": "images/thumb-0623.jpg"
-    },
-    {
-      "path": "images/photo-0624.jpg",
-      "thumb": "images/thumb-0624.jpg"
-    },
-    {
-      "path": "images/photo-0625.jpg",
-      "thumb": "images/thumb-0625.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    498
   ],
-  "sources": []
+  "source_texts": [
+    "Tripleurospermum inodorum – heřmánkovec nevonný"
+  ]
 }

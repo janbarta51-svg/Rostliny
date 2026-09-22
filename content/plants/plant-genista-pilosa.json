@@ -1,35 +1,38 @@
 {
   "id": "plant-genista-pilosa",
-  "czech": "kručinka chlupatá",
-  "latin": "Genista pilosa",
-  "family": "Fabaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "kručinka chlupatá",
+  "other_names_cs": [],
+  "name_cs_raw": "kručinka chlupatá",
+  "name_latin": "Genista pilosa",
+  "family_cs": "Bobovité",
+  "family_latin": "Fabaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "žlutá"
   ],
-  "months": [
-    4,
-    5,
-    6
+  "flowering_from": 4,
+  "flowering_to": 6,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-genista-pilosa-01.webp",
+    "images/plant-genista-pilosa-02.webp",
+    "images/plant-genista-pilosa-03.webp"
   ],
-  "color_detail": "žlutá",
-  "flowering_detail": "duben–červen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0256.jpg",
-      "thumb": "images/thumb-0256.jpg"
-    },
-    {
-      "path": "images/photo-0257.jpg",
-      "thumb": "images/thumb-0257.jpg"
-    },
-    {
-      "path": "images/photo-0258.jpg",
-      "thumb": "images/thumb-0258.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    249
   ],
-  "sources": []
+  "source_texts": [
+    "Genista pilosa – kručinka chlupatá"
+  ]
 }

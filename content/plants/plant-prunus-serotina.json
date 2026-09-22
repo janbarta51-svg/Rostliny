@@ -1,34 +1,40 @@
 {
   "id": "plant-prunus-serotina",
-  "czech": "střemcha pozdní",
-  "latin": "Prunus serotina",
-  "family": "Rosaceae",
-  "aliases": [],
-  "notes": "invazka",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "střemcha pozdní",
+  "other_names_cs": [],
+  "name_cs_raw": "střemcha pozdní",
+  "name_latin": "Prunus serotina",
+  "family_cs": "Růžovité",
+  "family_latin": "Rosaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "bílá"
   ],
-  "months": [
-    5,
-    6
+  "flowering_from": 5,
+  "flowering_to": 6,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "invazka"
   ],
-  "color_detail": "bílá",
-  "flowering_detail": "květen–červen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0843.jpg",
-      "thumb": "images/thumb-0843.jpg"
-    },
-    {
-      "path": "images/photo-0844.jpg",
-      "thumb": "images/thumb-0844.jpg"
-    },
-    {
-      "path": "images/photo-0845.jpg",
-      "thumb": "images/thumb-0845.jpg"
-    }
+  "photos": [
+    "images/plant-prunus-serotina-01.webp",
+    "images/plant-prunus-serotina-02.webp",
+    "images/plant-prunus-serotina-03.webp"
   ],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    705
+  ],
+  "source_texts": [
+    "Prunus serotina – střemcha pozdní – invazka"
+  ]
 }

@@ -1,25 +1,38 @@
 {
   "id": "plant-chenopodium-polyspermum",
-  "czech": "merlík mnohosemenný",
-  "latin": "Chenopodium polyspermum",
-  "family": "Amaranthaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "merlík mnohosemenný",
+  "other_names_cs": [],
+  "name_cs_raw": "merlík mnohosemenný",
+  "name_latin": "Chenopodium polyspermum",
+  "family_cs": "Laskavcovité",
+  "family_latin": "Amaranthaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "zelená"
   ],
-  "months": [
-    5,
-    6,
-    7,
-    8,
-    9,
-    10
+  "flowering_from": 5,
+  "flowering_to": 10,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-chenopodium-polyspermum-01.webp",
+    "images/plant-chenopodium-polyspermum-02.webp",
+    "images/plant-chenopodium-polyspermum-03.webp"
   ],
-  "color_detail": "zelená",
-  "flowering_detail": "květen–říjen",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    591
+  ],
+  "source_texts": [
+    "Chenopodium polyspermum – merlík mnohosemenný"
+  ]
 }

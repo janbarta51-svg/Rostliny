@@ -1,43 +1,40 @@
 {
   "id": "plant-barbarea-vulgaris",
-  "czech": "barborka obecná",
-  "latin": "Barbarea vulgaris",
-  "family": "Brassicaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "barborka obecná",
+  "other_names_cs": [],
+  "name_cs_raw": "barborka obecná",
+  "name_latin": "Barbarea vulgaris",
+  "family_cs": "brukvovité",
+  "family_latin": "Brassicaceae",
+  "order_cs": "hluchavkotvaré",
+  "order_latin": "Lamiales",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "žlutá"
   ],
-  "months": [
-    4,
-    5,
-    6
+  "flowering_from": 4,
+  "flowering_to": 6,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-barbarea-vulgaris-01.webp",
+    "images/plant-barbarea-vulgaris-02.webp",
+    "images/plant-barbarea-vulgaris-03.webp",
+    "images/plant-barbarea-vulgaris-04.webp",
+    "images/plant-barbarea-vulgaris-05.webp"
   ],
-  "color_detail": "žlutá",
-  "flowering_detail": "duben–červen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0957.jpg",
-      "thumb": "images/thumb-0957.jpg"
-    },
-    {
-      "path": "images/photo-0958.jpg",
-      "thumb": "images/thumb-0958.jpg"
-    },
-    {
-      "path": "images/photo-0959.jpg",
-      "thumb": "images/thumb-0959.jpg"
-    },
-    {
-      "path": "images/photo-0960.jpg",
-      "thumb": "images/thumb-0960.jpg"
-    },
-    {
-      "path": "images/photo-0961.jpg",
-      "thumb": "images/thumb-0961.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    789
   ],
-  "sources": []
+  "source_texts": [
+    "Barbarea vulgaris – barborka obecná"
+  ]
 }

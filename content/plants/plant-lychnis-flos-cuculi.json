@@ -1,35 +1,38 @@
 {
   "id": "plant-lychnis-flos-cuculi",
-  "czech": "kohoutek luční",
-  "latin": "Lychnis flos-cuculi",
-  "family": "Caryophyllaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "kohoutek luční",
+  "other_names_cs": [],
+  "name_cs_raw": "kohoutek luční",
+  "name_latin": "Lychnis flos-cuculi",
+  "family_cs": "Hvozdíkovité",
+  "family_latin": "Caryophyllaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "růžová"
   ],
-  "months": [
-    5,
-    6,
-    7
+  "flowering_from": 5,
+  "flowering_to": 7,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-lychnis-flos-cuculi-01.webp",
+    "images/plant-lychnis-flos-cuculi-02.webp",
+    "images/plant-lychnis-flos-cuculi-03.webp"
   ],
-  "color_detail": "růžová",
-  "flowering_detail": "květen–červenec",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0647.jpg",
-      "thumb": "images/thumb-0647.jpg"
-    },
-    {
-      "path": "images/photo-0648.jpg",
-      "thumb": "images/thumb-0648.jpg"
-    },
-    {
-      "path": "images/photo-0649.jpg",
-      "thumb": "images/thumb-0649.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    535
   ],
-  "sources": []
+  "source_texts": [
+    "Lychnis flos-cuculi – kohoutek luční"
+  ]
 }

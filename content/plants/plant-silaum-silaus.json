@@ -1,33 +1,39 @@
 {
   "id": "plant-silaum-silaus",
-  "czech": "koromáč olešníkový",
-  "latin": "Silaum silaus",
-  "family": "Apiaceae",
-  "aliases": [],
-  "notes": "C3, NT",
-  "rank": "druh",
-  "colors": [
-    "žlutá",
-    "bílá"
+  "name_cs": "koromáč olešníkový",
+  "other_names_cs": [],
+  "name_cs_raw": "koromáč olešníkový",
+  "name_latin": "Silaum silaus",
+  "family_cs": "Miříkovité",
+  "family_latin": "Apiaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
+    "žlutobílá"
   ],
-  "months": [
-    6,
-    7,
-    8,
-    9
+  "flowering_from": 6,
+  "flowering_to": 9,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "C3, NT"
   ],
-  "color_detail": "žlutobílá",
-  "flowering_detail": "červen–září",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0714.jpg",
-      "thumb": "images/thumb-0714.jpg"
-    },
-    {
-      "path": "images/photo-0715.jpg",
-      "thumb": "images/thumb-0715.jpg"
-    }
+  "photos": [
+    "images/plant-silaum-silaus-01.webp",
+    "images/plant-silaum-silaus-02.webp"
   ],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    605
+  ],
+  "source_texts": [
+    "Silaum silaus – koromáč olešníkový – C3, NT"
+  ]
 }

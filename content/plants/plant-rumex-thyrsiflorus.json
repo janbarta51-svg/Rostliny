@@ -1,30 +1,37 @@
 {
   "id": "plant-rumex-thyrsiflorus",
-  "czech": "šťovík rozvětvený",
-  "latin": "Rumex thyrsiflorus",
-  "family": "Polygonaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "šťovík rozvětvený",
+  "other_names_cs": [],
+  "name_cs_raw": "šťovík rozvětvený",
+  "name_latin": "Rumex thyrsiflorus",
+  "family_cs": "Rdesnovité",
+  "family_latin": "Polygonaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "zelená"
   ],
-  "months": [
-    7,
-    8
+  "flowering_from": 7,
+  "flowering_to": 8,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-rumex-thyrsiflorus-01.webp",
+    "images/plant-rumex-thyrsiflorus-02.webp"
   ],
-  "color_detail": "zelená",
-  "flowering_detail": "červenec–srpen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0834.jpg",
-      "thumb": "images/thumb-0834.jpg"
-    },
-    {
-      "path": "images/photo-0835.jpg",
-      "thumb": "images/thumb-0835.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    700
   ],
-  "sources": []
+  "source_texts": [
+    "Rumex thyrsiflorus – šťovík rozvětvený"
+  ]
 }

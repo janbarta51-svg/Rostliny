@@ -1,36 +1,38 @@
 {
   "id": "plant-vicia-dumetorum",
-  "czech": "vikev křovištní",
-  "latin": "Vicia dumetorum",
-  "family": "Fabaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
-    "žlutá",
-    "bílá"
+  "name_cs": "vikev křovištní",
+  "other_names_cs": [],
+  "name_cs_raw": "vikev křovištní",
+  "name_latin": "Vicia dumetorum",
+  "family_cs": "Bobovité",
+  "family_latin": "Fabaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
+    "žlutobílá"
   ],
-  "months": [
-    6,
-    7,
-    8
+  "flowering_from": 6,
+  "flowering_to": 8,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-vicia-dumetorum-01.webp",
+    "images/plant-vicia-dumetorum-02.webp",
+    "images/plant-vicia-dumetorum-03.webp"
   ],
-  "color_detail": "žlutobílá",
-  "flowering_detail": "červen–srpen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0401.jpg",
-      "thumb": "images/thumb-0401.jpg"
-    },
-    {
-      "path": "images/photo-0402.jpg",
-      "thumb": "images/thumb-0402.jpg"
-    },
-    {
-      "path": "images/photo-0403.jpg",
-      "thumb": "images/thumb-0403.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    314
   ],
-  "sources": []
+  "source_texts": [
+    "Vicia dumetorum – vikev křovištní"
+  ]
 }

@@ -1,23 +1,37 @@
 {
   "id": "plant-polygala-comosa",
-  "czech": "vítod chocholatý",
-  "latin": "Polygala comosa",
-  "family": "Polygalaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
-    "červená",
-    "fialová"
+  "name_cs": "vítod chocholatý",
+  "other_names_cs": [],
+  "name_cs_raw": "vítod chocholatý",
+  "name_latin": "Polygala comosa",
+  "family_cs": "vítodovité",
+  "family_latin": "Polygalaceae",
+  "order_cs": "hluchavkotvaré",
+  "order_latin": "Lamiales",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
+    "červenofialová"
   ],
-  "months": [
-    5,
-    6,
-    7
+  "flowering_from": 5,
+  "flowering_to": 7,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-polygala-comosa-01.webp",
+    "images/plant-polygala-comosa-02.webp"
   ],
-  "color_detail": "červenofialová",
-  "flowering_detail": "květen–červenec",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    802
+  ],
+  "source_texts": [
+    "Polygala comosa – vítod chocholatý"
+  ]
 }

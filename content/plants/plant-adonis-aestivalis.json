@@ -1,22 +1,39 @@
 {
   "id": "plant-adonis-aestivalis",
-  "czech": "hlaváček letní",
-  "latin": "Adonis aestivalis",
-  "family": "Ranunculaceae",
-  "aliases": [],
-  "notes": "C3, NT",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "hlaváček letní",
+  "other_names_cs": [],
+  "name_cs_raw": "hlaváček letní",
+  "name_latin": "Adonis aestivalis",
+  "family_cs": "Pryskyřníkovité",
+  "family_latin": "Ranunculaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "červená"
   ],
-  "months": [
-    5,
-    6,
-    7
+  "flowering_from": 5,
+  "flowering_to": 7,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "C3, NT"
   ],
-  "color_detail": "červená",
-  "flowering_detail": "květen–červenec",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "photos": [
+    "images/plant-adonis-aestivalis-01.webp",
+    "images/plant-adonis-aestivalis-02.webp"
+  ],
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    649
+  ],
+  "source_texts": [
+    "Adonis aestivalis – hlaváček letní – C3, NT"
+  ]
 }

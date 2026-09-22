@@ -1,43 +1,44 @@
 {
   "id": "plant-silene-dioica",
-  "czech": "silenka dvoudomá",
-  "latin": "Silene dioica",
-  "family": "Caryophyllaceae",
-  "aliases": [
+  "name_cs": "silenka dvoudomá",
+  "other_names_cs": [
     "knotovka červená"
   ],
-  "notes": "hory, tmavě červená, růžová",
-  "rank": "druh",
-  "colors": [
+  "name_cs_raw": "silenka dvoudomá, knotovka červená",
+  "name_latin": "Silene dioica",
+  "family_cs": "Hvozdíkovité",
+  "family_latin": "Caryophyllaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "růžová",
-    "červená",
-    "fialová"
+    "červenofialová"
   ],
-  "months": [
-    5,
-    6,
-    7
+  "flowering_from": 5,
+  "flowering_to": 7,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "hory, tmavě červená, růžová"
   ],
-  "color_detail": "růžová, červenofialová",
-  "flowering_detail": "květen–červenec",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0661.jpg",
-      "thumb": "images/thumb-0661.jpg"
-    },
-    {
-      "path": "images/photo-0662.jpg",
-      "thumb": "images/thumb-0662.jpg"
-    },
-    {
-      "path": "images/photo-0663.jpg",
-      "thumb": "images/thumb-0663.jpg"
-    },
-    {
-      "path": "images/photo-0664.jpg",
-      "thumb": "images/thumb-0664.jpg"
-    }
+  "photos": [
+    "images/plant-silene-dioica-01.webp",
+    "images/plant-silene-dioica-02.webp",
+    "images/plant-silene-dioica-03.webp",
+    "images/plant-silene-dioica-04.webp"
   ],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    545
+  ],
+  "source_texts": [
+    "Silene dioica – silenka dvoudomá, knotovka červená – hory, tmavě červená, růžová"
+  ]
 }

@@ -1,31 +1,39 @@
 {
   "id": "plant-eragrostis-minor",
-  "czech": "milička menší",
-  "latin": "Eragrostis minor",
-  "family": "Poaceae",
-  "aliases": [],
-  "notes": "často na cestách a v chodnících",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "milička menší",
+  "other_names_cs": [],
+  "name_cs_raw": "milička menší",
+  "name_latin": "Eragrostis minor",
+  "family_cs": "Lipnicovité",
+  "family_latin": "Poaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "3. Krytosemenné rostliny – Jednoděložné",
+  "flower_colors": [
     "zelená"
   ],
-  "months": [
-    7,
-    8,
-    9
+  "flowering_from": 7,
+  "flowering_to": 9,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "často na cestách a v chodnících"
   ],
-  "color_detail": "zelená",
-  "flowering_detail": "červenec–září",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0107.jpg",
-      "thumb": "images/thumb-0107.jpg"
-    },
-    {
-      "path": "images/photo-0108.jpg",
-      "thumb": "images/thumb-0108.jpg"
-    }
+  "photos": [
+    "images/plant-eragrostis-minor-01.webp",
+    "images/plant-eragrostis-minor-02.webp"
   ],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    147
+  ],
+  "source_texts": [
+    "Eragrostis minor – milička menší – často na cestách a v chodnících"
+  ]
 }

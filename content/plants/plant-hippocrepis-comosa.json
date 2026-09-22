@@ -1,32 +1,37 @@
 {
   "id": "plant-hippocrepis-comosa",
-  "czech": "podkovka chocholatá",
-  "latin": "Hippocrepis comosa",
-  "family": "Fabaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "podkovka chocholatá",
+  "other_names_cs": [],
+  "name_cs_raw": "podkovka chocholatá",
+  "name_latin": "Hippocrepis comosa",
+  "family_cs": "Bobovité",
+  "family_latin": "Fabaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "žlutá"
   ],
-  "months": [
-    5,
-    6,
-    7,
-    8
+  "flowering_from": 5,
+  "flowering_to": 8,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-hippocrepis-comosa-01.webp",
+    "images/plant-hippocrepis-comosa-02.webp"
   ],
-  "color_detail": "žlutá",
-  "flowering_detail": "květen–srpen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0270.jpg",
-      "thumb": "images/thumb-0270.jpg"
-    },
-    {
-      "path": "images/photo-0271.jpg",
-      "thumb": "images/thumb-0271.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    254
   ],
-  "sources": []
+  "source_texts": [
+    "Hippocrepis comosa – podkovka chocholatá"
+  ]
 }

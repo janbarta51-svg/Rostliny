@@ -1,38 +1,41 @@
 {
   "id": "plant-carex-hirta",
-  "czech": "ostřice srstnatá",
-  "latin": "Carex hirta",
-  "family": "Cyperaceae",
-  "aliases": [],
-  "notes": "pangejty, žlutozelené mošničky i plevy, chlupaté, dlouhé listeny, výběžkatá",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "ostřice srstnatá",
+  "other_names_cs": [],
+  "name_cs_raw": "ostřice srstnatá",
+  "name_latin": "Carex hirta",
+  "family_cs": "Šáchorovité",
+  "family_latin": "Cyperaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "3. Krytosemenné rostliny – Jednoděložné",
+  "flower_colors": [
     "zelená"
   ],
-  "months": [
-    5,
-    6
+  "flowering_from": 5,
+  "flowering_to": 6,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "pangejty, žlutozelené mošničky i plevy, chlupaté, dlouhé listeny, výběžkatá"
   ],
-  "color_detail": "zelená",
-  "flowering_detail": "květen–červen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0167.jpg",
-      "thumb": "images/thumb-0167.jpg"
-    },
-    {
-      "path": "images/photo-0168.jpg",
-      "thumb": "images/thumb-0168.jpg"
-    },
-    {
-      "path": "images/photo-0169.jpg",
-      "thumb": "images/thumb-0169.jpg"
-    },
-    {
-      "path": "images/photo-0170.jpg",
-      "thumb": "images/thumb-0170.jpg"
-    }
+  "photos": [
+    "images/plant-carex-hirta-01.webp",
+    "images/plant-carex-hirta-02.webp",
+    "images/plant-carex-hirta-03.webp",
+    "images/plant-carex-hirta-04.webp"
   ],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    185
+  ],
+  "source_texts": [
+    "Carex hirta – ostřice srstnatá – pangejty, žlutozelené mošničky i plevy, chlupaté, dlouhé listeny, výběžkatá"
+  ]
 }

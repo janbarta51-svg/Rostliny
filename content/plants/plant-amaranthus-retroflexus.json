@@ -1,28 +1,36 @@
 {
   "id": "plant-amaranthus-retroflexus",
-  "czech": "laskavec ohnutý (laskavec srstnatý)",
-  "latin": "Amaranthus retroflexus",
-  "family": "Amaranthaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "laskavec ohnutý (laskavec srstnatý)",
+  "other_names_cs": [],
+  "name_cs_raw": "laskavec ohnutý (laskavec srstnatý)",
+  "name_latin": "Amaranthus retroflexus",
+  "family_cs": "Laskavcovité",
+  "family_latin": "Amaranthaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "zelená"
   ],
-  "months": [
-    7,
-    8,
-    9,
-    10
+  "flowering_from": 7,
+  "flowering_to": 10,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-amaranthus-retroflexus-01.webp"
   ],
-  "color_detail": "zelená",
-  "flowering_detail": "červenec–říjen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0710.jpg",
-      "thumb": "images/thumb-0710.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    593
   ],
-  "sources": []
+  "source_texts": [
+    "Amaranthus retroflexus – laskavec ohnutý (laskavec srstnatý)"
+  ]
 }

@@ -1,31 +1,38 @@
 {
   "id": "plant-epipactis-helleborine",
-  "czech": "kruštík širolistý",
-  "latin": "Epipactis helleborine",
-  "family": "Orchidaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "kruštík širolistý",
+  "other_names_cs": [],
+  "name_cs_raw": "kruštík širolistý",
+  "name_latin": "Epipactis helleborine",
+  "family_cs": "Vstavačovité / Orchideje",
+  "family_latin": "Orchidaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "3. Krytosemenné rostliny – Jednoděložné",
+  "flower_colors": [
     "zelená",
     "růžová"
   ],
-  "months": [
-    7,
-    8
+  "flowering_from": 7,
+  "flowering_to": 8,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-epipactis-helleborine-01.webp",
+    "images/plant-epipactis-helleborine-02.webp"
   ],
-  "color_detail": "zelená, růžová",
-  "flowering_detail": "červenec–srpen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0192.jpg",
-      "thumb": "images/thumb-0192.jpg"
-    },
-    {
-      "path": "images/photo-0193.jpg",
-      "thumb": "images/thumb-0193.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    216
   ],
-  "sources": []
+  "source_texts": [
+    "Epipactis helleborine – kruštík širolistý"
+  ]
 }

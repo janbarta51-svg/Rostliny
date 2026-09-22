@@ -1,35 +1,38 @@
 {
   "id": "plant-ononis-arvensis",
-  "czech": "jehlice rolní",
-  "latin": "Ononis arvensis",
-  "family": "Fabaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "jehlice rolní",
+  "other_names_cs": [],
+  "name_cs_raw": "jehlice rolní",
+  "name_latin": "Ononis arvensis",
+  "family_cs": "Bobovité",
+  "family_latin": "Fabaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "růžová"
   ],
-  "months": [
-    6,
-    7,
-    8
+  "flowering_from": 6,
+  "flowering_to": 8,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-ononis-arvensis-01.webp",
+    "images/plant-ononis-arvensis-02.webp",
+    "images/plant-ononis-arvensis-03.webp"
   ],
-  "color_detail": "růžová",
-  "flowering_detail": "červen–srpen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0345.jpg",
-      "thumb": "images/thumb-0345.jpg"
-    },
-    {
-      "path": "images/photo-0346.jpg",
-      "thumb": "images/thumb-0346.jpg"
-    },
-    {
-      "path": "images/photo-0347.jpg",
-      "thumb": "images/thumb-0347.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    286
   ],
-  "sources": []
+  "source_texts": [
+    "Ononis arvensis – jehlice rolní"
+  ]
 }

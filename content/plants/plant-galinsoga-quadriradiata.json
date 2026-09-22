@@ -1,30 +1,39 @@
 {
   "id": "plant-galinsoga-quadriradiata",
-  "czech": "pěťour srstnatý",
-  "latin": "Galinsoga quadriradiata",
-  "family": "Asteraceae",
-  "aliases": [],
-  "notes": "osinky, lístky u větvení",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "pěťour srstnatý",
+  "other_names_cs": [],
+  "name_cs_raw": "pěťour srstnatý",
+  "name_latin": "Galinsoga quadriradiata",
+  "family_cs": "Hvězdnicovité",
+  "family_latin": "Asteraceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "bílá",
     "žlutá"
   ],
-  "months": [
-    6,
-    7,
-    8,
-    9,
-    10
+  "flowering_from": 6,
+  "flowering_to": 10,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "osinky, lístky u větvení"
   ],
-  "color_detail": "bílá, žlutá",
-  "flowering_detail": "červen–říjen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0577.jpg",
-      "thumb": "images/thumb-0577.jpg"
-    }
+  "photos": [
+    "images/plant-galinsoga-quadriradiata-01.webp"
   ],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    436
+  ],
+  "source_texts": [
+    "Galinsoga quadriradiata – pěťour srstnatý – osinky, lístky u větvení"
+  ]
 }

@@ -1,34 +1,38 @@
 {
   "id": "plant-brachypodium-pinnatum",
-  "czech": "válečka prapořitá",
-  "latin": "Brachypodium pinnatum",
-  "family": "Poaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "válečka prapořitá",
+  "other_names_cs": [],
+  "name_cs_raw": "válečka prapořitá",
+  "name_latin": "Brachypodium pinnatum",
+  "family_cs": "Lipnicovité",
+  "family_latin": "Poaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "3. Krytosemenné rostliny – Jednoděložné",
+  "flower_colors": [
     "zelená"
   ],
-  "months": [
-    6,
-    7
+  "flowering_from": 6,
+  "flowering_to": 7,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-brachypodium-pinnatum-01.webp",
+    "images/plant-brachypodium-pinnatum-02.webp",
+    "images/plant-brachypodium-pinnatum-03.webp"
   ],
-  "color_detail": "zelená",
-  "flowering_detail": "červen–červenec",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0045.jpg",
-      "thumb": "images/thumb-0045.jpg"
-    },
-    {
-      "path": "images/photo-0046.jpg",
-      "thumb": "images/thumb-0046.jpg"
-    },
-    {
-      "path": "images/photo-0047.jpg",
-      "thumb": "images/thumb-0047.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    65
   ],
-  "sources": []
+  "source_texts": [
+    "Brachypodium pinnatum – válečka prapořitá"
+  ]
 }

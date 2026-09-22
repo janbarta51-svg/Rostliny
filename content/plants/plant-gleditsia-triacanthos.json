@@ -1,38 +1,39 @@
 {
   "id": "plant-gleditsia-triacanthos",
-  "czech": "dřezovec trojtrnný",
-  "latin": "Gleditsia triacanthos",
-  "family": "Fabaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
-    "žlutá",
-    "zelená"
+  "name_cs": "dřezovec trojtrnný",
+  "other_names_cs": [],
+  "name_cs_raw": "dřezovec trojtrnný",
+  "name_latin": "Gleditsia triacanthos",
+  "family_cs": "Bobovité",
+  "family_latin": "Fabaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
+    "žlutozelená"
   ],
-  "months": [
-    6
+  "flowering_from": 6,
+  "flowering_to": 6,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-gleditsia-triacanthos-01.webp",
+    "images/plant-gleditsia-triacanthos-02.webp",
+    "images/plant-gleditsia-triacanthos-03.webp",
+    "images/plant-gleditsia-triacanthos-04.webp"
   ],
-  "color_detail": "žlutozelená",
-  "flowering_detail": "červen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0263.jpg",
-      "thumb": "images/thumb-0263.jpg"
-    },
-    {
-      "path": "images/photo-0264.jpg",
-      "thumb": "images/thumb-0264.jpg"
-    },
-    {
-      "path": "images/photo-0265.jpg",
-      "thumb": "images/thumb-0265.jpg"
-    },
-    {
-      "path": "images/photo-0266.jpg",
-      "thumb": "images/thumb-0266.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    251
   ],
-  "sources": []
+  "source_texts": [
+    "Gleditsia triacanthos – dřezovec trojtrnný"
+  ]
 }

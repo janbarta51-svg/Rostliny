@@ -1,30 +1,37 @@
 {
   "id": "plant-holcus-mollis",
-  "czech": "medyněk měkký",
-  "latin": "Holcus mollis",
-  "family": "Poaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "medyněk měkký",
+  "other_names_cs": [],
+  "name_cs_raw": "medyněk měkký",
+  "name_latin": "Holcus mollis",
+  "family_cs": "Lipnicovité",
+  "family_latin": "Poaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "3. Krytosemenné rostliny – Jednoděložné",
+  "flower_colors": [
     "zelená"
   ],
-  "months": [
-    7,
-    8
+  "flowering_from": 7,
+  "flowering_to": 8,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-holcus-mollis-01.webp",
+    "images/plant-holcus-mollis-02.webp"
   ],
-  "color_detail": "zelená",
-  "flowering_detail": "červenec–srpen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0072.jpg",
-      "thumb": "images/thumb-0072.jpg"
-    },
-    {
-      "path": "images/photo-0073.jpg",
-      "thumb": "images/thumb-0073.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    106
   ],
-  "sources": []
+  "source_texts": [
+    "Holcus mollis – medyněk měkký"
+  ]
 }

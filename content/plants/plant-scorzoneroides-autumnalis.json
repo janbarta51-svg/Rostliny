@@ -1,26 +1,38 @@
 {
   "id": "plant-scorzoneroides-autumnalis",
-  "czech": "máchelka podzimní",
-  "latin": "Scorzoneroides autumnalis",
-  "family": "Asteraceae",
-  "aliases": [
+  "name_cs": "máchelka podzimní",
+  "other_names_cs": [
     "podzimka obecná"
   ],
-  "notes": "žlutá, list zvláštní úzký občas vykrojený",
-  "rank": "druh",
-  "colors": [
+  "name_cs_raw": "máchelka podzimní, podzimka obecná",
+  "name_latin": "Scorzoneroides autumnalis",
+  "family_cs": "Hvězdnicovité",
+  "family_latin": "Asteraceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "žlutá"
   ],
-  "months": [
-    6,
-    7,
-    8,
-    9,
-    10
+  "flowering_from": 6,
+  "flowering_to": 10,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "žlutá, list zvláštní úzký občas vykrojený"
   ],
-  "color_detail": "žlutá",
-  "flowering_detail": "červen–říjen",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "photos": [],
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    468
+  ],
+  "source_texts": [
+    "Scorzoneroides autumnalis – máchelka podzimní, podzimka obecná – žlutá, list zvláštní úzký občas vykrojený"
+  ]
 }

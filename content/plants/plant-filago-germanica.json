@@ -1,23 +1,36 @@
 {
   "id": "plant-filago-germanica",
-  "czech": "bělolist obecný",
-  "latin": "Filago germanica",
-  "family": "Asteraceae",
-  "aliases": [],
-  "notes": "C1t, CR",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "bělolist obecný",
+  "other_names_cs": [],
+  "name_cs_raw": "bělolist obecný",
+  "name_latin": "Filago germanica",
+  "family_cs": "Hvězdnicovité",
+  "family_latin": "Asteraceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "hnědá"
   ],
-  "months": [
-    6,
-    7,
-    8,
-    9
+  "flowering_from": 6,
+  "flowering_to": 9,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "C1t, CR"
   ],
-  "color_detail": "hnědá",
-  "flowering_detail": "červen–září",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "photos": [],
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    432
+  ],
+  "source_texts": [
+    "Filago germanica – bělolist obecný – C1t, CR"
+  ]
 }

@@ -1,34 +1,38 @@
 {
   "id": "plant-aurinia-saxatilis",
-  "czech": "tařice skalní",
-  "latin": "Aurinia saxatilis",
-  "family": "Brassicaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "tařice skalní",
+  "other_names_cs": [],
+  "name_cs_raw": "tařice skalní",
+  "name_latin": "Aurinia saxatilis",
+  "family_cs": "brukvovité",
+  "family_latin": "Brassicaceae",
+  "order_cs": "hluchavkotvaré",
+  "order_latin": "Lamiales",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "žlutá"
   ],
-  "months": [
-    4,
-    5
+  "flowering_from": 4,
+  "flowering_to": 5,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-aurinia-saxatilis-01.webp",
+    "images/plant-aurinia-saxatilis-02.webp",
+    "images/plant-aurinia-saxatilis-03.webp"
   ],
-  "color_detail": "žlutá",
-  "flowering_detail": "duben–květen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0950.jpg",
-      "thumb": "images/thumb-0950.jpg"
-    },
-    {
-      "path": "images/photo-0951.jpg",
-      "thumb": "images/thumb-0951.jpg"
-    },
-    {
-      "path": "images/photo-0952.jpg",
-      "thumb": "images/thumb-0952.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    787
   ],
-  "sources": []
+  "source_texts": [
+    "Aurinia saxatilis – tařice skalní"
+  ]
 }

@@ -1,35 +1,40 @@
 {
   "id": "plant-hypericum-tetrapterum",
-  "czech": "třezalka čtyřkřídlá",
-  "latin": "Hypericum tetrapterum",
-  "family": "Hypericaceae",
-  "aliases": [],
-  "notes": "Bahenní, drobnější květy",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "třezalka čtyřkřídlá",
+  "other_names_cs": [],
+  "name_cs_raw": "třezalka čtyřkřídlá",
+  "name_latin": "Hypericum tetrapterum",
+  "family_cs": "třezalkovité",
+  "family_latin": "Hypericaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "žlutá"
   ],
-  "months": [
-    6,
-    7,
-    8
+  "flowering_from": 6,
+  "flowering_to": 8,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "Bahenní, drobnější květy"
   ],
-  "color_detail": "žlutá",
-  "flowering_detail": "červen–srpen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0922.jpg",
-      "thumb": "images/thumb-0922.jpg"
-    },
-    {
-      "path": "images/photo-0923.jpg",
-      "thumb": "images/thumb-0923.jpg"
-    },
-    {
-      "path": "images/photo-0924.jpg",
-      "thumb": "images/thumb-0924.jpg"
-    }
+  "photos": [
+    "images/plant-hypericum-tetrapterum-01.webp",
+    "images/plant-hypericum-tetrapterum-02.webp",
+    "images/plant-hypericum-tetrapterum-03.webp"
   ],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    766
+  ],
+  "source_texts": [
+    "Hypericum tetrapterum – třezalka čtyřkřídlá"
+  ]
 }

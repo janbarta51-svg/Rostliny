@@ -1,30 +1,39 @@
 {
   "id": "plant-echinops-sphaerocephalus",
-  "czech": "bělotrn kulatohlavý",
-  "latin": "Echinops sphaerocephalus",
-  "family": "Asteraceae",
-  "aliases": [],
-  "notes": "invazka – nejčastější z nich",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "bělotrn kulatohlavý",
+  "other_names_cs": [],
+  "name_cs_raw": "bělotrn kulatohlavý",
+  "name_latin": "Echinops sphaerocephalus",
+  "family_cs": "Hvězdnicovité",
+  "family_latin": "Asteraceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "bílá"
   ],
-  "months": [
-    7,
-    8
+  "flowering_from": 7,
+  "flowering_to": 8,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "invazka – nejčastější z nich"
   ],
-  "color_detail": "bílá",
-  "flowering_detail": "červenec–srpen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0572.jpg",
-      "thumb": "images/thumb-0572.jpg"
-    },
-    {
-      "path": "images/photo-0573.jpg",
-      "thumb": "images/thumb-0573.jpg"
-    }
+  "photos": [
+    "images/plant-echinops-sphaerocephalus-01.webp",
+    "images/plant-echinops-sphaerocephalus-02.webp"
   ],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    429
+  ],
+  "source_texts": [
+    "Echinops sphaerocephalus – bělotrn kulatohlavý – invazka – nejčastější z nich"
+  ]
 }

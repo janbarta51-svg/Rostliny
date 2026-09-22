@@ -1,34 +1,38 @@
 {
   "id": "plant-gnaphalium-uliginosum",
-  "czech": "protěž bažinná",
-  "latin": "Gnaphalium uliginosum",
-  "family": "Asteraceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "protěž bažinná",
+  "other_names_cs": [],
+  "name_cs_raw": "protěž bažinná",
+  "name_latin": "Gnaphalium uliginosum",
+  "family_cs": "Hvězdnicovité",
+  "family_latin": "Asteraceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "hnědá",
-    "žlutá",
-    "bílá"
+    "žlutobílá"
   ],
-  "months": [
-    7,
-    8,
-    9,
-    10
+  "flowering_from": 7,
+  "flowering_to": 10,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-gnaphalium-uliginosum-01.webp",
+    "images/plant-gnaphalium-uliginosum-02.webp"
   ],
-  "color_detail": "hnědá, žlutobílá",
-  "flowering_detail": "červenec–říjen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0629.jpg",
-      "thumb": "images/thumb-0629.jpg"
-    },
-    {
-      "path": "images/photo-0630.jpg",
-      "thumb": "images/thumb-0630.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    504
   ],
-  "sources": []
+  "source_texts": [
+    "Gnaphalium uliginosum – protěž bažinná"
+  ]
 }

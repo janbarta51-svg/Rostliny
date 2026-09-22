@@ -1,25 +1,39 @@
 {
   "id": "plant-aquilegia-vulgaris",
-  "czech": "orlíček obecný",
-  "latin": "Aquilegia vulgaris",
-  "family": "Ranunculaceae",
-  "aliases": [],
-  "notes": "C3, NT",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "orlíček obecný",
+  "other_names_cs": [],
+  "name_cs_raw": "orlíček obecný",
+  "name_latin": "Aquilegia vulgaris",
+  "family_cs": "Pryskyřníkovité",
+  "family_latin": "Ranunculaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "bílá",
     "růžová",
     "modrá",
-    "fialová"
+    "modrofialová"
   ],
-  "months": [
-    5,
-    6,
-    7
+  "flowering_from": 5,
+  "flowering_to": 7,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "C3, NT"
   ],
-  "color_detail": "bílá, růžová, modrá, modrofialová",
-  "flowering_detail": "květen–červenec",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "photos": [],
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    645
+  ],
+  "source_texts": [
+    "Aquilegia vulgaris – orlíček obecný – C3, NT"
+  ]
 }

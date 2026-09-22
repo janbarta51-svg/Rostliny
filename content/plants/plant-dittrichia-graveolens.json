@@ -1,22 +1,34 @@
 {
   "id": "plant-dittrichia-graveolens",
-  "czech": "omanka vonná",
-  "latin": "Dittrichia graveolens",
-  "family": "Asteraceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "omanka vonná",
+  "other_names_cs": [],
+  "name_cs_raw": "omanka vonná",
+  "name_latin": "Dittrichia graveolens",
+  "family_cs": "Hvězdnicovité",
+  "family_latin": "Asteraceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "žlutá"
   ],
-  "months": [
-    7,
-    8,
-    9
+  "flowering_from": 7,
+  "flowering_to": 9,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [],
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    425
   ],
-  "color_detail": "žlutá",
-  "flowering_detail": "červenec–září",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "source_texts": [
+    "Dittrichia graveolens – omanka vonná"
+  ]
 }

@@ -1,38 +1,40 @@
 {
   "id": "plant-succisa-pratensis",
-  "czech": "čertkus luční",
-  "latin": "Succisa pratensis",
-  "family": "Dipsacaceae",
-  "aliases": [],
-  "notes": "bezkolencové louky, kvete od půlky července",
-  "rank": "druh",
-  "colors": [
-    "modrá",
-    "fialová"
+  "name_cs": "čertkus luční",
+  "other_names_cs": [],
+  "name_cs_raw": "čertkus luční",
+  "name_latin": "Succisa pratensis",
+  "family_cs": "štětkovité",
+  "family_latin": "Dipsacaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
+    "modrofialová"
   ],
-  "months": [
-    7,
-    8,
-    9
+  "flowering_from": 7,
+  "flowering_to": 9,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "bezkolencové louky, kvete od půlky července"
   ],
-  "color_detail": "modrofialová",
-  "flowering_detail": "červenec–září",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0897.jpg",
-      "thumb": "images/thumb-0897.jpg"
-    },
-    {
-      "path": "images/photo-0898.jpg",
-      "thumb": "images/thumb-0898.jpg"
-    },
-    {
-      "path": "images/photo-0899.jpg",
-      "thumb": "images/thumb-0899.jpg"
-    }
+  "photos": [
+    "images/plant-succisa-pratensis-01.webp",
+    "images/plant-succisa-pratensis-02.webp",
+    "images/plant-succisa-pratensis-03.webp"
   ],
-  "sources": [
-    "https://pladias.cz/taxon/data/Succisa%20pratensis"
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    750
+  ],
+  "source_texts": [
+    "Succisa pratensis – čertkus luční – bezkolencové louky, kvete od půlky července"
   ]
 }

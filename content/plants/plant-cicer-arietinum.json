@@ -1,36 +1,40 @@
 {
   "id": "plant-cicer-arietinum",
-  "czech": "cizrna beraní",
-  "latin": "Cicer arietinum",
-  "family": "Fabaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "cizrna beraní",
+  "other_names_cs": [],
+  "name_cs_raw": "cizrna beraní",
+  "name_latin": "Cicer arietinum",
+  "family_cs": "Bobovité",
+  "family_latin": "Fabaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "bílá",
     "růžová",
     "fialová"
   ],
-  "months": [
-    6,
-    7
+  "flowering_from": 6,
+  "flowering_to": 7,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-cicer-arietinum-01.webp",
+    "images/plant-cicer-arietinum-02.webp",
+    "images/plant-cicer-arietinum-03.webp"
   ],
-  "color_detail": "bílá, růžová, fialová",
-  "flowering_detail": "červen–červenec",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0232.jpg",
-      "thumb": "images/thumb-0232.jpg"
-    },
-    {
-      "path": "images/photo-0233.jpg",
-      "thumb": "images/thumb-0233.jpg"
-    },
-    {
-      "path": "images/photo-0234.jpg",
-      "thumb": "images/thumb-0234.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    241
   ],
-  "sources": []
+  "source_texts": [
+    "Cicer arietinum – cizrna beraní"
+  ]
 }

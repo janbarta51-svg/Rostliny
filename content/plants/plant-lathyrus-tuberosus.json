@@ -1,45 +1,41 @@
 {
   "id": "plant-lathyrus-tuberosus",
-  "czech": "hrachor hlíznatý",
-  "latin": "Lathyrus tuberosus",
-  "family": "Fabaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "hrachor hlíznatý",
+  "other_names_cs": [],
+  "name_cs_raw": "hrachor hlíznatý",
+  "name_latin": "Lathyrus tuberosus",
+  "family_cs": "Bobovité",
+  "family_latin": "Fabaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "růžová",
     "fialová"
   ],
-  "months": [
-    5,
-    6,
-    7,
-    8
+  "flowering_from": 5,
+  "flowering_to": 8,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-lathyrus-tuberosus-01.webp",
+    "images/plant-lathyrus-tuberosus-02.webp",
+    "images/plant-lathyrus-tuberosus-03.webp",
+    "images/plant-lathyrus-tuberosus-04.webp",
+    "images/plant-lathyrus-tuberosus-05.webp"
   ],
-  "color_detail": "růžová, fialová",
-  "flowering_detail": "květen–srpen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0294.jpg",
-      "thumb": "images/thumb-0294.jpg"
-    },
-    {
-      "path": "images/photo-0295.jpg",
-      "thumb": "images/thumb-0295.jpg"
-    },
-    {
-      "path": "images/photo-0296.jpg",
-      "thumb": "images/thumb-0296.jpg"
-    },
-    {
-      "path": "images/photo-0297.jpg",
-      "thumb": "images/thumb-0297.jpg"
-    },
-    {
-      "path": "images/photo-0298.jpg",
-      "thumb": "images/thumb-0298.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    265
   ],
-  "sources": []
+  "source_texts": [
+    "Lathyrus tuberosus – hrachor hlíznatý"
+  ]
 }

@@ -1,28 +1,37 @@
 {
   "id": "plant-valeriana-officinalis",
-  "czech": "kozlík lékařský",
-  "latin": "Valeriana officinalis",
-  "family": "Caprifoliaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "kozlík lékařský",
+  "other_names_cs": [],
+  "name_cs_raw": "kozlík lékařský",
+  "name_latin": "Valeriana officinalis",
+  "family_cs": "Zimolezovité",
+  "family_latin": "Caprifoliaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "bílá",
     "růžová"
   ],
-  "months": [
-    6,
-    7,
-    8
+  "flowering_from": 6,
+  "flowering_to": 8,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-valeriana-officinalis-01.webp"
   ],
-  "color_detail": "bílá, růžová",
-  "flowering_detail": "červen–srpen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0894.jpg",
-      "thumb": "images/thumb-0894.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    745
   ],
-  "sources": []
+  "source_texts": [
+    "Valeriana officinalis – kozlík lékařský"
+  ]
 }

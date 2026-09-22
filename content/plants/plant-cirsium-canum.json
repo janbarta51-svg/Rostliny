@@ -1,37 +1,38 @@
 {
   "id": "plant-cirsium-canum",
-  "czech": "pcháč šedý",
-  "latin": "Cirsium canum",
-  "family": "Asteraceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
-    "červená",
-    "fialová"
+  "name_cs": "pcháč šedý",
+  "other_names_cs": [],
+  "name_cs_raw": "pcháč šedý",
+  "name_latin": "Cirsium canum",
+  "family_cs": "Hvězdnicovité",
+  "family_latin": "Asteraceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
+    "červenofialová"
   ],
-  "months": [
-    7,
-    8,
-    9,
-    10
+  "flowering_from": 7,
+  "flowering_to": 10,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-cirsium-canum-01.webp",
+    "images/plant-cirsium-canum-02.webp",
+    "images/plant-cirsium-canum-03.webp"
   ],
-  "color_detail": "červenofialová",
-  "flowering_detail": "červenec–říjen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0483.jpg",
-      "thumb": "images/thumb-0483.jpg"
-    },
-    {
-      "path": "images/photo-0484.jpg",
-      "thumb": "images/thumb-0484.jpg"
-    },
-    {
-      "path": "images/photo-0485.jpg",
-      "thumb": "images/thumb-0485.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    360
   ],
-  "sources": []
+  "source_texts": [
+    "Cirsium canum – pcháč šedý"
+  ]
 }

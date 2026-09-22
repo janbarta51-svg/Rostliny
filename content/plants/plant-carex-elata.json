@@ -1,31 +1,39 @@
 {
   "id": "plant-carex-elata",
-  "czech": "ostřice vyvýšená",
-  "latin": "Carex elata",
-  "family": "Cyperaceae",
-  "aliases": [],
-  "notes": "C2, mokřady, trsnatá, pochvy celistvé, hladké, slámové, krátké listeny, spodní listen kratší než klásek i květenství",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "ostřice vyvýšená",
+  "other_names_cs": [],
+  "name_cs_raw": "ostřice vyvýšená",
+  "name_latin": "Carex elata",
+  "family_cs": "Šáchorovité",
+  "family_latin": "Cyperaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "3. Krytosemenné rostliny – Jednoděložné",
+  "flower_colors": [
     "černá"
   ],
-  "months": [
-    5,
-    6,
-    7
+  "flowering_from": 5,
+  "flowering_to": 7,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "C2, mokřady, trsnatá, pochvy celistvé, hladké, slámové, krátké listeny, spodní listen kratší než klásek i květenství"
   ],
-  "color_detail": "černá",
-  "flowering_detail": "květen–červenec",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0182.jpg",
-      "thumb": "images/thumb-0182.jpg"
-    },
-    {
-      "path": "images/photo-0183.jpg",
-      "thumb": "images/thumb-0183.jpg"
-    }
+  "photos": [
+    "images/plant-carex-elata-01.webp",
+    "images/plant-carex-elata-02.webp"
   ],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    198
+  ],
+  "source_texts": [
+    "Carex elata – ostřice vyvýšená – C2, mokřady, trsnatá, pochvy celistvé, hladké, slámové, krátké listeny, spodní listen kratší než klásek i květenství"
+  ]
 }

@@ -1,40 +1,39 @@
 {
   "id": "plant-bunias-orientalis",
-  "czech": "rukevník východní",
-  "latin": "Bunias orientalis",
-  "family": "Brassicaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "rukevník východní",
+  "other_names_cs": [],
+  "name_cs_raw": "rukevník východní",
+  "name_latin": "Bunias orientalis",
+  "family_cs": "brukvovité",
+  "family_latin": "Brassicaceae",
+  "order_cs": "hluchavkotvaré",
+  "order_latin": "Lamiales",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "žlutá"
   ],
-  "months": [
-    5,
-    6,
-    7,
-    8
+  "flowering_from": 5,
+  "flowering_to": 8,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-bunias-orientalis-01.webp",
+    "images/plant-bunias-orientalis-02.webp",
+    "images/plant-bunias-orientalis-03.webp",
+    "images/plant-bunias-orientalis-04.webp"
   ],
-  "color_detail": "žlutá",
-  "flowering_detail": "květen–srpen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0969.jpg",
-      "thumb": "images/thumb-0969.jpg"
-    },
-    {
-      "path": "images/photo-0970.jpg",
-      "thumb": "images/thumb-0970.jpg"
-    },
-    {
-      "path": "images/photo-0971.jpg",
-      "thumb": "images/thumb-0971.jpg"
-    },
-    {
-      "path": "images/photo-0972.jpg",
-      "thumb": "images/thumb-0972.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    792
   ],
-  "sources": []
+  "source_texts": [
+    "Bunias orientalis – rukevník východní"
+  ]
 }

@@ -1,36 +1,40 @@
 {
   "id": "plant-hieracium-lachenalii",
-  "czech": "jestřábník Lachenalův",
-  "latin": "Hieracium lachenalii",
-  "family": "Asteraceae",
-  "aliases": [],
-  "notes": "žlaznaté zákrovy, více listů na lodyze, širší listy",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "jestřábník Lachenalův",
+  "other_names_cs": [],
+  "name_cs_raw": "jestřábník Lachenalův",
+  "name_latin": "Hieracium lachenalii",
+  "family_cs": "Hvězdnicovité",
+  "family_latin": "Asteraceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "žlutá"
   ],
-  "months": [
-    6,
-    7,
-    8,
-    9
+  "flowering_from": 6,
+  "flowering_to": 9,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "žlaznaté zákrovy, více listů na lodyze, širší listy"
   ],
-  "color_detail": "žlutá",
-  "flowering_detail": "červen–září",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0584.jpg",
-      "thumb": "images/thumb-0584.jpg"
-    },
-    {
-      "path": "images/photo-0585.jpg",
-      "thumb": "images/thumb-0585.jpg"
-    },
-    {
-      "path": "images/photo-0586.jpg",
-      "thumb": "images/thumb-0586.jpg"
-    }
+  "photos": [
+    "images/plant-hieracium-lachenalii-01.webp",
+    "images/plant-hieracium-lachenalii-02.webp",
+    "images/plant-hieracium-lachenalii-03.webp"
   ],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    446
+  ],
+  "source_texts": [
+    "Hieracium lachenalii – jestřábník Lachenalův – žlaznaté zákrovy, více listů na lodyze, širší listy"
+  ]
 }

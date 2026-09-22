@@ -1,37 +1,40 @@
 {
   "id": "plant-silene-vulgaris",
-  "czech": "silenka nadmutá",
-  "latin": "Silene vulgaris",
-  "family": "Caryophyllaceae",
-  "aliases": [],
-  "notes": "klasická, světlý zelený kalich, lysá",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "silenka nadmutá",
+  "other_names_cs": [],
+  "name_cs_raw": "silenka nadmutá",
+  "name_latin": "Silene vulgaris",
+  "family_cs": "Hvozdíkovité",
+  "family_latin": "Caryophyllaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "bílá"
   ],
-  "months": [
-    5,
-    6,
-    7,
-    8,
-    9
+  "flowering_from": 5,
+  "flowering_to": 9,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "klasická, světlý zelený kalich, lysá"
   ],
-  "color_detail": "bílá",
-  "flowering_detail": "květen–září",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0658.jpg",
-      "thumb": "images/thumb-0658.jpg"
-    },
-    {
-      "path": "images/photo-0659.jpg",
-      "thumb": "images/thumb-0659.jpg"
-    },
-    {
-      "path": "images/photo-0660.jpg",
-      "thumb": "images/thumb-0660.jpg"
-    }
+  "photos": [
+    "images/plant-silene-vulgaris-01.webp",
+    "images/plant-silene-vulgaris-02.webp",
+    "images/plant-silene-vulgaris-03.webp"
   ],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    543
+  ],
+  "source_texts": [
+    "Silene vulgaris – silenka nadmutá – klasická, světlý zelený kalich, lysá"
+  ]
 }

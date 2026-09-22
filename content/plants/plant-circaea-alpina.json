@@ -1,31 +1,39 @@
 {
   "id": "plant-circaea-alpina",
-  "czech": "čarovník alpský",
-  "latin": "Circaea alpina",
-  "family": "Onagraceae",
-  "aliases": [],
-  "notes": "menší, živě zelená, srdčitá báze listu",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "čarovník alpský",
+  "other_names_cs": [],
+  "name_cs_raw": "čarovník alpský",
+  "name_latin": "Circaea alpina",
+  "family_cs": "Pupalkovité",
+  "family_latin": "Onagraceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "bílá"
   ],
-  "months": [
-    6,
-    7,
-    8
+  "flowering_from": 6,
+  "flowering_to": 8,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "menší, živě zelená, srdčitá báze listu"
   ],
-  "color_detail": "bílá",
-  "flowering_detail": "červen–srpen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0817.jpg",
-      "thumb": "images/thumb-0817.jpg"
-    },
-    {
-      "path": "images/photo-0818.jpg",
-      "thumb": "images/thumb-0818.jpg"
-    }
+  "photos": [
+    "images/plant-circaea-alpina-01.webp",
+    "images/plant-circaea-alpina-02.webp"
   ],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    689
+  ],
+  "source_texts": [
+    "Circaea alpina – čarovník alpský – menší, živě zelená, srdčitá báze listu"
+  ]
 }

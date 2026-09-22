@@ -1,39 +1,38 @@
 {
   "id": "plant-campanula-rotundifolia",
-  "czech": "zvonek okrouhlolistý",
-  "latin": "Campanula rotundifolia",
-  "family": "Campanulaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
-    "modrá",
-    "fialová"
+  "name_cs": "zvonek okrouhlolistý",
+  "other_names_cs": [],
+  "name_cs_raw": "zvonek okrouhlolistý",
+  "name_latin": "Campanula rotundifolia",
+  "family_cs": "Zvonkovité",
+  "family_latin": "Campanulaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
+    "modrofialová"
   ],
-  "months": [
-    5,
-    6,
-    7,
-    8,
-    9,
-    10
+  "flowering_from": 5,
+  "flowering_to": 10,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-campanula-rotundifolia-01.webp",
+    "images/plant-campanula-rotundifolia-02.webp",
+    "images/plant-campanula-rotundifolia-03.webp"
   ],
-  "color_detail": "modrofialová",
-  "flowering_detail": "květen–říjen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0914.jpg",
-      "thumb": "images/thumb-0914.jpg"
-    },
-    {
-      "path": "images/photo-0915.jpg",
-      "thumb": "images/thumb-0915.jpg"
-    },
-    {
-      "path": "images/photo-0916.jpg",
-      "thumb": "images/thumb-0916.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    760
   ],
-  "sources": []
+  "source_texts": [
+    "Campanula rotundifolia – zvonek okrouhlolistý"
+  ]
 }

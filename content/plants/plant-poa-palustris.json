@@ -1,31 +1,39 @@
 {
   "id": "plant-poa-palustris",
-  "czech": "lipnice bahenní",
-  "latin": "Poa palustris",
-  "family": "Poaceae",
-  "aliases": [],
-  "notes": "špičatý jazýček a nemá drsné stéblo, tmavě zelená",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "lipnice bahenní",
+  "other_names_cs": [],
+  "name_cs_raw": "lipnice bahenní",
+  "name_latin": "Poa palustris",
+  "family_cs": "Lipnicovité",
+  "family_latin": "Poaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "3. Krytosemenné rostliny – Jednoděložné",
+  "flower_colors": [
     "zelená"
   ],
-  "months": [
-    6,
-    7,
-    8
+  "flowering_from": 6,
+  "flowering_to": 8,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "špičatý jazýček a nemá drsné stéblo, tmavě zelená"
   ],
-  "color_detail": "zelená",
-  "flowering_detail": "červen–srpen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0105.jpg",
-      "thumb": "images/thumb-0105.jpg"
-    },
-    {
-      "path": "images/photo-0106.jpg",
-      "thumb": "images/thumb-0106.jpg"
-    }
+  "photos": [
+    "images/plant-poa-palustris-01.webp",
+    "images/plant-poa-palustris-02.webp"
   ],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    129
+  ],
+  "source_texts": [
+    "Poa palustris – lipnice bahenní – špičatý jazýček a nemá drsné stéblo, tmavě zelená"
+  ]
 }

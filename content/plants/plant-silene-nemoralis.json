@@ -1,22 +1,36 @@
 {
   "id": "plant-silene-nemoralis",
-  "czech": "silenka hajní",
-  "latin": "Silene nemoralis",
-  "family": "Caryophyllaceae",
-  "aliases": [],
-  "notes": "úzký kalich dorůžova, bílá",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "silenka hajní",
+  "other_names_cs": [],
+  "name_cs_raw": "silenka hajní",
+  "name_latin": "Silene nemoralis",
+  "family_cs": "Hvozdíkovité",
+  "family_latin": "Caryophyllaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "bílá"
   ],
-  "months": [
-    5,
-    6,
-    7
+  "flowering_from": 5,
+  "flowering_to": 7,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "úzký kalich dorůžova, bílá"
   ],
-  "color_detail": "bílá",
-  "flowering_detail": "květen–červenec",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "photos": [],
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    541
+  ],
+  "source_texts": [
+    "Silene nemoralis – silenka hajní – úzký kalich dorůžova, bílá"
+  ]
 }

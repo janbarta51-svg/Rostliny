@@ -1,21 +1,36 @@
 {
   "id": "plant-leersia-oryzoides",
-  "czech": "tajnička rýžovitá",
-  "latin": "Leersia oryzoides",
-  "family": "Poaceae",
-  "aliases": [],
-  "notes": "C3, NT",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "tajnička rýžovitá",
+  "other_names_cs": [],
+  "name_cs_raw": "tajnička rýžovitá",
+  "name_latin": "Leersia oryzoides",
+  "family_cs": "Lipnicovité",
+  "family_latin": "Poaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "3. Krytosemenné rostliny – Jednoděložné",
+  "flower_colors": [
     "zelená"
   ],
-  "months": [
-    8,
-    9
+  "flowering_from": 8,
+  "flowering_to": 9,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "C3, NT"
   ],
-  "color_detail": "zelená",
-  "flowering_detail": "srpen–září",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "photos": [],
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    48
+  ],
+  "source_texts": [
+    "Leersia oryzoides – tajnička rýžovitá – C3, NT"
+  ]
 }

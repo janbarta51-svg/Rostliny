@@ -1,23 +1,37 @@
 {
   "id": "plant-solanum-dulcamara",
-  "czech": "lilek potměchuť",
-  "latin": "Solanum dulcamara",
-  "family": "Solanaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "lilek potměchuť",
+  "other_names_cs": [],
+  "name_cs_raw": "lilek potměchuť",
+  "name_latin": "Solanum dulcamara",
+  "family_cs": "Lilkovité",
+  "family_latin": "Solanaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "fialová"
   ],
-  "months": [
-    6,
-    7,
-    8,
-    9
+  "flowering_from": 6,
+  "flowering_to": 9,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-solanum-dulcamara-01.webp",
+    "images/plant-solanum-dulcamara-02.webp"
   ],
-  "color_detail": "fialová",
-  "flowering_detail": "červen–září",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": true,
+  "source_paragraphs": [
+    597
+  ],
+  "source_texts": [
+    "Solanum dulcamara – lilek potměchuť"
+  ]
 }

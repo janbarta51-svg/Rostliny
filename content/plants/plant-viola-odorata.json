@@ -1,38 +1,39 @@
 {
   "id": "plant-viola-odorata",
-  "czech": "violka vonná",
-  "latin": "Viola odorata",
-  "family": "Violaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "violka vonná",
+  "other_names_cs": [],
+  "name_cs_raw": "violka vonná",
+  "name_latin": "Viola odorata",
+  "family_cs": "Violkovité",
+  "family_latin": "Violaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "fialová"
   ],
-  "months": [
-    3,
-    4
+  "flowering_from": 3,
+  "flowering_to": 4,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-viola-odorata-01.webp",
+    "images/plant-viola-odorata-02.webp",
+    "images/plant-viola-odorata-03.webp",
+    "images/plant-viola-odorata-04.webp"
   ],
-  "color_detail": "fialová",
-  "flowering_detail": "březen–duben",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0881.jpg",
-      "thumb": "images/thumb-0881.jpg"
-    },
-    {
-      "path": "images/photo-0882.jpg",
-      "thumb": "images/thumb-0882.jpg"
-    },
-    {
-      "path": "images/photo-0883.jpg",
-      "thumb": "images/thumb-0883.jpg"
-    },
-    {
-      "path": "images/photo-0884.jpg",
-      "thumb": "images/thumb-0884.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    736
   ],
-  "sources": []
+  "source_texts": [
+    "Viola odorata – violka vonná"
+  ]
 }

@@ -1,35 +1,40 @@
 {
   "id": "plant-myosotis-caespitosa",
-  "czech": "pomněnka trsnatá",
-  "latin": "Myosotis caespitosa",
-  "family": "Boraginaceae",
-  "aliases": [],
-  "notes": "bahenní, svěže zelená, bledé květy, kalich do 5, kalich vykrojený dost a dělený do poloviny",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "pomněnka trsnatá",
+  "other_names_cs": [],
+  "name_cs_raw": "pomněnka trsnatá",
+  "name_latin": "Myosotis caespitosa",
+  "family_cs": "Brutnákovité",
+  "family_latin": "Boraginaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "modrá"
   ],
-  "months": [
-    5,
-    6,
-    7
+  "flowering_from": 5,
+  "flowering_to": 7,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "bahenní, svěže zelená, bledé květy, kalich do 5, kalich vykrojený dost a dělený do poloviny"
   ],
-  "color_detail": "modrá",
-  "flowering_detail": "květen–červenec",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0425.jpg",
-      "thumb": "images/thumb-0425.jpg"
-    },
-    {
-      "path": "images/photo-0426.jpg",
-      "thumb": "images/thumb-0426.jpg"
-    },
-    {
-      "path": "images/photo-0427.jpg",
-      "thumb": "images/thumb-0427.jpg"
-    }
+  "photos": [
+    "images/plant-myosotis-caespitosa-01.webp",
+    "images/plant-myosotis-caespitosa-02.webp",
+    "images/plant-myosotis-caespitosa-03.webp"
   ],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    327
+  ],
+  "source_texts": [
+    "Myosotis caespitosa – pomněnka trsnatá – bahenní, svěže zelená, bledé květy, kalich do 5, kalich vykrojený dost a dělený do poloviny"
+  ]
 }

@@ -1,27 +1,38 @@
 {
   "id": "plant-potentilla-verna",
-  "czech": "mochna jarní",
-  "latin": "Potentilla verna",
-  "family": "Rosaceae",
-  "aliases": [],
-  "notes": "chlupatá, skály",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "mochna jarní",
+  "other_names_cs": [],
+  "name_cs_raw": "mochna jarní",
+  "name_latin": "Potentilla verna",
+  "family_cs": "Růžovité",
+  "family_latin": "Rosaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "žlutá"
   ],
-  "months": [
-    4,
-    5,
-    6
+  "flowering_from": 4,
+  "flowering_to": 6,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "chlupatá, skály"
   ],
-  "color_detail": "žlutá",
-  "flowering_detail": "duben–červen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0864.jpg",
-      "thumb": "images/thumb-0864.jpg"
-    }
+  "photos": [
+    "images/plant-potentilla-verna-01.webp"
   ],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    716
+  ],
+  "source_texts": [
+    "Potentilla verna – mochna jarní – chlupatá, skály"
+  ]
 }

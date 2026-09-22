@@ -1,40 +1,42 @@
 {
   "id": "plant-lupinus-polyphyllus",
-  "czech": "lupina mnoholistá",
-  "latin": "Lupinus polyphyllus",
-  "family": "Fabaceae",
-  "aliases": [
+  "name_cs": "lupina mnoholistá",
+  "other_names_cs": [
     "vlčí bob mnoholistý"
   ],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs_raw": "lupina mnoholistá, vlčí bob mnoholistý",
+  "name_latin": "Lupinus polyphyllus",
+  "family_cs": "Bobovité",
+  "family_latin": "Fabaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "bílá",
     "fialová",
     "modrá"
   ],
-  "months": [
-    6,
-    7,
-    8,
-    9
+  "flowering_from": 6,
+  "flowering_to": 9,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-lupinus-polyphyllus-01.webp",
+    "images/plant-lupinus-polyphyllus-02.webp",
+    "images/plant-lupinus-polyphyllus-03.webp"
   ],
-  "color_detail": "bílá, fialová, modrá",
-  "flowering_detail": "červen–září",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0319.jpg",
-      "thumb": "images/thumb-0319.jpg"
-    },
-    {
-      "path": "images/photo-0320.jpg",
-      "thumb": "images/thumb-0320.jpg"
-    },
-    {
-      "path": "images/photo-0321.jpg",
-      "thumb": "images/thumb-0321.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    272
   ],
-  "sources": []
+  "source_texts": [
+    "Lupinus polyphyllus – lupina mnoholistá, vlčí bob mnoholistý"
+  ]
 }

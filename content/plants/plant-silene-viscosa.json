@@ -1,24 +1,38 @@
 {
   "id": "plant-silene-viscosa",
-  "czech": "silenka lepkavá",
-  "latin": "Silene viscosa",
-  "family": "Caryophyllaceae",
-  "aliases": [
+  "name_cs": "silenka lepkavá",
+  "other_names_cs": [
     "knotovka lepkavá"
   ],
-  "notes": "osiny na listu, květy hodně po celé lodyze",
-  "rank": "druh",
-  "colors": [
+  "name_cs_raw": "silenka lepkavá, knotovka lepkavá",
+  "name_latin": "Silene viscosa",
+  "family_cs": "Hvozdíkovité",
+  "family_latin": "Caryophyllaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "růžová"
   ],
-  "months": [
-    6,
-    7,
-    8
+  "flowering_from": 6,
+  "flowering_to": 8,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "osiny na listu, květy hodně po celé lodyze"
   ],
-  "color_detail": "růžová",
-  "flowering_detail": "červen–srpen",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "photos": [],
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    544
+  ],
+  "source_texts": [
+    "Silene viscosa – silenka lepkavá, knotovka lepkavá – osiny na listu, květy hodně po celé lodyze"
+  ]
 }

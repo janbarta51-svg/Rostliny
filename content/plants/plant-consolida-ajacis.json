@@ -1,26 +1,38 @@
 {
   "id": "plant-consolida-ajacis",
-  "czech": "ostrožka zahradní",
-  "latin": "Consolida ajacis",
-  "family": "Ranunculaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "ostrožka zahradní",
+  "other_names_cs": [],
+  "name_cs_raw": "ostrožka zahradní",
+  "name_latin": "Consolida ajacis",
+  "family_cs": "Pryskyřníkovité",
+  "family_latin": "Ranunculaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "bílá",
     "růžová",
     "červená",
     "fialová",
     "modrá"
   ],
-  "months": [
-    6,
-    7,
-    8
+  "flowering_from": 6,
+  "flowering_to": 8,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [],
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    659
   ],
-  "color_detail": "bílá, růžová, červená, fialová, modrá",
-  "flowering_detail": "červen–srpen",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "source_texts": [
+    "Consolida ajacis – ostrožka zahradní"
+  ]
 }

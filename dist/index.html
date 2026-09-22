@@ -1,13 +1,91 @@
 <!doctype html>
-<html lang="cs"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#f4eee3"><meta name="description" content="Osobní atlas rostlin s fotografiemi, botanickými poznámkami a vyhledáváním podle názvu a čeledi."><title>Atlas rostlin</title><link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23e9dfce'/%3E%3Cpath d='M9 24C7 9 16 6 25 7c0 10-5 18-16 17ZM9 24 22 10' stroke='%234b5541' stroke-width='2' fill='none'/%3E%3C/svg%3E"><link rel="manifest" href="manifest.webmanifest"><link rel="icon" type="image/svg+xml" href="icons/icon.svg"><link rel="stylesheet" href="style.css"><script src="data.js" defer></script><script src="app.js" defer></script><script src="pwa.js" defer></script></head>
-<body><a class="skip" href="#main">Přejít na rostliny</a>
-<header class="top"><a class="brand" href="index.html"><span class="brand-icon" aria-hidden="true">✳</span> Atlas rostlin</a><span class="edition">Botanický zápisník</span></header>
-<div class="layout"><aside class="sidebar" aria-label="Členění atlasu"><p class="eyebrow">MŮJ HERBÁŘ</p><h2>Rostlinná říše</h2><nav id="groups" aria-label="Skupiny rostlin"></nav><div class="side-note"><span class="rule"></span><strong id="photo-count">992</strong><span>fotografií z terénu<br>a studijních podkladů</span></div></aside>
-<main id="main"><div class="heading"><div><p class="eyebrow">FOTOGRAFIE & POZNÁMKY</p><h1 id="title">Všechny rostliny</h1></div><p class="total"><strong id="total">588</strong><span>položek v atlasu</span></p></div>
-<form id="filters" role="search"><div class="search-wrap"><svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="10" cy="10" r="6.5"></circle><path d="m15 15 5 5"></path></svg><label class="sr-only" for="search">Hledat český nebo latinský název</label><input id="search" type="search" placeholder="Hledat český nebo latinský název…" autocomplete="off"><span class="search-hint">název · synonymum</span></div>
-<div class="filter-row"><div class="field"><label for="family">Čeleď</label><select id="family"><option value="">Všechny čeledi</option></select></div><div class="field"><label for="month">Doba kvetení</label><select id="month"><option value="">Kdykoli</option></select></div><div class="field"><label for="sort">Řazení</label><select id="sort"><option value="taxonomy">Podle taxonomie</option><option value="czech">Český název A–Z</option><option value="latin">Latinský název A–Z</option></select></div></div>
-<div class="color-row"><fieldset><legend>Barva květu</legend><div id="colors"></div></fieldset><label class="photo-filter"><input type="checkbox" id="only-photos"> Jen s fotografiemi</label></div><p class="filter-note" id="coverage"></p></form>
-<div class="results-bar"><p id="result-count" role="status" aria-live="polite"></p><button id="reset" type="button">Zrušit filtry</button></div><div id="results"></div><div class="pagination" id="pagination"></div><footer class="footer"><span>Atlas rostlin · osobní sbírka</span><button type="button" id="about">O podkladech</button><a href="#main">Nahoru ↑</a></footer></main></div>
-<dialog id="lightbox" aria-labelledby="lightbox-title"><div class="dialog-top"><h2 id="lightbox-title"></h2><button class="close" type="button" aria-label="Zavřít fotografii">×</button></div><div class="lightbox-stage"><button id="prev-photo" aria-label="Předchozí fotografie">←</button><img id="large-photo" alt=""><button id="next-photo" aria-label="Další fotografie">→</button></div><p id="photo-caption"></p></dialog>
-<dialog id="about-dialog"><div class="dialog-top"><h2>O podkladech</h2><button class="close" type="button" aria-label="Zavřít informace">×</button></div><p>Atlas vychází z dokumentu „seznam rostlin 4.docx“. Obsahuje 601 unikátních položek. Na GitHubu je aktuálně napárováno 992 fotografií.</p><p>Poznámky jsou původní osobní zápisky. Zkratky a značky ohrožení byly zachovány; nejde o novou kontrolu botanických určení ani aktualizaci červeného seznamu.</p><p>Chybějící a vybrané chybné názvy a zařazení byly opraveny podle <a href="https://pladias.cz" target="_blank" rel="noopener">databáze Pladias</a>. Přímé zdroje doplnění najdeš u příslušných rostlin. Členění štětkovitých zůstává podle Pladias.</p><p>Barvy a období kvetení jsou doplněné pro celý atlas. Čtyři výtrusné taxony netvoří květy. Měsíce jsou orientační pro Českou republiku.</p></dialog>
-<noscript><p>Pro vyhledávání a zobrazení atlasu zapni JavaScript v prohlížeči.</p></noscript></body></html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#4c5843">
+  <meta name="application-name" content="Atlas rostlin">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Atlas rostlin">
+  <meta name="description" content="Terénní atlas 601 rostlin s fotografiemi, barvou květu a dobou kvetení.">
+  <title>Atlas rostlin</title>
+  <link rel="icon" type="image/svg+xml" href="icons/icon.svg">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#main">Přejít na rostliny</a>
+<header class="top">
+  <a class="brand" href="index.html"><span class="brand-icon" aria-hidden="true">✳</span> Atlas rostlin</a>
+  <div class="top-actions"><span class="edition">Terénní botanický atlas</span><span id="network-status" class="status-chip">Online</span><button type="button" id="install-app" class="top-button" hidden>Instalovat</button></div>
+</header>
+<div class="layout">
+  <aside class="sidebar" aria-label="Členění atlasu">
+    <p class="eyebrow">MŮJ HERBÁŘ</p>
+    <h2>Rostlinná říše</h2>
+    <nav id="groups" aria-label="Skupiny rostlin"></nav>
+    <div class="side-note"><span class="rule"></span><strong id="photo-count">—</strong><span>optimalizovaných fotografií<br>v atlasu</span></div>
+  </aside>
+  <main id="main">
+    <div class="heading">
+      <div><p class="eyebrow">FOTOGRAFIE & POZNÁMKY</p><h1 id="title">Všechny rostliny</h1></div>
+      <p class="total"><strong id="total">—</strong><span>položek v atlasu</span></p>
+    </div>
+
+    <form id="filters" role="search">
+      <div class="search-wrap">
+        <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="10" cy="10" r="6.5"></circle><path d="m15 15 5 5"></path></svg>
+        <label class="sr-only" for="search">Hledat český nebo latinský název</label>
+        <input id="search" type="search" placeholder="Hledat český nebo latinský název…" autocomplete="off">
+        <span class="search-hint">název · synonymum</span>
+      </div>
+
+      <div class="quick-row">
+        <button type="button" id="flowering-now" class="quick-button">🌼 Kvete právě teď</button>
+        <button type="button" id="offline-pack" class="quick-button secondary">⬇ Fotky offline</button>
+        <span id="current-month-label" class="quick-note"></span>
+        <span id="offline-progress" class="quick-note" aria-live="polite"></span>
+      </div>
+
+      <div class="filter-row">
+        <div class="field"><label for="family">Čeleď</label><select id="family"><option value="">Všechny čeledi</option></select></div>
+        <div class="field"><label for="month">Doba kvetení</label><select id="month"><option value="">Kdykoli</option></select></div>
+        <div class="field"><label for="sort">Řazení</label><select id="sort"><option value="taxonomy">Podle taxonomie</option><option value="czech">Český název A–Z</option><option value="latin">Latinský název A–Z</option></select></div>
+      </div>
+
+      <div class="color-row">
+        <fieldset><legend>Barva květu</legend><div id="colors"></div></fieldset>
+        <label class="photo-filter"><input type="checkbox" id="only-photos"> Jen s fotografiemi</label>
+      </div>
+      <p class="filter-note" id="coverage"></p>
+    </form>
+
+    <div class="results-bar"><p id="result-count" role="status" aria-live="polite">Načítám atlas…</p><button id="reset" type="button" hidden>Zrušit filtry</button></div>
+    <div id="results"><div class="loading">Načítám databázi…</div></div>
+    <div class="pagination" id="pagination"></div>
+
+    <footer class="footer"><span>Atlas rostlin · osobní sbírka</span><button type="button" id="about">O podkladech</button><a href="#main">Nahoru ↑</a></footer>
+  </main>
+</div>
+
+<dialog id="lightbox" aria-labelledby="lightbox-title">
+  <div class="dialog-top"><h2 id="lightbox-title"></h2><button class="close" type="button" aria-label="Zavřít fotografii">×</button></div>
+  <div class="lightbox-stage"><button id="prev-photo" aria-label="Předchozí fotografie">←</button><img id="large-photo" alt=""><button id="next-photo" aria-label="Další fotografie">→</button></div>
+  <p id="photo-caption"></p>
+</dialog>
+
+<dialog id="about-dialog">
+  <div class="dialog-top"><h2>O podkladech</h2><button class="close" type="button" aria-label="Zavřít informace">×</button></div>
+  <p>Atlas vychází z master databáze vytvořené ze zdrojového Wordu. Obsahuje 601 unikátních rostlin a 1 064 fotografií.</p>
+  <p>Barva květu a doba kvetení jsou vyplněné pro celý atlas. Čtyři výtrusné taxony jsou správně vedené jako nekvetoucí.</p>
+  <p>Fotografie jsou pro web převedené do WebP a mají samostatné malé náhledy. Původní fotografie ve Wordu zůstávají zdrojovým archivem.</p>
+  <p>Doba kvetení je orientační pro podmínky České republiky a může se mezi roky a lokalitami posouvat.</p>
+  <p><strong>Offline režim:</strong> aplikace a databáze se ukládají automaticky. Tlačítko „Fotky offline“ stáhne také všech 1 064 plných fotografií a 1 064 náhledů (přibližně 70 MB), takže celý atlas funguje v terénu bez signálu.</p>
+  <p id="install-help">Na Androidu/Chromu lze použít tlačítko „Instalovat“. Na iPhonu/iPadu otevři Sdílet → Přidat na plochu.</p>
+</dialog>
+<noscript><p>Pro vyhledávání a zobrazení atlasu zapni JavaScript v prohlížeči.</p></noscript>
+</body>
+</html>

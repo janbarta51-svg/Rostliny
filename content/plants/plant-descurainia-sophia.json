@@ -1,41 +1,39 @@
 {
   "id": "plant-descurainia-sophia",
-  "czech": "úhorník mnohodílný",
-  "latin": "Descurainia sophia",
-  "family": "Brassicaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "úhorník mnohodílný",
+  "other_names_cs": [],
+  "name_cs_raw": "úhorník mnohodílný",
+  "name_latin": "Descurainia sophia",
+  "family_cs": "brukvovité",
+  "family_latin": "Brassicaceae",
+  "order_cs": "hluchavkotvaré",
+  "order_latin": "Lamiales",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "žlutá"
   ],
-  "months": [
-    5,
-    6,
-    7,
-    8,
-    9
+  "flowering_from": 5,
+  "flowering_to": 9,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-descurainia-sophia-01.webp",
+    "images/plant-descurainia-sophia-02.webp",
+    "images/plant-descurainia-sophia-03.webp",
+    "images/plant-descurainia-sophia-04.webp"
   ],
-  "color_detail": "žlutá",
-  "flowering_detail": "květen–září",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0976.jpg",
-      "thumb": "images/thumb-0976.jpg"
-    },
-    {
-      "path": "images/photo-0977.jpg",
-      "thumb": "images/thumb-0977.jpg"
-    },
-    {
-      "path": "images/photo-0978.jpg",
-      "thumb": "images/thumb-0978.jpg"
-    },
-    {
-      "path": "images/photo-0979.jpg",
-      "thumb": "images/thumb-0979.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    794
   ],
-  "sources": []
+  "source_texts": [
+    "Descurainia sophia – úhorník mnohodílný"
+  ]
 }

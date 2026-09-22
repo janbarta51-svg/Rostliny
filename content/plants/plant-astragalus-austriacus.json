@@ -1,32 +1,38 @@
 {
   "id": "plant-astragalus-austriacus",
-  "czech": "kozinec rakouský",
-  "latin": "Astragalus austriacus",
-  "family": "Fabaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "kozinec rakouský",
+  "other_names_cs": [],
+  "name_cs_raw": "kozinec rakouský",
+  "name_latin": "Astragalus austriacus",
+  "family_cs": "Bobovité",
+  "family_latin": "Fabaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "modrá",
-    "fialová"
+    "modrofialová"
   ],
-  "months": [
-    6,
-    7,
-    8
+  "flowering_from": 6,
+  "flowering_to": 8,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-astragalus-austriacus-01.webp",
+    "images/plant-astragalus-austriacus-02.webp"
   ],
-  "color_detail": "modrá, modrofialová",
-  "flowering_detail": "červen–srpen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0202.jpg",
-      "thumb": "images/thumb-0202.jpg"
-    },
-    {
-      "path": "images/photo-0203.jpg",
-      "thumb": "images/thumb-0203.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    227
   ],
-  "sources": []
+  "source_texts": [
+    "Astragalus austriacus – kozinec rakouský"
+  ]
 }

@@ -1,35 +1,40 @@
 {
   "id": "plant-silene-nutans",
-  "czech": "silenka nicí",
-  "latin": "Silene nutans",
-  "family": "Caryophyllaceae",
-  "aliases": [],
-  "notes": "lesklý list, kalich s osinami, dlouhé tyčinky",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "silenka nicí",
+  "other_names_cs": [],
+  "name_cs_raw": "silenka nicí",
+  "name_latin": "Silene nutans",
+  "family_cs": "Hvozdíkovité",
+  "family_latin": "Caryophyllaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "bílá"
   ],
-  "months": [
-    5,
-    6,
-    7
+  "flowering_from": 5,
+  "flowering_to": 7,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "lesklý list, kalich s osinami, dlouhé tyčinky"
   ],
-  "color_detail": "bílá",
-  "flowering_detail": "květen–červenec",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0655.jpg",
-      "thumb": "images/thumb-0655.jpg"
-    },
-    {
-      "path": "images/photo-0656.jpg",
-      "thumb": "images/thumb-0656.jpg"
-    },
-    {
-      "path": "images/photo-0657.jpg",
-      "thumb": "images/thumb-0657.jpg"
-    }
+  "photos": [
+    "images/plant-silene-nutans-01.webp",
+    "images/plant-silene-nutans-02.webp",
+    "images/plant-silene-nutans-03.webp"
   ],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    542
+  ],
+  "source_texts": [
+    "Silene nutans – silenka nicí – lesklý list, kalich s osinami, dlouhé tyčinky"
+  ]
 }

@@ -1,21 +1,36 @@
 {
   "id": "plant-ulmus-minor",
-  "czech": "jilm habrolistý",
-  "latin": "Ulmus minor",
-  "family": "Ulmaceae",
-  "aliases": [],
-  "notes": "C4a, LC",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "jilm habrolistý",
+  "other_names_cs": [],
+  "name_cs_raw": "jilm habrolistý",
+  "name_latin": "Ulmus minor",
+  "family_cs": "Jilmovité",
+  "family_latin": "Ulmaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "zelená"
   ],
-  "months": [
-    3,
-    4
+  "flowering_from": 3,
+  "flowering_to": 4,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "C4a, LC"
   ],
-  "color_detail": "zelená",
-  "flowering_detail": "březen–duben",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "photos": [],
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    561
+  ],
+  "source_texts": [
+    "Ulmus minor – jilm habrolistý – C4a, LC"
+  ]
 }

@@ -1,22 +1,38 @@
 {
   "id": "plant-cardamine-pratensis",
-  "czech": "řeřišnice luční",
-  "latin": "Cardamine pratensis",
-  "family": "Brassicaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "řeřišnice luční",
+  "other_names_cs": [],
+  "name_cs_raw": "řeřišnice luční",
+  "name_latin": "Cardamine pratensis",
+  "family_cs": "brukvovité",
+  "family_latin": "Brassicaceae",
+  "order_cs": "hluchavkotvaré",
+  "order_latin": "Lamiales",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "bílá",
     "růžová"
   ],
-  "months": [
-    4,
-    5
+  "flowering_from": 4,
+  "flowering_to": 5,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-cardamine-pratensis-01.webp",
+    "images/plant-cardamine-pratensis-02.webp"
   ],
-  "color_detail": "bílá, růžová",
-  "flowering_detail": "duben–květen",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    799
+  ],
+  "source_texts": [
+    "Cardamine pratensis – řeřišnice luční"
+  ]
 }

@@ -1,23 +1,40 @@
 {
   "id": "plant-pulsatilla-grandis",
-  "czech": "koniklec velkokvětý",
-  "latin": "Pulsatilla grandis",
-  "family": "Ranunculaceae",
-  "aliases": [],
-  "notes": "C2b, VU",
-  "rank": "druh",
-  "colors": [
-    "modrá",
-    "fialová"
+  "name_cs": "koniklec velkokvětý",
+  "other_names_cs": [],
+  "name_cs_raw": "koniklec velkokvětý",
+  "name_latin": "Pulsatilla grandis",
+  "family_cs": "Pryskyřníkovité",
+  "family_latin": "Ranunculaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
+    "modrofialová"
   ],
-  "months": [
-    3,
-    4,
-    5
+  "flowering_from": 3,
+  "flowering_to": 5,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "C2b, VU"
   ],
-  "color_detail": "modrofialová",
-  "flowering_detail": "březen–květen",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "photos": [
+    "images/plant-pulsatilla-grandis-01.webp",
+    "images/plant-pulsatilla-grandis-02.webp",
+    "images/plant-pulsatilla-grandis-03.webp"
+  ],
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    665
+  ],
+  "source_texts": [
+    "Pulsatilla grandis – koniklec velkokvětý – C2b, VU"
+  ]
 }

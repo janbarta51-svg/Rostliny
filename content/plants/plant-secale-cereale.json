@@ -1,23 +1,36 @@
 {
   "id": "plant-secale-cereale",
-  "czech": "žito seté",
-  "latin": "Secale cereale",
-  "family": "Poaceae",
-  "aliases": [
+  "name_cs": "žito seté",
+  "other_names_cs": [
     "žito"
   ],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs_raw": "žito seté, žito",
+  "name_latin": "Secale cereale",
+  "family_cs": "Lipnicovité",
+  "family_latin": "Poaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "3. Krytosemenné rostliny – Jednoděložné",
+  "flower_colors": [
     "zelená"
   ],
-  "months": [
-    5,
-    6
+  "flowering_from": 5,
+  "flowering_to": 6,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [],
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    134
   ],
-  "color_detail": "zelená",
-  "flowering_detail": "květen–červen",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "source_texts": [
+    "Secale cereale – žito seté, žito"
+  ]
 }

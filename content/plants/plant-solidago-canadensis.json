@@ -1,22 +1,36 @@
 {
   "id": "plant-solidago-canadensis",
-  "czech": "zlatobýl kanadský",
-  "latin": "Solidago canadensis",
-  "family": "Asteraceae",
-  "aliases": [],
-  "notes": "osiny na stonku",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "zlatobýl kanadský",
+  "other_names_cs": [],
+  "name_cs_raw": "zlatobýl kanadský",
+  "name_latin": "Solidago canadensis",
+  "family_cs": "Hvězdnicovité",
+  "family_latin": "Asteraceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "žlutá"
   ],
-  "months": [
-    8,
-    9,
-    10
+  "flowering_from": 8,
+  "flowering_to": 10,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "osiny na stonku"
   ],
-  "color_detail": "žlutá",
-  "flowering_detail": "srpen–říjen",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "photos": [],
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    480
+  ],
+  "source_texts": [
+    "Solidago canadensis – zlatobýl kanadský – osiny na stonku"
+  ]
 }

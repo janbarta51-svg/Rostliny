@@ -1,26 +1,39 @@
 {
   "id": "plant-fumaria-officinalis",
-  "czech": "zemědým lékařský",
-  "latin": "Fumaria officinalis",
-  "family": "Papaveraceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "zemědým lékařský",
+  "other_names_cs": [],
+  "name_cs_raw": "zemědým lékařský",
+  "name_latin": "Fumaria officinalis",
+  "family_cs": "Makovité",
+  "family_latin": "Papaveraceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "růžová",
-    "červená",
-    "fialová"
+    "červenofialová"
   ],
-  "months": [
-    5,
-    6,
-    7,
-    8,
-    9
+  "flowering_from": 5,
+  "flowering_to": 9,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-fumaria-officinalis-01.webp",
+    "images/plant-fumaria-officinalis-02.webp",
+    "images/plant-fumaria-officinalis-03.webp"
   ],
-  "color_detail": "růžová, červenofialová",
-  "flowering_detail": "květen–září",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    600
+  ],
+  "source_texts": [
+    "Fumaria officinalis – zemědým lékařský"
+  ]
 }

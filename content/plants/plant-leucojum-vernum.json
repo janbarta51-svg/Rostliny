@@ -1,22 +1,38 @@
 {
   "id": "plant-leucojum-vernum",
-  "czech": "bledule jarní",
-  "latin": "Leucojum vernum",
-  "family": "Amaryllidaceae",
-  "aliases": [],
-  "notes": "C3, NT",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "bledule jarní",
+  "other_names_cs": [],
+  "name_cs_raw": "bledule jarní",
+  "name_latin": "Leucojum vernum",
+  "family_cs": "Amarylkovité",
+  "family_latin": "Amaryllidaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "3. Krytosemenné rostliny – Jednoděložné",
+  "flower_colors": [
     "bílá"
   ],
-  "months": [
-    2,
-    3,
-    4
+  "flowering_from": 2,
+  "flowering_to": 4,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "C3, NT"
   ],
-  "color_detail": "bílá",
-  "flowering_detail": "únor–duben",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "photos": [
+    "images/plant-leucojum-vernum-01.webp"
+  ],
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    36
+  ],
+  "source_texts": [
+    "Leucojum vernum – bledule jarní – C3, NT"
+  ]
 }

@@ -1,40 +1,41 @@
 {
   "id": "plant-viola-reichenbachiana",
-  "czech": "violka lesní",
-  "latin": "Viola reichenbachiana",
-  "family": "Violaceae",
-  "aliases": [],
-  "notes": "protáhlejší list",
-  "rank": "druh",
-  "colors": [
-    "modrá",
-    "fialová"
+  "name_cs": "violka lesní",
+  "other_names_cs": [],
+  "name_cs_raw": "violka lesní",
+  "name_latin": "Viola reichenbachiana",
+  "family_cs": "Violkovité",
+  "family_latin": "Violaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
+    "modrofialová"
   ],
-  "months": [
-    4,
-    5,
-    6
+  "flowering_from": 4,
+  "flowering_to": 6,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "protáhlejší list"
   ],
-  "color_detail": "modrofialová",
-  "flowering_detail": "duben–červen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0885.jpg",
-      "thumb": "images/thumb-0885.jpg"
-    },
-    {
-      "path": "images/photo-0886.jpg",
-      "thumb": "images/thumb-0886.jpg"
-    },
-    {
-      "path": "images/photo-0887.jpg",
-      "thumb": "images/thumb-0887.jpg"
-    },
-    {
-      "path": "images/photo-0888.jpg",
-      "thumb": "images/thumb-0888.jpg"
-    }
+  "photos": [
+    "images/plant-viola-reichenbachiana-01.webp",
+    "images/plant-viola-reichenbachiana-02.webp",
+    "images/plant-viola-reichenbachiana-03.webp",
+    "images/plant-viola-reichenbachiana-04.webp"
   ],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    737
+  ],
+  "source_texts": [
+    "Viola reichenbachiana – violka lesní – protáhlejší list"
+  ]
 }

@@ -1,26 +1,36 @@
 {
   "id": "plant-galium-verum",
-  "czech": "svízel syřišťový",
-  "latin": "Galium verum",
-  "family": "Rubiaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "svízel syřišťový",
+  "other_names_cs": [],
+  "name_cs_raw": "svízel syřišťový",
+  "name_latin": "Galium verum",
+  "family_cs": "Mořenovité",
+  "family_latin": "Rubiaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "žlutá"
   ],
-  "months": [
-    6,
-    7
+  "flowering_from": 6,
+  "flowering_to": 7,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-galium-verum-01.webp"
   ],
-  "color_detail": "žlutá",
-  "flowering_detail": "červen–červenec",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0751.jpg",
-      "thumb": "images/thumb-0751.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    627
   ],
-  "sources": []
+  "source_texts": [
+    "Galium verum – svízel syřišťový"
+  ]
 }

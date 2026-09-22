@@ -1,25 +1,39 @@
 {
   "id": "plant-lycopodium-clavatum",
-  "czech": "plavuň vidlačka",
-  "latin": "Lycopodium clavatum",
-  "family": "Lycopodiaceae",
-  "aliases": [],
-  "notes": "C3, LC",
-  "rank": "druh",
-  "colors": [],
-  "months": [],
-  "color_detail": "Výtrusná rostlina",
-  "flowering_detail": "Netvoří květy",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0001.jpg",
-      "thumb": "images/thumb-0001.jpg"
-    },
-    {
-      "path": "images/photo-0002.jpg",
-      "thumb": "images/thumb-0002.jpg"
-    }
+  "name_cs": "plavuň vidlačka",
+  "other_names_cs": [],
+  "name_cs_raw": "plavuň vidlačka",
+  "name_latin": "Lycopodium clavatum",
+  "family_cs": "Plavuňovité",
+  "family_latin": "Lycopodiaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "1. Výtrusné cévnaté rostliny (Plavuně, přesličky, kapradiny)",
+  "flower_colors": [
+    "nekvete"
   ],
-  "sources": []
+  "flowering_from": null,
+  "flowering_to": null,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "C3, LC"
+  ],
+  "photos": [
+    "images/plant-lycopodium-clavatum-01.webp",
+    "images/plant-lycopodium-clavatum-02.webp"
+  ],
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    11
+  ],
+  "source_texts": [
+    "Lycopodium clavatum – plavuň vidlačka – C3, LC"
+  ]
 }

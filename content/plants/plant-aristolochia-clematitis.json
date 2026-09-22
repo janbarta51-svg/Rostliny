@@ -1,22 +1,36 @@
 {
   "id": "plant-aristolochia-clematitis",
-  "czech": "podražec křovištní",
-  "latin": "Aristolochia clematitis",
-  "family": "Aristolochiaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "podražec křovištní",
+  "other_names_cs": [],
+  "name_cs_raw": "podražec křovištní",
+  "name_latin": "Aristolochia clematitis",
+  "family_cs": "Podražcovité",
+  "family_latin": "Aristolochiaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "žlutá"
   ],
-  "months": [
-    5,
-    6,
-    7
+  "flowering_from": 5,
+  "flowering_to": 7,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-aristolochia-clematitis-01.webp"
   ],
-  "color_detail": "žlutá",
-  "flowering_detail": "květen–červenec",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    637
+  ],
+  "source_texts": [
+    "Aristolochia clematitis – podražec křovištní"
+  ]
 }

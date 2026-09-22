@@ -1,42 +1,39 @@
 {
   "id": "plant-cytisus-scoparius",
-  "czech": "janovec metlatý",
-  "latin": "Cytisus scoparius",
-  "family": "Fabaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "janovec metlatý",
+  "other_names_cs": [],
+  "name_cs_raw": "janovec metlatý",
+  "name_latin": "Cytisus scoparius",
+  "family_cs": "Bobovité",
+  "family_latin": "Fabaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "žlutá"
   ],
-  "months": [
-    5,
-    6
+  "flowering_from": 5,
+  "flowering_to": 6,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-cytisus-scoparius-01.webp",
+    "images/plant-cytisus-scoparius-02.webp",
+    "images/plant-cytisus-scoparius-03.webp",
+    "images/plant-cytisus-scoparius-04.webp"
   ],
-  "color_detail": "žlutá",
-  "flowering_detail": "květen–červen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0243.jpg",
-      "thumb": "images/thumb-0243.jpg"
-    },
-    {
-      "path": "images/photo-0244.jpg",
-      "thumb": "images/thumb-0244.jpg"
-    },
-    {
-      "path": "images/photo-0245.jpg",
-      "thumb": "images/thumb-0245.jpg"
-    },
-    {
-      "path": "images/photo-0246.jpg",
-      "thumb": "images/thumb-0246.jpg"
-    },
-    {
-      "path": "images/photo-0249.jpg",
-      "thumb": "images/thumb-0249.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    244
   ],
-  "sources": []
+  "source_texts": [
+    "Cytisus scoparius – janovec metlatý"
+  ]
 }

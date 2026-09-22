@@ -1,42 +1,40 @@
 {
   "id": "plant-genista-germanica",
-  "czech": "kručinka německá",
-  "latin": "Genista germanica",
-  "family": "Fabaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "kručinka německá",
+  "other_names_cs": [],
+  "name_cs_raw": "kručinka německá",
+  "name_latin": "Genista germanica",
+  "family_cs": "Bobovité",
+  "family_latin": "Fabaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "žlutá"
   ],
-  "months": [
-    5,
-    6
+  "flowering_from": 5,
+  "flowering_to": 6,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-genista-germanica-01.webp",
+    "images/plant-genista-germanica-02.webp",
+    "images/plant-genista-germanica-03.webp",
+    "images/plant-genista-germanica-04.webp",
+    "images/plant-genista-germanica-05.webp"
   ],
-  "color_detail": "žlutá",
-  "flowering_detail": "květen–červen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0251.jpg",
-      "thumb": "images/thumb-0251.jpg"
-    },
-    {
-      "path": "images/photo-0252.jpg",
-      "thumb": "images/thumb-0252.jpg"
-    },
-    {
-      "path": "images/photo-0253.jpg",
-      "thumb": "images/thumb-0253.jpg"
-    },
-    {
-      "path": "images/photo-0254.jpg",
-      "thumb": "images/thumb-0254.jpg"
-    },
-    {
-      "path": "images/photo-0255.jpg",
-      "thumb": "images/thumb-0255.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    247
   ],
-  "sources": []
+  "source_texts": [
+    "Genista germanica – kručinka německá"
+  ]
 }

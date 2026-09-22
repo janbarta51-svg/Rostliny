@@ -1,45 +1,42 @@
 {
   "id": "plant-deschampsia-cespitosa",
-  "czech": "metlice trsnatá",
-  "latin": "Deschampsia cespitosa",
-  "family": "Poaceae",
-  "aliases": [],
-  "notes": "drsné listy",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "metlice trsnatá",
+  "other_names_cs": [],
+  "name_cs_raw": "metlice trsnatá",
+  "name_latin": "Deschampsia cespitosa",
+  "family_cs": "Lipnicovité",
+  "family_latin": "Poaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "3. Krytosemenné rostliny – Jednoděložné",
+  "flower_colors": [
     "zelená"
   ],
-  "months": [
-    6,
-    7,
-    8,
-    9,
-    10
+  "flowering_from": 6,
+  "flowering_to": 10,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "drsné listy"
   ],
-  "color_detail": "zelená",
-  "flowering_detail": "červen–říjen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0061.jpg",
-      "thumb": "images/thumb-0061.jpg"
-    },
-    {
-      "path": "images/photo-0062.jpg",
-      "thumb": "images/thumb-0062.jpg"
-    },
-    {
-      "path": "images/photo-0063.jpg",
-      "thumb": "images/thumb-0063.jpg"
-    },
-    {
-      "path": "images/photo-0064.jpg",
-      "thumb": "images/thumb-0064.jpg"
-    },
-    {
-      "path": "images/photo-0065.jpg",
-      "thumb": "images/thumb-0065.jpg"
-    }
+  "photos": [
+    "images/plant-deschampsia-cespitosa-01.webp",
+    "images/plant-deschampsia-cespitosa-02.webp",
+    "images/plant-deschampsia-cespitosa-03.webp",
+    "images/plant-deschampsia-cespitosa-04.webp",
+    "images/plant-deschampsia-cespitosa-05.webp"
   ],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    90
+  ],
+  "source_texts": [
+    "Deschampsia cespitosa – metlice trsnatá – drsné listy"
+  ]
 }

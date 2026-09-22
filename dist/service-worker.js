@@ -1,1 +1,175 @@
-const CORE='atlas-core-v3',PHOTOS='atlas-photos-v3',CORE_URLS=['./','./index.html','./style.css','./data.js','./app.js','./pwa.js','./manifest.webmanifest','./icons/icon.svg'];self.addEventListener('install',e=>{e.waitUntil(caches.open(CORE).then(c=>c.addAll(CORE_URLS)));self.skipWaiting();});self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>![CORE,PHOTOS].includes(k)).map(k=>caches.delete(k)))));self.clients.claim();});self.addEventListener('fetch',e=>{if(e.request.method!=='GET')return;const u=new URL(e.request.url);if(u.origin!==location.origin)return;if(u.pathname.includes('/images/')){e.respondWith(caches.open(PHOTOS).then(async c=>{const hit=await c.match(e.request);if(hit)return hit;try{const r=await fetch(e.request);if(r.ok)c.put(e.request,r.clone());return r;}catch{return hit||Response.error();}}));return;}e.respondWith((async()=>{try{const r=await fetch(e.request);if(r.ok)(await caches.open(CORE)).put(e.request,r.clone());return r;}catch{const hit=await caches.match(e.request);return hit||caches.match('./index.html');}})());});self.addEventListener('message',e=>{if(e.data?.type!=='CACHE_PHOTOS')return;const urls=[...new Set(e.data.urls||[])];e.waitUntil((async()=>{try{const c=await caches.open(PHOTOS);let done=0;for(const url of urls){const req=new Request(url,{cache:'reload'});if(!(await c.match(req))){const r=await fetch(req);if(r.ok)await c.put(req,r.clone());}done++;if(done%10===0||done===urls.length)e.source?.postMessage({type:'CACHE_PROGRESS',done,total:urls.length});}e.source?.postMessage({type:'CACHE_DONE',total:urls.length});}catch(err){e.source?.postMessage({type:'CACHE_ERROR',message:String(err)});}})());});
+'use strict';
+
+const VERSION = 'atlas-pwa-a12f558c8ae8';
+const PACK_VERSION = 'photos-e15c7ec12061';
+const CORE_CACHE = `atlas-core-${VERSION}`;
+const IMAGE_CACHE = 'atlas-images-v1';
+const META_CACHE = 'atlas-meta-v1';
+const PACK_MARKER = new URL('__offline_pack_complete__', self.registration.scope).href;
+
+const CORE_ASSETS = [
+  './',
+  './index.html',
+  './style.css',
+  './app.js',
+  './manifest.webmanifest',
+  './data/plants.json',
+  './icons/icon.svg',
+  './icons/icon-192.png',
+  './icons/icon-512.png'
+];
+
+self.addEventListener('install', event => {
+  event.waitUntil((async () => {
+    const cache = await caches.open(CORE_CACHE);
+    await cache.addAll(CORE_ASSETS);
+    await self.skipWaiting();
+  })());
+});
+
+self.addEventListener('activate', event => {
+  event.waitUntil((async () => {
+    const names = await caches.keys();
+    await Promise.all(names.filter(name => name.startsWith('atlas-core-') && name !== CORE_CACHE).map(name => caches.delete(name)));
+    await self.clients.claim();
+  })());
+});
+
+async function networkFirst(request, fallbackUrl) {
+  const cache = await caches.open(CORE_CACHE);
+  try {
+    const response = await fetch(request);
+    if (response && response.ok) cache.put(request, response.clone());
+    return response;
+  } catch (error) {
+    return (await cache.match(request)) || (fallbackUrl ? await cache.match(fallbackUrl) : undefined) || Response.error();
+  }
+}
+
+async function cacheFirstImage(request) {
+  const cache = await caches.open(IMAGE_CACHE);
+  const cached = await cache.match(request);
+  if (cached) return cached;
+  try {
+    const response = await fetch(request);
+    if (response && response.ok) await cache.put(request, response.clone());
+    return response;
+  } catch (error) {
+    return new Response('', {status: 504, statusText: 'Offline image not cached'});
+  }
+}
+
+self.addEventListener('fetch', event => {
+  const request = event.request;
+  if (request.method !== 'GET') return;
+  const url = new URL(request.url);
+  if (url.origin !== self.location.origin) return;
+
+  if (request.mode === 'navigate') {
+    event.respondWith(networkFirst(request, './index.html'));
+    return;
+  }
+
+  if (url.pathname.includes('/images/') && /\.(?:webp|jpe?g|png)$/i.test(url.pathname)) {
+    event.respondWith(cacheFirstImage(request));
+    return;
+  }
+
+  if (url.pathname.endsWith('/data/plants.json') || url.pathname.endsWith('/app.js') || url.pathname.endsWith('/style.css') || url.pathname.endsWith('/manifest.webmanifest')) {
+    event.respondWith(networkFirst(request));
+    return;
+  }
+
+  event.respondWith((async () => {
+    const cached = await caches.match(request);
+    if (cached) return cached;
+    try {
+      const response = await fetch(request);
+      if (response && response.ok) {
+        const cache = await caches.open(CORE_CACHE);
+        await cache.put(request, response.clone());
+      }
+      return response;
+    } catch (error) {
+      return Response.error();
+    }
+  })());
+});
+
+async function postTo(source, message) {
+  if (source && typeof source.postMessage === 'function') source.postMessage(message);
+}
+
+async function downloadOfflinePack(assets, source) {
+  const unique = [...new Set(assets)].filter(path => typeof path === 'string' && path.startsWith('images/') && /\.(?:webp|jpe?g|png)$/i.test(path));
+  const cache = await caches.open(IMAGE_CACHE);
+  let done = 0;
+  let failed = 0;
+  let downloaded = 0;
+  let alreadyCached = 0;
+  const total = unique.length;
+  let cursor = 0;
+
+  await postTo(source, {type:'OFFLINE_PACK_PROGRESS', done, total, failed, downloaded, alreadyCached});
+
+  async function worker() {
+    while (true) {
+      const index = cursor++;
+      if (index >= total) return;
+      const path = unique[index];
+      const url = new URL(path, self.registration.scope).href;
+      try {
+        const hit = await cache.match(url);
+        if (hit) {
+          alreadyCached++;
+        } else {
+          const response = await fetch(url, {cache:'no-cache'});
+          if (!response.ok) throw new Error(`HTTP ${response.status}`);
+          await cache.put(url, response.clone());
+          downloaded++;
+        }
+      } catch (error) {
+        failed++;
+      }
+      done++;
+      if (done === total || done % 20 === 0) {
+        await postTo(source, {type:'OFFLINE_PACK_PROGRESS', done, total, failed, downloaded, alreadyCached});
+      }
+    }
+  }
+
+  const concurrency = 6;
+  await Promise.all(Array.from({length: concurrency}, () => worker()));
+
+  const meta = await caches.open(META_CACHE);
+  if (failed === 0) {
+    await meta.put(PACK_MARKER, new Response(JSON.stringify({version: VERSION, packVersion: PACK_VERSION, total, completedAt: new Date().toISOString()}), {headers:{'Content-Type':'application/json'}}));
+  } else {
+    await meta.delete(PACK_MARKER);
+  }
+  await postTo(source, {type:'OFFLINE_PACK_DONE', done, total, failed, downloaded, alreadyCached, complete: failed === 0});
+}
+
+self.addEventListener('message', event => {
+  const data = event.data || {};
+  if (data.type === 'SKIP_WAITING') {
+    self.skipWaiting();
+    return;
+  }
+  if (data.type === 'CHECK_OFFLINE_PACK') {
+    event.waitUntil((async () => {
+      const meta = await caches.open(META_CACHE);
+      const marker = await meta.match(PACK_MARKER);
+      let info = null;
+      if (marker) {
+        try { info = await marker.json(); } catch (_) {}
+      }
+      const complete=Boolean(marker)&&info?.packVersion===PACK_VERSION&&(!data.expectedTotal||info?.total===data.expectedTotal);
+      await postTo(event.source, {type:'OFFLINE_PACK_STATUS', complete, info});
+    })());
+    return;
+  }
+  if (data.type === 'DOWNLOAD_OFFLINE_PACK' && Array.isArray(data.assets)) {
+    event.waitUntil(downloadOfflinePack(data.assets, event.source));
+  }
+});

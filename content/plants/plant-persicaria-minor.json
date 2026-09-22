@@ -1,30 +1,37 @@
 {
   "id": "plant-persicaria-minor",
-  "czech": "rdesno menší",
-  "latin": "Persicaria minor",
-  "family": "Polygonaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
-    "zelená",
-    "bílá",
+  "name_cs": "rdesno menší",
+  "other_names_cs": [],
+  "name_cs_raw": "rdesno menší",
+  "name_latin": "Persicaria minor",
+  "family_cs": "Rdesnovité",
+  "family_latin": "Polygonaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
+    "zelenobílá",
     "růžová"
   ],
-  "months": [
-    6,
-    7,
-    8,
-    9
+  "flowering_from": 6,
+  "flowering_to": 9,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-persicaria-minor-01.webp"
   ],
-  "color_detail": "zelenobílá, růžová",
-  "flowering_detail": "červen–září",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0823.jpg",
-      "thumb": "images/thumb-0823.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    694
   ],
-  "sources": []
+  "source_texts": [
+    "Persicaria minor – rdesno menší"
+  ]
 }

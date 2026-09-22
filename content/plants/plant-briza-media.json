@@ -1,31 +1,39 @@
 {
   "id": "plant-briza-media",
-  "czech": "třeslice prostřední",
-  "latin": "Briza media",
-  "family": "Poaceae",
-  "aliases": [],
-  "notes": "srdíčkovité klásky, šedavé listy",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "třeslice prostřední",
+  "other_names_cs": [],
+  "name_cs_raw": "třeslice prostřední",
+  "name_latin": "Briza media",
+  "family_cs": "Lipnicovité",
+  "family_latin": "Poaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "3. Krytosemenné rostliny – Jednoděložné",
+  "flower_colors": [
     "zelená"
   ],
-  "months": [
-    5,
-    6,
-    7
+  "flowering_from": 5,
+  "flowering_to": 7,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "srdíčkovité klásky, šedavé listy"
   ],
-  "color_detail": "zelená",
-  "flowering_detail": "květen–červenec",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0048.jpg",
-      "thumb": "images/thumb-0048.jpg"
-    },
-    {
-      "path": "images/photo-0049.jpg",
-      "thumb": "images/thumb-0049.jpg"
-    }
+  "photos": [
+    "images/plant-briza-media-01.webp",
+    "images/plant-briza-media-02.webp"
   ],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    66
+  ],
+  "source_texts": [
+    "Briza media – třeslice prostřední – srdíčkovité klásky, šedavé listy"
+  ]
 }

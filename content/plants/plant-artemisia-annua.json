@@ -1,22 +1,34 @@
 {
   "id": "plant-artemisia-annua",
-  "czech": "pelyněk roční",
-  "latin": "Artemisia annua",
-  "family": "Asteraceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "pelyněk roční",
+  "other_names_cs": [],
+  "name_cs_raw": "pelyněk roční",
+  "name_latin": "Artemisia annua",
+  "family_cs": "Hvězdnicovité",
+  "family_latin": "Asteraceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "žlutá"
   ],
-  "months": [
-    8,
-    9,
-    10
+  "flowering_from": 8,
+  "flowering_to": 10,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [],
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    383
   ],
-  "color_detail": "žlutá",
-  "flowering_detail": "srpen–říjen",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "source_texts": [
+    "Artemisia annua – pelyněk roční"
+  ]
 }

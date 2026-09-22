@@ -1,33 +1,39 @@
 {
   "id": "plant-hypericum-perforatum",
-  "czech": "třezalka tečkovaná",
-  "latin": "Hypericum perforatum",
-  "family": "Hypericaceae",
-  "aliases": [],
-  "notes": "2 hrany, a tečky",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "třezalka tečkovaná",
+  "other_names_cs": [],
+  "name_cs_raw": "třezalka tečkovaná",
+  "name_latin": "Hypericum perforatum",
+  "family_cs": "třezalkovité",
+  "family_latin": "Hypericaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "žlutá"
   ],
-  "months": [
-    5,
-    6,
-    7,
-    8,
-    9
+  "flowering_from": 5,
+  "flowering_to": 9,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "2 hrany, a tečky"
   ],
-  "color_detail": "žlutá",
-  "flowering_detail": "květen–září",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0917.jpg",
-      "thumb": "images/thumb-0917.jpg"
-    },
-    {
-      "path": "images/photo-0918.jpg",
-      "thumb": "images/thumb-0918.jpg"
-    }
+  "photos": [
+    "images/plant-hypericum-perforatum-01.webp",
+    "images/plant-hypericum-perforatum-02.webp"
   ],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    763
+  ],
+  "source_texts": [
+    "Hypericum perforatum – třezalka tečkovaná – 2 hrany, a tečky"
+  ]
 }

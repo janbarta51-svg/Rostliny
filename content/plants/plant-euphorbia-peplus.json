@@ -1,33 +1,37 @@
 {
   "id": "plant-euphorbia-peplus",
-  "czech": "pryšec okrouhlý",
-  "latin": "Euphorbia peplus",
-  "family": "Euphorbiaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
-    "žlutá",
-    "zelená"
+  "name_cs": "pryšec okrouhlý",
+  "other_names_cs": [],
+  "name_cs_raw": "pryšec okrouhlý",
+  "name_latin": "Euphorbia peplus",
+  "family_cs": "Pryšcovité",
+  "family_latin": "Euphorbiaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
+    "žlutozelená"
   ],
-  "months": [
-    6,
-    7,
-    8,
-    9
+  "flowering_from": 6,
+  "flowering_to": 9,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-euphorbia-peplus-01.webp",
+    "images/plant-euphorbia-peplus-02.webp"
   ],
-  "color_detail": "žlutozelená",
-  "flowering_detail": "červen–září",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0788.jpg",
-      "thumb": "images/thumb-0788.jpg"
-    },
-    {
-      "path": "images/photo-0789.jpg",
-      "thumb": "images/thumb-0789.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    675
   ],
-  "sources": []
+  "source_texts": [
+    "Euphorbia peplus – pryšec okrouhlý"
+  ]
 }

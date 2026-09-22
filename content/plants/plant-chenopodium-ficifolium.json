@@ -1,34 +1,40 @@
 {
   "id": "plant-chenopodium-ficifolium",
-  "czech": "merlík fíkolistý",
-  "latin": "Chenopodium ficifolium",
-  "family": "Amaranthaceae",
-  "aliases": [],
-  "notes": "rybníky, pole",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "merlík fíkolistý",
+  "other_names_cs": [],
+  "name_cs_raw": "merlík fíkolistý",
+  "name_latin": "Chenopodium ficifolium",
+  "family_cs": "Laskavcovité",
+  "family_latin": "Amaranthaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "zelená"
   ],
-  "months": [
-    7,
-    8
+  "flowering_from": 7,
+  "flowering_to": 8,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "rybníky, pole"
   ],
-  "color_detail": "zelená",
-  "flowering_detail": "červenec–srpen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0701.jpg",
-      "thumb": "images/thumb-0701.jpg"
-    },
-    {
-      "path": "images/photo-0702.jpg",
-      "thumb": "images/thumb-0702.jpg"
-    },
-    {
-      "path": "images/photo-0703.jpg",
-      "thumb": "images/thumb-0703.jpg"
-    }
+  "photos": [
+    "images/plant-chenopodium-ficifolium-01.webp",
+    "images/plant-chenopodium-ficifolium-02.webp",
+    "images/plant-chenopodium-ficifolium-03.webp"
   ],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    588
+  ],
+  "source_texts": [
+    "Chenopodium ficifolium – merlík fíkolistý – rybníky, pole"
+  ]
 }

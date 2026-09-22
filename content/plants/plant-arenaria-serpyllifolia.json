@@ -1,25 +1,36 @@
 {
   "id": "plant-arenaria-serpyllifolia",
-  "czech": "písečnice douškolistá",
-  "latin": "Arenaria serpyllifolia",
-  "family": "Caryophyllaceae",
-  "aliases": [],
-  "notes": "trochu jak rožec, drobná bílá kvítka, růžová tyčinka",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "písečnice douškolistá",
+  "other_names_cs": [],
+  "name_cs_raw": "písečnice douškolistá",
+  "name_latin": "Arenaria serpyllifolia",
+  "family_cs": "Hvozdíkovité",
+  "family_latin": "Caryophyllaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "bílá"
   ],
-  "months": [
-    5,
-    6,
-    7,
-    8,
-    9,
-    10
+  "flowering_from": 5,
+  "flowering_to": 10,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "trochu jak rožec, drobná bílá kvítka, růžová tyčinka"
   ],
-  "color_detail": "bílá",
-  "flowering_detail": "květen–říjen",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "photos": [],
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    509
+  ],
+  "source_texts": [
+    "Arenaria serpyllifolia – písečnice douškolistá – trochu jak rožec, drobná bílá kvítka, růžová tyčinka"
+  ]
 }

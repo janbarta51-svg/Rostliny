@@ -1,44 +1,40 @@
 {
   "id": "plant-cytisus-nigricans",
-  "czech": "čilimník černající",
-  "latin": "Cytisus nigricans",
-  "family": "Fabaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "čilimník černající",
+  "other_names_cs": [],
+  "name_cs_raw": "čilimník černající",
+  "name_latin": "Cytisus nigricans",
+  "family_cs": "Bobovité",
+  "family_latin": "Fabaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "žlutá"
   ],
-  "months": [
-    5,
-    6,
-    7,
-    8
+  "flowering_from": 5,
+  "flowering_to": 8,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-cytisus-nigricans-01.webp",
+    "images/plant-cytisus-nigricans-02.webp",
+    "images/plant-cytisus-nigricans-03.webp",
+    "images/plant-cytisus-nigricans-04.webp",
+    "images/plant-cytisus-nigricans-05.webp"
   ],
-  "color_detail": "žlutá",
-  "flowering_detail": "květen–srpen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0235.jpg",
-      "thumb": "images/thumb-0235.jpg"
-    },
-    {
-      "path": "images/photo-0236.jpg",
-      "thumb": "images/thumb-0236.jpg"
-    },
-    {
-      "path": "images/photo-0237.jpg",
-      "thumb": "images/thumb-0237.jpg"
-    },
-    {
-      "path": "images/photo-0238.jpg",
-      "thumb": "images/thumb-0238.jpg"
-    },
-    {
-      "path": "images/photo-0239.jpg",
-      "thumb": "images/thumb-0239.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    242
   ],
-  "sources": []
+  "source_texts": [
+    "Cytisus nigricans – čilimník černající"
+  ]
 }

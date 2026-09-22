@@ -1,40 +1,39 @@
 {
   "id": "plant-carduus-acanthoides",
-  "czech": "bodlák obecný",
-  "latin": "Carduus acanthoides",
-  "family": "Asteraceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
-    "červená",
-    "fialová"
+  "name_cs": "bodlák obecný",
+  "other_names_cs": [],
+  "name_cs_raw": "bodlák obecný",
+  "name_latin": "Carduus acanthoides",
+  "family_cs": "Hvězdnicovité",
+  "family_latin": "Asteraceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
+    "červenofialová"
   ],
-  "months": [
-    6,
-    7,
-    8
+  "flowering_from": 6,
+  "flowering_to": 8,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-carduus-acanthoides-01.webp",
+    "images/plant-carduus-acanthoides-02.webp",
+    "images/plant-carduus-acanthoides-03.webp",
+    "images/plant-carduus-acanthoides-04.webp"
   ],
-  "color_detail": "červenofialová",
-  "flowering_detail": "červen–srpen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0516.jpg",
-      "thumb": "images/thumb-0516.jpg"
-    },
-    {
-      "path": "images/photo-0517.jpg",
-      "thumb": "images/thumb-0517.jpg"
-    },
-    {
-      "path": "images/photo-0518.jpg",
-      "thumb": "images/thumb-0518.jpg"
-    },
-    {
-      "path": "images/photo-0519.jpg",
-      "thumb": "images/thumb-0519.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    395
   ],
-  "sources": []
+  "source_texts": [
+    "Carduus acanthoides – bodlák obecný"
+  ]
 }

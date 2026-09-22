@@ -1,31 +1,37 @@
 {
   "id": "plant-betonica-officinalis",
-  "czech": "bukvice lékařská",
-  "latin": "Betonica officinalis",
-  "family": "Lamiaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
-    "červená",
-    "fialová"
+  "name_cs": "bukvice lékařská",
+  "other_names_cs": [],
+  "name_cs_raw": "bukvice lékařská",
+  "name_latin": "Betonica officinalis",
+  "family_cs": "Hluchavkovité",
+  "family_latin": "Lamiaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
+    "červenofialová"
   ],
-  "months": [
-    7,
-    8
+  "flowering_from": 7,
+  "flowering_to": 8,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-betonica-officinalis-01.webp",
+    "images/plant-betonica-officinalis-02.webp"
   ],
-  "color_detail": "červenofialová",
-  "flowering_detail": "červenec–srpen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0441.jpg",
-      "thumb": "images/thumb-0441.jpg"
-    },
-    {
-      "path": "images/photo-0442.jpg",
-      "thumb": "images/thumb-0442.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    338
   ],
-  "sources": []
+  "source_texts": [
+    "Betonica officinalis – bukvice lékařská"
+  ]
 }

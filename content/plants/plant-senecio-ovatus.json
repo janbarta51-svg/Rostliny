@@ -1,37 +1,40 @@
 {
   "id": "plant-senecio-ovatus",
-  "czech": "starček Fuchsův",
-  "latin": "Senecio ovatus",
-  "family": "Asteraceae",
-  "aliases": [
+  "name_cs": "starček Fuchsův",
+  "other_names_cs": [
     "starček vejčitý"
   ],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs_raw": "starček Fuchsův, starček vejčitý",
+  "name_latin": "Senecio ovatus",
+  "family_cs": "Hvězdnicovité",
+  "family_latin": "Asteraceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "žlutá"
   ],
-  "months": [
-    7,
-    8,
-    9
+  "flowering_from": 7,
+  "flowering_to": 9,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-senecio-ovatus-01.webp",
+    "images/plant-senecio-ovatus-02.webp",
+    "images/plant-senecio-ovatus-03.webp"
   ],
-  "color_detail": "žlutá",
-  "flowering_detail": "červenec–září",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0606.jpg",
-      "thumb": "images/thumb-0606.jpg"
-    },
-    {
-      "path": "images/photo-0607.jpg",
-      "thumb": "images/thumb-0607.jpg"
-    },
-    {
-      "path": "images/photo-0608.jpg",
-      "thumb": "images/thumb-0608.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    476
   ],
-  "sources": []
+  "source_texts": [
+    "Senecio ovatus – starček Fuchsův, starček vejčitý"
+  ]
 }

@@ -1,32 +1,37 @@
 {
   "id": "plant-calystegia-sepium",
-  "czech": "opletník plotní",
-  "latin": "Calystegia sepium",
-  "family": "Convolvulaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "opletník plotní",
+  "other_names_cs": [],
+  "name_cs_raw": "opletník plotní",
+  "name_latin": "Calystegia sepium",
+  "family_cs": "svlačcovité",
+  "family_latin": "Convolvulaceae",
+  "order_cs": "hluchavkotvaré",
+  "order_latin": "Lamiales",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "bílá"
   ],
-  "months": [
-    6,
-    7,
-    8,
-    9
+  "flowering_from": 6,
+  "flowering_to": 9,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-calystegia-sepium-01.webp",
+    "images/plant-calystegia-sepium-02.webp"
   ],
-  "color_detail": "bílá",
-  "flowering_detail": "červen–září",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0936.jpg",
-      "thumb": "images/thumb-0936.jpg"
-    },
-    {
-      "path": "images/photo-0937.jpg",
-      "thumb": "images/thumb-0937.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    779
   ],
-  "sources": []
+  "source_texts": [
+    "Calystegia sepium – opletník plotní"
+  ]
 }

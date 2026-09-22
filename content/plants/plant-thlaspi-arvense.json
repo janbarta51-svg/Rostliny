@@ -1,25 +1,37 @@
 {
   "id": "plant-thlaspi-arvense",
-  "czech": "penízek rolní",
-  "latin": "Thlaspi arvense",
-  "family": "Brassicaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "penízek rolní",
+  "other_names_cs": [],
+  "name_cs_raw": "penízek rolní",
+  "name_latin": "Thlaspi arvense",
+  "family_cs": "brukvovité",
+  "family_latin": "Brassicaceae",
+  "order_cs": "hluchavkotvaré",
+  "order_latin": "Lamiales",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "bílá"
   ],
-  "months": [
-    4,
-    5,
-    6,
-    7,
-    8,
-    9
+  "flowering_from": 4,
+  "flowering_to": 9,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-thlaspi-arvense-01.webp",
+    "images/plant-thlaspi-arvense-02.webp"
   ],
-  "color_detail": "bílá",
-  "flowering_detail": "duben–září",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    800
+  ],
+  "source_texts": [
+    "Thlaspi arvense – penízek rolní"
+  ]
 }

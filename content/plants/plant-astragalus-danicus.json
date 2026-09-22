@@ -1,36 +1,39 @@
 {
   "id": "plant-astragalus-danicus",
-  "czech": "kozinec dánský",
-  "latin": "Astragalus danicus",
-  "family": "Fabaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
-    "červená",
-    "fialová",
-    "modrá"
+  "name_cs": "kozinec dánský",
+  "other_names_cs": [],
+  "name_cs_raw": "kozinec dánský",
+  "name_latin": "Astragalus danicus",
+  "family_cs": "Bobovité",
+  "family_latin": "Fabaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
+    "červenofialová",
+    "modrofialová"
   ],
-  "months": [
-    5,
-    6
+  "flowering_from": 5,
+  "flowering_to": 6,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-astragalus-danicus-01.webp",
+    "images/plant-astragalus-danicus-02.webp",
+    "images/plant-astragalus-danicus-03.webp"
   ],
-  "color_detail": "červenofialová, modrofialová",
-  "flowering_detail": "květen–červen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0207.jpg",
-      "thumb": "images/thumb-0207.jpg"
-    },
-    {
-      "path": "images/photo-0208.jpg",
-      "thumb": "images/thumb-0208.jpg"
-    },
-    {
-      "path": "images/photo-0209.jpg",
-      "thumb": "images/thumb-0209.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    230
   ],
-  "sources": []
+  "source_texts": [
+    "Astragalus danicus – kozinec dánský"
+  ]
 }

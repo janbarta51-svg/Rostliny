@@ -1,31 +1,37 @@
 {
   "id": "plant-carlina-vulgaris",
-  "czech": "pupava obecná",
-  "latin": "Carlina vulgaris",
-  "family": "Asteraceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "pupava obecná",
+  "other_names_cs": [],
+  "name_cs_raw": "pupava obecná",
+  "name_latin": "Carlina vulgaris",
+  "family_cs": "Hvězdnicovité",
+  "family_latin": "Asteraceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "žlutá"
   ],
-  "months": [
-    7,
-    8,
-    9
+  "flowering_from": 7,
+  "flowering_to": 9,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-carlina-vulgaris-01.webp",
+    "images/plant-carlina-vulgaris-02.webp"
   ],
-  "color_detail": "žlutá",
-  "flowering_detail": "červenec–září",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0536.jpg",
-      "thumb": "images/thumb-0536.jpg"
-    },
-    {
-      "path": "images/photo-0537.jpg",
-      "thumb": "images/thumb-0537.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    402
   ],
-  "sources": []
+  "source_texts": [
+    "Carlina vulgaris – pupava obecná"
+  ]
 }

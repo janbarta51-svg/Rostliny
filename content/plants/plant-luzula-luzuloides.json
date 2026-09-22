@@ -1,39 +1,43 @@
 {
   "id": "plant-luzula-luzuloides",
-  "czech": "bika bělavá",
-  "latin": "Luzula luzuloides",
-  "family": "Juncaceae",
-  "aliases": [
+  "name_cs": "bika bělavá",
+  "other_names_cs": [
     "bika hajní"
   ],
-  "notes": "roztažené květenství, světlá, trsy bílé chlupy, lesy, acidofilní",
-  "rank": "druh",
-  "colors": [
+  "name_cs_raw": "bika bělavá, bika hajní",
+  "name_latin": "Luzula luzuloides",
+  "family_cs": "Sítinovité",
+  "family_latin": "Juncaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "3. Krytosemenné rostliny – Jednoděložné",
+  "flower_colors": [
     "bílá",
-    "červená",
-    "hnědá"
+    "červenohnědá"
   ],
-  "months": [
-    5,
-    6,
-    7
+  "flowering_from": 5,
+  "flowering_to": 7,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "roztažené květenství, světlá, trsy bílé chlupy, lesy, acidofilní"
   ],
-  "color_detail": "bílá, červenohnědá",
-  "flowering_detail": "květen–červenec",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0131.jpg",
-      "thumb": "images/thumb-0131.jpg"
-    },
-    {
-      "path": "images/photo-0132.jpg",
-      "thumb": "images/thumb-0132.jpg"
-    },
-    {
-      "path": "images/photo-0133.jpg",
-      "thumb": "images/thumb-0133.jpg"
-    }
+  "photos": [
+    "images/plant-luzula-luzuloides-01.webp",
+    "images/plant-luzula-luzuloides-02.webp",
+    "images/plant-luzula-luzuloides-03.webp"
   ],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    168
+  ],
+  "source_texts": [
+    "Luzula luzuloides – bika bělavá, bika hajní – roztažené květenství, světlá, trsy bílé chlupy, lesy, acidofilní"
+  ]
 }

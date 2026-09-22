@@ -1,31 +1,39 @@
 {
   "id": "plant-mycelis-muralis",
-  "czech": "mléčka zední",
-  "latin": "Mycelis muralis",
-  "family": "Asteraceae",
-  "aliases": [],
-  "notes": "žlutá, pět kvítků, list poloobjímavý vykrojený různě, vysoká",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "mléčka zední",
+  "other_names_cs": [],
+  "name_cs_raw": "mléčka zední",
+  "name_latin": "Mycelis muralis",
+  "family_cs": "Hvězdnicovité",
+  "family_latin": "Asteraceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "žlutá"
   ],
-  "months": [
-    7,
-    8,
-    9
+  "flowering_from": 7,
+  "flowering_to": 9,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "žlutá, pět kvítků, list poloobjímavý vykrojený různě, vysoká"
   ],
-  "color_detail": "žlutá",
-  "flowering_detail": "červenec–září",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0595.jpg",
-      "thumb": "images/thumb-0595.jpg"
-    },
-    {
-      "path": "images/photo-0596.jpg",
-      "thumb": "images/thumb-0596.jpg"
-    }
+  "photos": [
+    "images/plant-mycelis-muralis-01.webp",
+    "images/plant-mycelis-muralis-02.webp"
   ],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    461
+  ],
+  "source_texts": [
+    "Mycelis muralis – mléčka zední – žlutá, pět kvítků, list poloobjímavý vykrojený různě, vysoká"
+  ]
 }

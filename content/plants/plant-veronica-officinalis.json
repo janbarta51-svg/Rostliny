@@ -1,32 +1,38 @@
 {
   "id": "plant-veronica-officinalis",
-  "czech": "rozrazil lékařský",
-  "latin": "Veronica officinalis",
-  "family": "Plantaginaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
-    "modrá",
-    "fialová"
+  "name_cs": "rozrazil lékařský",
+  "other_names_cs": [],
+  "name_cs_raw": "rozrazil lékařský",
+  "name_latin": "Veronica officinalis",
+  "family_cs": "Jitrocelovité",
+  "family_latin": "Plantaginaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
+    "modrofialová"
   ],
-  "months": [
-    6,
-    7,
-    8
+  "flowering_from": 6,
+  "flowering_to": 8,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-veronica-officinalis-01.webp",
+    "images/plant-veronica-officinalis-02.webp",
+    "images/plant-veronica-officinalis-03.webp"
   ],
-  "color_detail": "modrofialová",
-  "flowering_detail": "červen–srpen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0673.jpg",
-      "thumb": "images/thumb-0673.jpg"
-    },
-    {
-      "path": "images/photo-0674.jpg",
-      "thumb": "images/thumb-0674.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    565
   ],
-  "sources": []
+  "source_texts": [
+    "Veronica officinalis – rozrazil lékařský"
+  ]
 }

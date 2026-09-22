@@ -1,22 +1,36 @@
 {
   "id": "plant-sparganium-natans",
-  "czech": "zevar nejmenší",
-  "latin": "Sparganium natans",
-  "family": "Typhaceae",
-  "aliases": [],
-  "notes": "C2b, VU",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "zevar nejmenší",
+  "other_names_cs": [],
+  "name_cs_raw": "zevar nejmenší",
+  "name_latin": "Sparganium natans",
+  "family_cs": "Orobincovité",
+  "family_latin": "Typhaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "3. Krytosemenné rostliny – Jednoděložné",
+  "flower_colors": [
     "zelená"
   ],
-  "months": [
-    6,
-    7,
-    8
+  "flowering_from": 6,
+  "flowering_to": 8,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "C2b, VU"
   ],
-  "color_detail": "zelená",
-  "flowering_detail": "červen–srpen",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "photos": [],
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    156
+  ],
+  "source_texts": [
+    "Sparganium natans – zevar nejmenší – C2b, VU"
+  ]
 }

@@ -1,21 +1,36 @@
 {
   "id": "plant-adonis-vernalis",
-  "czech": "hlaváček jarní",
-  "latin": "Adonis vernalis",
-  "family": "Ranunculaceae",
-  "aliases": [],
-  "notes": "C2b, VU",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "hlaváček jarní",
+  "other_names_cs": [],
+  "name_cs_raw": "hlaváček jarní",
+  "name_latin": "Adonis vernalis",
+  "family_cs": "Pryskyřníkovité",
+  "family_latin": "Ranunculaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "žlutá"
   ],
-  "months": [
-    4,
-    5
+  "flowering_from": 4,
+  "flowering_to": 5,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "C2b, VU"
   ],
-  "color_detail": "žlutá",
-  "flowering_detail": "duben–květen",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "photos": [],
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    650
+  ],
+  "source_texts": [
+    "Adonis vernalis – hlaváček jarní – C2b, VU"
+  ]
 }

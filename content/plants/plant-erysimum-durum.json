@@ -1,31 +1,37 @@
 {
   "id": "plant-erysimum-durum",
-  "czech": "trýzel tvrdý",
-  "latin": "Erysimum durum",
-  "family": "Brassicaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "trýzel tvrdý",
+  "other_names_cs": [],
+  "name_cs_raw": "trýzel tvrdý",
+  "name_latin": "Erysimum durum",
+  "family_cs": "Brukvovité",
+  "family_latin": "Brassicaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "žlutá"
   ],
-  "months": [
-    6,
-    7,
-    8
+  "flowering_from": 6,
+  "flowering_to": 8,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-erysimum-durum-01.webp",
+    "images/plant-erysimum-durum-02.webp"
   ],
-  "color_detail": "žlutá",
-  "flowering_detail": "červen–srpen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0417.jpg",
-      "thumb": "images/thumb-0417.jpg"
-    },
-    {
-      "path": "images/photo-0418.jpg",
-      "thumb": "images/thumb-0418.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    322
   ],
-  "sources": []
+  "source_texts": [
+    "Erysimum durum – trýzel tvrdý"
+  ]
 }

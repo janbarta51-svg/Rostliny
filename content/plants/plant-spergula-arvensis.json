@@ -1,25 +1,36 @@
 {
   "id": "plant-spergula-arvensis",
-  "czech": "kolenec rolní",
-  "latin": "Spergula arvensis",
-  "family": "Caryophyllaceae",
-  "aliases": [],
-  "notes": "kvete bíle – takový velký plevel okoličnatý",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "kolenec rolní",
+  "other_names_cs": [],
+  "name_cs_raw": "kolenec rolní",
+  "name_latin": "Spergula arvensis",
+  "family_cs": "Hvozdíkovité",
+  "family_latin": "Caryophyllaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "bílá"
   ],
-  "months": [
-    5,
-    6,
-    7,
-    8,
-    9,
-    10
+  "flowering_from": 5,
+  "flowering_to": 10,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "kvete bíle – takový velký plevel okoličnatý"
   ],
-  "color_detail": "bílá",
-  "flowering_detail": "květen–říjen",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "photos": [],
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    548
+  ],
+  "source_texts": [
+    "Spergula arvensis – kolenec rolní – kvete bíle – takový velký plevel okoličnatý"
+  ]
 }

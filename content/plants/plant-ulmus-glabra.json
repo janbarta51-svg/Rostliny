@@ -1,23 +1,36 @@
 {
   "id": "plant-ulmus-glabra",
-  "czech": "jilm drsný",
-  "latin": "Ulmus glabra",
-  "family": "Ulmaceae",
-  "aliases": [
+  "name_cs": "jilm drsný",
+  "other_names_cs": [
     "jilm horský"
   ],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs_raw": "jilm drsný, jilm horský",
+  "name_latin": "Ulmus glabra",
+  "family_cs": "Jilmovité",
+  "family_latin": "Ulmaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "zelená"
   ],
-  "months": [
-    3,
-    4
+  "flowering_from": 3,
+  "flowering_to": 4,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [],
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    563
   ],
-  "color_detail": "zelená",
-  "flowering_detail": "březen–duben",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "source_texts": [
+    "Ulmus glabra – jilm drsný, jilm horský"
+  ]
 }

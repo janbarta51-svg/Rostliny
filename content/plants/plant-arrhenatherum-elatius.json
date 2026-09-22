@@ -1,38 +1,39 @@
 {
   "id": "plant-arrhenatherum-elatius",
-  "czech": "ovsík vyvýšený",
-  "latin": "Arrhenatherum elatius",
-  "family": "Poaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "ovsík vyvýšený",
+  "other_names_cs": [],
+  "name_cs_raw": "ovsík vyvýšený",
+  "name_latin": "Arrhenatherum elatius",
+  "family_cs": "Lipnicovité",
+  "family_latin": "Poaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "3. Krytosemenné rostliny – Jednoděložné",
+  "flower_colors": [
     "zelená"
   ],
-  "months": [
-    6,
-    7
+  "flowering_from": 6,
+  "flowering_to": 7,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-arrhenatherum-elatius-01.webp",
+    "images/plant-arrhenatherum-elatius-02.webp",
+    "images/plant-arrhenatherum-elatius-03.webp",
+    "images/plant-arrhenatherum-elatius-04.webp"
   ],
-  "color_detail": "zelená",
-  "flowering_detail": "červen–červenec",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0039.jpg",
-      "thumb": "images/thumb-0039.jpg"
-    },
-    {
-      "path": "images/photo-0040.jpg",
-      "thumb": "images/thumb-0040.jpg"
-    },
-    {
-      "path": "images/photo-0041.jpg",
-      "thumb": "images/thumb-0041.jpg"
-    },
-    {
-      "path": "images/photo-0042.jpg",
-      "thumb": "images/thumb-0042.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    59
   ],
-  "sources": []
+  "source_texts": [
+    "Arrhenatherum elatius – ovsík vyvýšený"
+  ]
 }

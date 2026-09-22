@@ -1,39 +1,39 @@
 {
   "id": "plant-salvia-nemorosa",
-  "czech": "šalvěj hajní",
-  "latin": "Salvia nemorosa",
-  "family": "Gentianaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
-    "modrá",
-    "fialová"
+  "name_cs": "šalvěj hajní",
+  "other_names_cs": [],
+  "name_cs_raw": "šalvěj hajní",
+  "name_latin": "Salvia nemorosa",
+  "family_cs": "Hořcovité",
+  "family_latin": "Gentianaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
+    "modrofialová"
   ],
-  "months": [
-    6,
-    7
+  "flowering_from": 6,
+  "flowering_to": 7,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-salvia-nemorosa-01.webp",
+    "images/plant-salvia-nemorosa-02.webp",
+    "images/plant-salvia-nemorosa-03.webp",
+    "images/plant-salvia-nemorosa-04.webp"
   ],
-  "color_detail": "modrofialová",
-  "flowering_detail": "červen–červenec",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0470.jpg",
-      "thumb": "images/thumb-0470.jpg"
-    },
-    {
-      "path": "images/photo-0471.jpg",
-      "thumb": "images/thumb-0471.jpg"
-    },
-    {
-      "path": "images/photo-0472.jpg",
-      "thumb": "images/thumb-0472.jpg"
-    },
-    {
-      "path": "images/photo-0473.jpg",
-      "thumb": "images/thumb-0473.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    354
   ],
-  "sources": []
+  "source_texts": [
+    "Salvia nemorosa – šalvěj hajní"
+  ]
 }

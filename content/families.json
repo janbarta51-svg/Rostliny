@@ -1,655 +1,194 @@
 [
   {
-    "latin": "Hymenophyllaceae",
-    "czech": "Blánatcovité",
-    "group": "Výtrusné cévnaté rostliny",
-    "original": [
-      "Blánatcovité (Hymenophyllaceae)"
-    ]
-  },
-  {
-    "latin": "Dennstaedtiaceae",
-    "czech": "Hasičkovité",
-    "group": "Výtrusné cévnaté rostliny",
-    "original": [
-      "Hasičkovité (Dennstaedtiaceae)"
-    ]
-  },
-  {
-    "latin": "Thelypteridaceae",
-    "czech": "Kapradiníkovité",
-    "group": "Výtrusné cévnaté rostliny",
-    "original": [
-      "Kapradiníkovité (Thelypteridaceae)"
-    ]
-  },
-  {
-    "latin": "Dryopteridaceae",
-    "czech": "Kapraďovité",
-    "group": "Výtrusné cévnaté rostliny",
-    "original": [
-      "Kapraďovité (Dryopteridaceae)"
-    ]
-  },
-  {
-    "latin": "Marsileaceae",
-    "czech": "Marsilkovité",
-    "group": "Výtrusné cévnaté rostliny",
-    "original": [
-      "Marsilkovité (Marsileaceae)"
-    ]
-  },
-  {
-    "latin": "Salviniaceae",
-    "czech": "Nepukalkovité",
-    "group": "Výtrusné cévnaté rostliny",
-    "original": [
-      "Nepukalkovité (Salviniaceae)"
-    ]
-  },
-  {
-    "latin": "Polypodiaceae",
-    "czech": "Osladičovité",
-    "group": "Výtrusné cévnaté rostliny",
-    "original": [
-      "Osladičovité (Polypodiaceae)"
-    ]
-  },
-  {
-    "latin": "Athyriaceae",
-    "czech": "Papratkovité",
-    "group": "Výtrusné cévnaté rostliny",
-    "original": [
-      "Papratkovité (Athyriaceae)"
-    ]
-  },
-  {
-    "latin": "Selaginellaceae",
-    "czech": "Plavuníkovité",
-    "group": "Výtrusné cévnaté rostliny",
-    "original": [
-      "Plavuníkovité (Selaginellaceae)"
-    ]
-  },
-  {
-    "latin": "Lycopodiaceae",
-    "czech": "Plavuňovité",
-    "group": "Výtrusné cévnaté rostliny",
-    "original": [
-      "Plavuňovité (Lycopodiaceae)"
-    ]
-  },
-  {
-    "latin": "Equisetaceae",
-    "czech": "Přesličkovité",
-    "group": "Výtrusné cévnaté rostliny",
-    "original": [
-      "Přesličkovité (Equisetaceae)"
-    ]
-  },
-  {
-    "latin": "Cystopteridaceae",
-    "czech": "Puchýřníkovité",
-    "group": "Výtrusné cévnaté rostliny",
-    "original": [
-      "Puchýřníkovité (Cystopteridaceae)"
-    ]
-  },
-  {
-    "latin": "Aspleniaceae",
-    "czech": "Sleziníkovité",
-    "group": "Výtrusné cévnaté rostliny",
-    "original": [
-      "Sleziníkovité (Aspleniaceae)"
-    ]
-  },
-  {
-    "latin": "Isoëtaceae",
-    "czech": "Šídlatkovité",
-    "group": "Výtrusné cévnaté rostliny",
-    "original": [
-      "Šídlatkovité (Isoëtaceae)"
-    ]
-  },
-  {
-    "latin": "Blechnaceae",
-    "czech": "Žebrovicovité",
-    "group": "Výtrusné cévnaté rostliny",
-    "original": [
-      "Žebrovicovité (Blechnaceae)"
-    ]
-  },
-  {
-    "latin": "Pinaceae",
-    "czech": "Borovicovité",
-    "group": "Nahosemenné rostliny",
-    "original": [
-      "Borovicovité (Pinaceae) – např. smrk, borovice, jedle, modřín"
-    ]
-  },
-  {
-    "latin": "Cupressaceae",
-    "czech": "Cypřišovité",
-    "group": "Nahosemenné rostliny",
-    "original": [
-      "Cypřišovité (Cupressaceae) – např. jalovec"
-    ]
-  },
-  {
-    "latin": "Taxaceae",
-    "czech": "Tisovité",
-    "group": "Nahosemenné rostliny",
-    "original": [
-      "Tisovité (Taxaceae) – např. tis"
-    ]
-  },
-  {
     "latin": "Amaryllidaceae",
-    "czech": "Amarylkovité",
-    "group": "Krytosemenné – jednoděložné",
-    "original": [
-      "Amarylkovité (Amaryllidaceae) – např. sněženka, bledule, česnek"
-    ]
-  },
-  {
-    "latin": "Araceae",
-    "czech": "Áronovité",
-    "group": "Krytosemenné – jednoděložné",
-    "original": [
-      "Áronovité (Araceae) – např. áron, okřehek"
-    ]
-  },
-  {
-    "latin": "Asparagaceae",
-    "czech": "Chřestovité",
-    "group": "Krytosemenné – jednoděložné",
-    "original": [
-      "Chřestovité (Asparagaceae) – např. konvalinka, modřenec"
-    ]
-  },
-  {
-    "latin": "Iridaceae",
-    "czech": "Kosatcovité",
-    "group": "Krytosemenné – jednoděložné",
-    "original": [
-      "Kosatcovité (Iridaceae) – např. kosatec, šafrán"
-    ]
-  },
-  {
-    "latin": "Liliaceae",
-    "czech": "Liliovité",
-    "group": "Krytosemenné – jednoděložné",
-    "original": [
-      "Liliovité (Liliaceae) – např. lilie, křivatec"
-    ]
-  },
-  {
-    "latin": "Poaceae",
-    "czech": "Lipnicovité",
-    "group": "Krytosemenné – jednoděložné",
-    "original": [
-      "Lipnicovité (Poaceae) – trávy (např. lipnice, pýr, oves, pšenice)"
-    ]
-  },
-  {
-    "latin": "Colchicaceae",
-    "czech": "Ocúnovité",
-    "group": "Krytosemenné – jednoděložné",
-    "original": [
-      "Ocúnovité (Colchicaceae) – např. ocún"
-    ]
-  },
-  {
-    "latin": "Typhaceae",
-    "czech": "Orobincovité",
-    "group": "Krytosemenné – jednoděložné",
-    "original": [
-      "Orobincovité (Typhaceae) – např. orobinec"
-    ]
-  },
-  {
-    "latin": "Potamogetonaceae",
-    "czech": "Rdestovité",
-    "group": "Krytosemenné – jednoděložné",
-    "original": [
-      "Rdestovité (Potamogetonaceae) – např. rdest"
-    ]
-  },
-  {
-    "latin": "Juncaceae",
-    "czech": "Sítinovité",
-    "group": "Krytosemenné – jednoděložné",
-    "original": [
-      "Sítinovité (Juncaceae) – např. sítina, bika"
-    ]
-  },
-  {
-    "latin": "Cyperaceae",
-    "czech": "Šáchorovité",
-    "group": "Krytosemenné – jednoděložné",
-    "original": [
-      "Šáchorovité (Cyperaceae) – např. ostřice"
-    ]
-  },
-  {
-    "latin": "Hydrocharitaceae",
-    "czech": "Voďankovité",
-    "group": "Krytosemenné – jednoděložné",
-    "original": [
-      "Voďankovité (Hydrocharitaceae) – např. voďanka"
-    ]
-  },
-  {
-    "latin": "Orchidaceae",
-    "czech": "Vstavačovité",
-    "group": "Krytosemenné – jednoděložné",
-    "original": [
-      "Vstavačovité / Orchideje (Orchidaceae) – např. prstnatec, vstavač, střevíčník"
-    ]
+    "czech": "Amarylkovité"
   },
   {
     "latin": "Fabaceae",
-    "czech": "Bobovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Bobovité (Fabaceae) – např. hrách, jetel, akát"
-    ]
+    "czech": "Bobovité"
   },
   {
     "latin": "Brassicaceae",
-    "czech": "Brukvovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Brukvovité (Brassicaceae) – např. řepka, hořčice, kokoška",
-      "Brassicaceae – brukvovité"
-    ]
+    "czech": "brukvovité"
   },
   {
     "latin": "Boraginaceae",
-    "czech": "Brutnákovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Brutnákovité (Boraginaceae) – např. pomněnka, plicník"
-    ]
+    "czech": "Brutnákovité"
   },
   {
-    "latin": "Betulaceae",
-    "czech": "Břízovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Břízovité (Betulaceae) – např. bříza, líska, habr, olše"
-    ]
-  },
-  {
-    "latin": "Fagaceae",
-    "czech": "Bukovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Bukovité (Fagaceae) – např. buk, dub"
-    ]
-  },
-  {
-    "latin": "Berberidaceae",
-    "czech": "Dřišťálovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Dřišťálovité (Berberidaceae) – např. dřišťál"
-    ]
-  },
-  {
-    "latin": "Lamiaceae",
-    "czech": "Hluchavkovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Hluchavkovité (Lamiaceae) – např. hluchavka, máta, mateřídouška"
-    ]
-  },
-  {
-    "latin": "Gentianaceae",
-    "czech": "Hořcovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Hořcovité (Gentianaceae) – např. hořec, zeměžluč"
-    ]
-  },
-  {
-    "latin": "Asteraceae",
-    "czech": "Hvězdnicovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Hvězdnicovité (Asteraceae) – např. pampeliška, sedmikráska, bodlák, slunečnice (naše druhově nejbohatší čeleď)"
-    ]
-  },
-  {
-    "latin": "Caryophyllaceae",
-    "czech": "Hvozdíkovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Hvozdíkovité (Caryophyllaceae) – např. hvozdík, ptačinec"
-    ]
-  },
-  {
-    "latin": "Ulmaceae",
-    "czech": "Jilmovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Jilmovité (Ulmaceae) – např. jilm"
-    ]
-  },
-  {
-    "latin": "Plantaginaceae",
-    "czech": "Jitrocelovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Jitrocelovité (Plantaginaceae) – např. jitrocel, rozrazil"
-    ]
-  },
-  {
-    "latin": "Geraniaceae",
-    "czech": "Kakostovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Kakostovité (Geraniaceae) – např. kakost"
-    ]
-  },
-  {
-    "latin": "Urticaceae",
-    "czech": "Kopřivovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Kopřivovité (Urticaceae) – např. kopřiva"
-    ]
-  },
-  {
-    "latin": "Scrophulariaceae",
-    "czech": "Krtičníkovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Krtičníkovité (Scrophulariaceae) – např. divizna, krtičník"
-    ]
-  },
-  {
-    "latin": "Lythraceae",
-    "czech": "Kyprejovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Kyprejovité (Lythraceae) – např. kyprej"
-    ]
-  },
-  {
-    "latin": "Amaranthaceae",
-    "czech": "Laskavcovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Laskavcovité (Amaranthaceae) – např. merlík, laskavec, řepa"
-    ]
-  },
-  {
-    "latin": "Nymphaeaceae",
-    "czech": "Leknínovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Leknínovité (Nymphaeaceae) – např. leknín, stulík"
-    ]
-  },
-  {
-    "latin": "Solanaceae",
-    "czech": "Lilkovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Lilkovité (Solanaceae) – např. lilek, brambor, rulík"
-    ]
-  },
-  {
-    "latin": "Saxifragaceae",
-    "czech": "Lomikamenovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Lomikamenovité (Saxifragaceae) – např. lomikámen"
-    ]
-  },
-  {
-    "latin": "Papaveraceae",
-    "czech": "Makovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Makovité (Papaveraceae) – např. mák, vlaštovičník, dymnivka"
-    ]
-  },
-  {
-    "latin": "Grossulariaceae",
-    "czech": "Meruzalkovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Meruzalkovité (Grossulariaceae) – např. rybíz, angrešt"
-    ]
-  },
-  {
-    "latin": "Apiaceae",
-    "czech": "Miříkovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Miříkovité (Apiaceae) – např. mrkev, kmín, bolševník"
-    ]
-  },
-  {
-    "latin": "Rubiaceae",
-    "czech": "Mořenovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Mořenovité (Rubiaceae) – např. svízel"
-    ]
-  },
-  {
-    "latin": "Sapindaceae",
-    "czech": "Mýdelníkovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Mýdelníkovité (Sapindaceae) – sem dnes patří např. javor"
-    ]
-  },
-  {
-    "latin": "Balsaminaceae",
-    "czech": "Netýkavkovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Netýkavkovité (Balsaminaceae) – např. netýkavka"
-    ]
-  },
-  {
-    "latin": "Oleaceae",
-    "czech": "Olivovníkovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Olivovníkovité (Oleaceae) – např. jasan, zlatice (zlatý déšť)"
-    ]
-  },
-  {
-    "latin": "Aristolochiaceae",
-    "czech": "Podražcovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Podražcovité (Aristolochiaceae) – např. kopytník"
-    ]
-  },
-  {
-    "latin": "Primulaceae",
-    "czech": "Prvosenkovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Prvosenkovité (Primulaceae) – např. prvosenka (petrklíč)"
-    ]
-  },
-  {
-    "latin": "Ranunculaceae",
-    "czech": "Pryskyřníkovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Pryskyřníkovité (Ranunculaceae) – např. pryskyřník, sasanka, orsej"
-    ]
-  },
-  {
-    "latin": "Euphorbiaceae",
-    "czech": "Pryšcovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Pryšcovité (Euphorbiaceae) – např. pryšec"
-    ]
-  },
-  {
-    "latin": "Onagraceae",
-    "czech": "Pupalkovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Pupalkovité (Onagraceae) – např. pupalka, vrbovka"
-    ]
-  },
-  {
-    "latin": "Polygonaceae",
-    "czech": "Rdesnovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Rdesnovité (Polygonaceae) – např. rdesno, šťovík"
-    ]
-  },
-  {
-    "latin": "Rosaceae",
-    "czech": "Růžovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Růžovité (Rosaceae) – např. růže, jabloň, třešeň, jahodník"
-    ]
-  },
-  {
-    "latin": "Malvaceae",
-    "czech": "Slézovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Slézovité (Malvaceae) – sem dnes patří např. sléz, ale i lípa"
-    ]
-  },
-  {
-    "latin": "Cornaceae",
-    "czech": "Svíbovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Svíbovité (Cornaceae) – např. svída, dřín"
-    ]
-  },
-  {
-    "latin": "Oxalidaceae",
-    "czech": "Šťavelovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Šťavelovité (Oxalidaceae) – např. šťavel"
-    ]
-  },
-  {
-    "latin": "Crassulaceae",
-    "czech": "Tlusticovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Tlusticovité (Crassulaceae) – např. rozchodník, netřesk"
-    ]
-  },
-  {
-    "latin": "Violaceae",
-    "czech": "Violkovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Violkovité (Violaceae) – např. violka"
-    ]
-  },
-  {
-    "latin": "Salicaceae",
-    "czech": "Vrbovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Vrbovité (Salicaceae) – např. vrba, topol"
-    ]
-  },
-  {
-    "latin": "Ericaceae",
-    "czech": "Vřesovcovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Vřesovcovité (Ericaceae) – např. vřes, borůvka, brusinka"
-    ]
-  },
-  {
-    "latin": "Orobanchaceae",
-    "czech": "Zárazovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Zárazovité (Orobanchaceae) – např. záraza, černýš"
-    ]
-  },
-  {
-    "latin": "Caprifoliaceae",
-    "czech": "Zimolezovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Zimolezovité (Caprifoliaceae) – např. zimolez, kozlík"
-    ]
-  },
-  {
-    "latin": "Dipsacaceae",
-    "czech": "štětkovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Dipsacaceae – štětkovité"
-    ]
-  },
-  {
-    "latin": "Campanulaceae",
-    "czech": "Zvonkovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Zvonkovité (Campanulaceae) – např. zvonek"
-    ]
-  },
-  {
-    "latin": "Hypericaceae",
-    "czech": "třezalkovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Hypericaceae – třezalkovité"
-    ]
-  },
-  {
-    "latin": "Ophioglossaceae",
-    "czech": "jazykovité",
-    "group": "Výtrusné cévnaté rostliny",
-    "original": [
-      "Ophioglossaceae – jazykovité"
-    ]
+    "latin": "Asparagaceae",
+    "czech": "Chřestovité"
   },
   {
     "latin": "Cistaceae",
-    "czech": "cistovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Cistaceae – cistovité"
-    ]
+    "czech": "cistovité"
+  },
+  {
+    "latin": "Lamiaceae",
+    "czech": "Hluchavkovité"
+  },
+  {
+    "latin": "Gentianaceae",
+    "czech": "Hořcovité"
+  },
+  {
+    "latin": "Caryophyllaceae",
+    "czech": "Hvozdíkovité"
+  },
+  {
+    "latin": "Asteraceae",
+    "czech": "Hvězdnicovité"
+  },
+  {
+    "latin": "Ophioglossaceae",
+    "czech": "jazykovité"
+  },
+  {
+    "latin": "Ulmaceae",
+    "czech": "Jilmovité"
+  },
+  {
+    "latin": "Plantaginaceae",
+    "czech": "Jitrocelovité"
+  },
+  {
+    "latin": "Geraniaceae",
+    "czech": "Kakostovité"
+  },
+  {
+    "latin": "Lythraceae",
+    "czech": "Kyprejovité"
+  },
+  {
+    "latin": "Amaranthaceae",
+    "czech": "Laskavcovité"
+  },
+  {
+    "latin": "Solanaceae",
+    "czech": "Lilkovité"
+  },
+  {
+    "latin": "Poaceae",
+    "czech": "Lipnicovité"
+  },
+  {
+    "latin": "Papaveraceae",
+    "czech": "Makovité"
+  },
+  {
+    "latin": "Apiaceae",
+    "czech": "Miříkovité"
+  },
+  {
+    "latin": "Rubiaceae",
+    "czech": "Mořenovité"
+  },
+  {
+    "latin": "Balsaminaceae",
+    "czech": "Netýkavkovité"
+  },
+  {
+    "latin": "Colchicaceae",
+    "czech": "Ocúnovité"
+  },
+  {
+    "latin": "Typhaceae",
+    "czech": "Orobincovité"
+  },
+  {
+    "latin": "Lycopodiaceae",
+    "czech": "Plavuňovité"
+  },
+  {
+    "latin": "Aristolochiaceae",
+    "czech": "Podražcovité"
+  },
+  {
+    "latin": "Primulaceae",
+    "czech": "Prvosenkovité"
+  },
+  {
+    "latin": "Ranunculaceae",
+    "czech": "Pryskyřníkovité"
+  },
+  {
+    "latin": "Euphorbiaceae",
+    "czech": "Pryšcovité"
+  },
+  {
+    "latin": "Onagraceae",
+    "czech": "Pupalkovité"
+  },
+  {
+    "latin": "Equisetaceae",
+    "czech": "Přesličkovité"
+  },
+  {
+    "latin": "Polygonaceae",
+    "czech": "Rdesnovité"
+  },
+  {
+    "latin": "Rosaceae",
+    "czech": "Růžovité"
+  },
+  {
+    "latin": "Malvaceae",
+    "czech": "Slézovité"
   },
   {
     "latin": "Convolvulaceae",
-    "czech": "svlačcovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": [
-      "Convolvulaceae – svlačcovité"
-    ]
+    "czech": "svlačcovité"
   },
   {
-    "czech": "Puštičkovité",
-    "latin": "Linderniaceae",
-    "group": "Krytosemenné – dvouděložné",
-    "original": []
+    "latin": "Juncaceae",
+    "czech": "Sítinovité"
+  },
+  {
+    "latin": "Crassulaceae",
+    "czech": "Tlusticovité"
+  },
+  {
+    "latin": "Hypericaceae",
+    "czech": "třezalkovité"
+  },
+  {
+    "latin": "Violaceae",
+    "czech": "Violkovité"
+  },
+  {
+    "latin": "Orchidaceae",
+    "czech": "Vstavačovité / Orchideje"
   },
   {
     "latin": "Polygalaceae",
-    "czech": "vítodovité",
-    "group": "Krytosemenné – dvouděložné",
-    "original": []
+    "czech": "vítodovité"
+  },
+  {
+    "latin": "Caprifoliaceae",
+    "czech": "Zimolezovité"
+  },
+  {
+    "latin": "Campanulaceae",
+    "czech": "Zvonkovité"
+  },
+  {
+    "latin": "Orobanchaceae",
+    "czech": "Zárazovité"
+  },
+  {
+    "latin": "Araceae",
+    "czech": "Áronovité"
+  },
+  {
+    "latin": "Dipsacaceae",
+    "czech": "štětkovité"
+  },
+  {
+    "latin": "Cyperaceae",
+    "czech": "Šáchorovité"
+  },
+  {
+    "latin": "Oxalidaceae",
+    "czech": "Šťavelovité"
   }
 ]

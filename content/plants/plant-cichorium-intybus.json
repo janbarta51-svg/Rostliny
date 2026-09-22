@@ -1,34 +1,37 @@
 {
   "id": "plant-cichorium-intybus",
-  "czech": "čekanka obecná",
-  "latin": "Cichorium intybus",
-  "family": "Asteraceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "čekanka obecná",
+  "other_names_cs": [],
+  "name_cs_raw": "čekanka obecná",
+  "name_latin": "Cichorium intybus",
+  "family_cs": "Hvězdnicovité",
+  "family_latin": "Asteraceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "modrá"
   ],
-  "months": [
-    6,
-    7,
-    8,
-    9
+  "flowering_from": 6,
+  "flowering_to": 9,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-cichorium-intybus-01.webp",
+    "images/plant-cichorium-intybus-02.webp"
   ],
-  "color_detail": "modrá",
-  "flowering_detail": "červen–září",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0555.jpg",
-      "thumb": "images/thumb-0555.jpg"
-    },
-    {
-      "path": "images/photo-0556.jpg",
-      "thumb": "images/thumb-0556.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    410
   ],
-  "sources": [
-    "https://pladias.cz/taxon/data/Cichorium%20intybus"
+  "source_texts": [
+    "Cichorium intybus – čekanka obecná"
   ]
 }

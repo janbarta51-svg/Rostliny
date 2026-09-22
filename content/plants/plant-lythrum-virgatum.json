@@ -1,37 +1,41 @@
 {
   "id": "plant-lythrum-virgatum",
-  "czech": "kyprej prutnatý",
-  "latin": "Lythrum virgatum",
-  "family": "Lythraceae",
-  "aliases": [],
-  "notes": "C2b, EN",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "kyprej prutnatý",
+  "other_names_cs": [],
+  "name_cs_raw": "kyprej prutnatý",
+  "name_latin": "Lythrum virgatum",
+  "family_cs": "Kyprejovité",
+  "family_latin": "Lythraceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "růžová",
-    "červená",
-    "fialová"
+    "červenofialová"
   ],
-  "months": [
-    6,
-    7,
-    8
+  "flowering_from": 6,
+  "flowering_to": 8,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "C2b, EN"
   ],
-  "color_detail": "růžová, červenofialová",
-  "flowering_detail": "červen–srpen",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0696.jpg",
-      "thumb": "images/thumb-0696.jpg"
-    },
-    {
-      "path": "images/photo-0697.jpg",
-      "thumb": "images/thumb-0697.jpg"
-    },
-    {
-      "path": "images/photo-0698.jpg",
-      "thumb": "images/thumb-0698.jpg"
-    }
+  "photos": [
+    "images/plant-lythrum-virgatum-01.webp",
+    "images/plant-lythrum-virgatum-02.webp",
+    "images/plant-lythrum-virgatum-03.webp"
   ],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    584
+  ],
+  "source_texts": [
+    "Lythrum virgatum – kyprej prutnatý – C2b, EN"
+  ]
 }

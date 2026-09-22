@@ -1,22 +1,41 @@
 {
   "id": "plant-veronica-prostrata",
-  "czech": "rozrazil rozprostřený",
-  "latin": "Veronica prostrata",
-  "family": "Plantaginaceae",
-  "aliases": [],
-  "notes": "C4a, LC",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "rozrazil rozprostřený",
+  "other_names_cs": [],
+  "name_cs_raw": "rozrazil rozprostřený",
+  "name_latin": "Veronica prostrata",
+  "family_cs": "Jitrocelovité",
+  "family_latin": "Plantaginaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "modrá"
   ],
-  "months": [
-    4,
-    5,
-    6
+  "flowering_from": 4,
+  "flowering_to": 6,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "C4a, LC"
   ],
-  "color_detail": "modrá",
-  "flowering_detail": "duben–červen",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "photos": [
+    "images/plant-veronica-prostrata-01.webp",
+    "images/plant-veronica-prostrata-02.webp",
+    "images/plant-veronica-prostrata-03.webp",
+    "images/plant-veronica-prostrata-04.webp"
+  ],
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    570
+  ],
+  "source_texts": [
+    "Veronica prostrata – rozrazil rozprostřený – C4a, LC"
+  ]
 }

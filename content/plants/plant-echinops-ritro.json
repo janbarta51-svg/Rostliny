@@ -1,27 +1,38 @@
 {
   "id": "plant-echinops-ritro",
-  "czech": "bělotrn modrý",
-  "latin": "Echinops ritro",
-  "family": "Asteraceae",
-  "aliases": [],
-  "notes": "fakt modrý a vzácnější",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "bělotrn modrý",
+  "other_names_cs": [],
+  "name_cs_raw": "bělotrn modrý",
+  "name_latin": "Echinops ritro",
+  "family_cs": "Hvězdnicovité",
+  "family_latin": "Asteraceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "modrá"
   ],
-  "months": [
-    7,
-    8,
-    9
+  "flowering_from": 7,
+  "flowering_to": 9,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "fakt modrý a vzácnější"
   ],
-  "color_detail": "modrá",
-  "flowering_detail": "červenec–září",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0574.jpg",
-      "thumb": "images/thumb-0574.jpg"
-    }
+  "photos": [
+    "images/plant-echinops-ritro-01.webp"
   ],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    430
+  ],
+  "source_texts": [
+    "Echinops ritro – bělotrn modrý – fakt modrý a vzácnější"
+  ]
 }

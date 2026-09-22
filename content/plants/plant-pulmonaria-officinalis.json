@@ -1,22 +1,40 @@
 {
   "id": "plant-pulmonaria-officinalis",
-  "czech": "plicník lékařský",
-  "latin": "Pulmonaria officinalis",
-  "family": "Boraginaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "plicník lékařský",
+  "other_names_cs": [],
+  "name_cs_raw": "plicník lékařský",
+  "name_latin": "Pulmonaria officinalis",
+  "family_cs": "Brutnákovité",
+  "family_latin": "Boraginaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "růžová",
     "modrá"
   ],
-  "months": [
-    3,
-    4
+  "flowering_from": 3,
+  "flowering_to": 4,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-pulmonaria-officinalis-01.webp",
+    "images/plant-pulmonaria-officinalis-02.webp",
+    "images/plant-pulmonaria-officinalis-03.webp",
+    "images/plant-pulmonaria-officinalis-04.webp"
   ],
-  "color_detail": "růžová, modrá",
-  "flowering_detail": "březen–duben",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    330
+  ],
+  "source_texts": [
+    "Pulmonaria officinalis – plicník lékařský"
+  ]
 }

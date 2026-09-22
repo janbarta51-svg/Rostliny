@@ -1,23 +1,37 @@
 {
   "id": "plant-anacamptis-coriophora",
-  "czech": "vstavač štěničný",
-  "latin": "Anacamptis coriophora",
-  "family": "Orchidaceae",
-  "aliases": [],
-  "notes": "C1b, CR",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "vstavač štěničný",
+  "other_names_cs": [],
+  "name_cs_raw": "vstavač štěničný",
+  "name_latin": "Anacamptis coriophora",
+  "family_cs": "Vstavačovité / Orchideje",
+  "family_latin": "Orchidaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "3. Krytosemenné rostliny – Jednoděložné",
+  "flower_colors": [
     "zelená",
-    "červená",
-    "hnědá"
+    "červenohnědá"
   ],
-  "months": [
-    5,
-    6
+  "flowering_from": 5,
+  "flowering_to": 6,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "C1b, CR"
   ],
-  "color_detail": "zelená, červenohnědá",
-  "flowering_detail": "květen–červen",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "photos": [],
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    209
+  ],
+  "source_texts": [
+    "Anacamptis coriophora – vstavač štěničný – C1b, CR"
+  ]
 }

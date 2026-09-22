@@ -1,41 +1,39 @@
 {
   "id": "plant-campanula-rapunculoides",
-  "czech": "zvonek řepkovitý",
-  "latin": "Campanula rapunculoides",
-  "family": "Campanulaceae",
-  "aliases": [],
-  "notes": "",
-  "rank": "druh",
-  "colors": [
-    "modrá",
-    "fialová"
+  "name_cs": "zvonek řepkovitý",
+  "other_names_cs": [],
+  "name_cs_raw": "zvonek řepkovitý",
+  "name_latin": "Campanula rapunculoides",
+  "family_cs": "Zvonkovité",
+  "family_latin": "Campanulaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
+    "modrofialová"
   ],
-  "months": [
-    6,
-    7,
-    8,
-    9
+  "flowering_from": 6,
+  "flowering_to": 9,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [],
+  "photos": [
+    "images/plant-campanula-rapunculoides-01.webp",
+    "images/plant-campanula-rapunculoides-02.webp",
+    "images/plant-campanula-rapunculoides-03.webp",
+    "images/plant-campanula-rapunculoides-04.webp"
   ],
-  "color_detail": "modrofialová",
-  "flowering_detail": "červen–září",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0907.jpg",
-      "thumb": "images/thumb-0907.jpg"
-    },
-    {
-      "path": "images/photo-0908.jpg",
-      "thumb": "images/thumb-0908.jpg"
-    },
-    {
-      "path": "images/photo-0909.jpg",
-      "thumb": "images/thumb-0909.jpg"
-    },
-    {
-      "path": "images/photo-0910.jpg",
-      "thumb": "images/thumb-0910.jpg"
-    }
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    758
   ],
-  "sources": []
+  "source_texts": [
+    "Campanula rapunculoides – zvonek řepkovitý"
+  ]
 }

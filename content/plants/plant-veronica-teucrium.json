@@ -1,31 +1,39 @@
 {
   "id": "plant-veronica-teucrium",
-  "czech": "rozrazil ožankový",
-  "latin": "Veronica teucrium",
-  "family": "Plantaginaceae",
-  "aliases": [],
-  "notes": "vápenec, zříceniny",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "rozrazil ožankový",
+  "other_names_cs": [],
+  "name_cs_raw": "rozrazil ožankový",
+  "name_latin": "Veronica teucrium",
+  "family_cs": "Jitrocelovité",
+  "family_latin": "Plantaginaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "modrá"
   ],
-  "months": [
-    5,
-    6,
-    7
+  "flowering_from": 5,
+  "flowering_to": 7,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "vápenec, zříceniny"
   ],
-  "color_detail": "modrá",
-  "flowering_detail": "květen–červenec",
-  "trait_source": "Atlas master 2026",
-  "images": [
-    {
-      "path": "images/photo-0679.jpg",
-      "thumb": "images/thumb-0679.jpg"
-    },
-    {
-      "path": "images/photo-0680.jpg",
-      "thumb": "images/thumb-0680.jpg"
-    }
+  "photos": [
+    "images/plant-veronica-teucrium-01.webp",
+    "images/plant-veronica-teucrium-02.webp"
   ],
-  "sources": []
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    569
+  ],
+  "source_texts": [
+    "Veronica teucrium – rozrazil ožankový – vápenec, zříceniny"
+  ]
 }

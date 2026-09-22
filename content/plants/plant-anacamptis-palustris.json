@@ -1,23 +1,37 @@
 {
   "id": "plant-anacamptis-palustris",
-  "czech": "vstavač bahenní",
-  "latin": "Anacamptis palustris",
-  "family": "Orchidaceae",
-  "aliases": [],
-  "notes": "C1t, CR",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "vstavač bahenní",
+  "other_names_cs": [],
+  "name_cs_raw": "vstavač bahenní",
+  "name_latin": "Anacamptis palustris",
+  "family_cs": "Vstavačovité / Orchideje",
+  "family_latin": "Orchidaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "3. Krytosemenné rostliny – Jednoděložné",
+  "flower_colors": [
     "růžová",
-    "červená",
-    "fialová"
+    "červenofialová"
   ],
-  "months": [
-    5,
-    6
+  "flowering_from": 5,
+  "flowering_to": 6,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "C1t, CR"
   ],
-  "color_detail": "růžová, červenofialová",
-  "flowering_detail": "květen–červen",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "photos": [],
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    210
+  ],
+  "source_texts": [
+    "Anacamptis palustris – vstavač bahenní – C1t, CR"
+  ]
 }

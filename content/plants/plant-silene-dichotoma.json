@@ -1,26 +1,37 @@
 {
   "id": "plant-silene-dichotoma",
-  "czech": "silenka rozsochatá",
-  "latin": "Silene dichotoma",
-  "family": "Caryophyllaceae",
-  "aliases": [],
-  "notes": "bílá, více květů",
-  "rank": "druh",
-  "colors": [
+  "name_cs": "silenka rozsochatá",
+  "other_names_cs": [],
+  "name_cs_raw": "silenka rozsochatá",
+  "name_latin": "Silene dichotoma",
+  "family_cs": "Hvozdíkovité",
+  "family_latin": "Caryophyllaceae",
+  "order_cs": "",
+  "order_latin": "",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
     "bílá",
     "růžová"
   ],
-  "months": [
-    5,
-    6,
-    7,
-    8,
-    9,
-    10
+  "flowering_from": 5,
+  "flowering_to": 10,
+  "habitat": [],
+  "plant_type": null,
+  "height_min_cm": null,
+  "height_max_cm": null,
+  "description": "",
+  "identification": "",
+  "notes": [
+    "bílá, více květů"
   ],
-  "color_detail": "bílá, růžová",
-  "flowering_detail": "květen–říjen",
-  "trait_source": "Atlas master 2026",
-  "images": [],
-  "sources": []
+  "photos": [],
+  "source": "seznam_rostlin_master.docx",
+  "verified": false,
+  "manual_review": false,
+  "source_paragraphs": [
+    540
+  ],
+  "source_texts": [
+    "Silene dichotoma – silenka rozsochatá – bílá, více květů"
+  ]
 }
