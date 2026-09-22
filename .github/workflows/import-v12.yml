@@ -41,7 +41,7 @@ jobs:
           set -euo pipefail
           git fetch origin main
           git checkout -B main origin/main
-          rsync -a --delete --exclude='.git' /tmp/atlas-package/ ./
+          rsync -a --delete --exclude='.git' --exclude='.github/workflows/' /tmp/atlas-package/ ./
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
