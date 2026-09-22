@@ -1,34 +1,40 @@
 name: Publish atlas
+
 on:
   push:
     branches: [main]
-  workflow_run:
-    workflows: ['Import atlas']
-    types: [completed]
+    paths:
+      - 'content/**'
+      - 'dist/**'
+      - 'tools/**'
+      - '.pages.yml'
+      - '.github/workflows/pages.yml'
   workflow_dispatch:
+
 permissions:
   contents: read
   pages: write
   id-token: write
+
 concurrency:
   group: pages
-  cancel-in-progress: false
+  cancel-in-progress: true
+
 jobs:
   deploy:
-    if: >-
-      (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success') ||
-      github.event_name == 'workflow_dispatch' ||
-      (github.event_name == 'push' && !contains(github.event.head_commit.message, '[import]'))
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
-          ref: main
-      - name: Build atlas data
-        run: python3 build.py
+          python-version: '3.12'
+      - name: Install image tools
+        run: python -m pip install --disable-pip-version-check pillow
+      - name: Build and validate atlas from Pages CMS
+        run: python tools/build_from_cms.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
