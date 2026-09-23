@@ -1,0 +1,20 @@
+{
+  "id": "plant-sisymbrium-loeselii",
+  "name_cs": "hulevník Loeselův",
+  "name_latin": "Sisymbrium loeselii",
+  "family_latin": "Brassicaceae",
+  "section": "4. Krytosemenné rostliny – Dvouděložné (Výběr těch nejvýznamnějších)",
+  "flower_colors": [
+    "žlutá"
+  ],
+  "flowering_from": 5,
+  "flowering_to": 8,
+  "photos": [
+    "images/img3975.jpg",
+    "images/img3972.jpg",
+    "images/img3976.jpg"
+  ],
+  "description": "ruderál, u cesty v trávníku v inravilánu",
+  "verified": true,
+  "manual_review": false
+}
